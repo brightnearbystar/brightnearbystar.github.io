@@ -6,6 +6,17 @@ layout: home
 ---
 
 <table>
+  <tr>
+	<th>Catalog ID</th>
+	<th>Common Name</th>
+	<th>RA</th>
+	<th>DEC</th>
+	<th>Apparent Magnitude</th>
+	<th>Absolute Magnitude</th>
+	<th>Stellar Class }}</th>
+	<th>Distance</th>
+	<th>Parallax</th>
+  </tr>
 {% for catalog in site.data.catalog %}
   <tr>
 	<td>{{ catalog.id }}</td>
