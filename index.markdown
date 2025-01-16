@@ -4,3 +4,19 @@
 
 layout: home
 ---
+
+<table>
+{% for catalog in site.data.catalog %}
+  <tr>
+	<td>{{ catalog.id }}</td>
+	<td>{{ catalog.name }}</td>
+	<td>{{ catalog.ra }}</td>
+	<td>{{ catalog.dec }}</td>
+	<td>{{ catalog.app_mag }}</td>
+	<td>{{ catalog.abs_mag }}</td>
+	<td>{{ catalog.stellar_class }}</td>
+	<td>{{ catalog.distance }}</td>
+	<td>{{ catalog.parallax }}</td>
+  </tr>
+{% endfor %}
+</table>

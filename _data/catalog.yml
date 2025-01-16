@@ -1,0 +1,19 @@
+- id: 1
+  name: "Tau Ceti"
+  ra: "01h 44m 04.08s"
+  dec: "-15° 56' 14.93\""
+  app_mag: "3.5"
+  abs_mag: "5.68"
+  stellar_class: "G8V"
+  distance: "11.91"
+  parallax: "273.8097 [0.1701]"
+
+- id: 2
+  name: "Epsilon Eridani"
+  ra: "03h 32m 55.84s"
+  dec: "-09° 27' 29.74\""
+  app_mag: "3.5"
+  abs_mag: "5.68"
+  stellar_class: "G8V"
+  distance: "11.91"
+  parallax: "273.8097 [0.1701]"
