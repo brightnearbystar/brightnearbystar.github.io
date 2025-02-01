@@ -13,9 +13,9 @@ layout: home
 	<th>DEC</th>
 	<th>Apparent Magnitude</th>
 	<th>Absolute Magnitude</th>
-	<th>Stellar Class }}</th>
+	<th>Stellar Class</th>
 	<th>Distance</th>
-	<th>Parallax</th>
+	<th>Parallax [error]</th>
   </tr>
 {% for catalog in site.data.catalog %}
   <tr>

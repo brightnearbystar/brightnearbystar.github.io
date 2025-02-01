@@ -37,3 +37,43 @@
   stellar_class: "F5IV-V"
   distance: "11.46"
   parallax: "284.56 [1.26]"
+
+- id: 5
+  name: "Groombridge 1618"
+  ra: "10h 11m 22.14s"
+  dec: "49° 27' 15.25\""
+  app_mag: "6.61"
+  abs_mag: "8.16"
+  stellar_class: "K6VeFe-1"
+  distance: "15.89"
+  parallax: "205.3148 [0.0224]"
+
+- id: 6
+  name: "Alpha Centauri"
+  ra: "14h 39m 36.49s"
+  dec: "-60° 50' 02.37\""
+  app_mag: "0.01"
+  abs_mag: "4.34"
+  stellar_class: "G2V"
+  distance: "4.34"
+  parallax: "750.81 [0.38]"
+
+- id: 7
+  name: "61 Cygni"
+  ra: "21h 06m 53.94s"
+  dec: "38° 44' 57.90\""
+  app_mag: "5.21"
+  abs_mag: "7.49"
+  stellar_class: "K5V"
+  distance: "11.4"
+  parallax: "285.9949 [0.0599]"
+
+- id: 8
+  name: "Epsilon Indi"
+  ra: "22h 03m 21.65s"
+  dec: "-56° 47' 09.52\""
+  app_mag: "4.69"
+  abs_mag: "6.9"
+  stellar_class: "K5Ve"
+  distance: "11.87"
+  parallax: "274.8431 [0.0956]"
