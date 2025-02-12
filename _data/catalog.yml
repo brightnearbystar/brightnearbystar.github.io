@@ -77,3 +77,123 @@
   stellar_class: "K5Ve"
   distance: "11.87"
   parallax: "274.8431 [0.0956]"
+
+- id: 9
+  name: "Zeta Tucanae"
+  ra: "00h 20m 04.26s"
+  dec: "-64° 52' 29.26\""
+  app_mag: "4.23"
+  abs_mag: "4.56"
+  stellar_class: "F9.5V"
+  distance: "28.07"
+  parallax: "116.1826 [0.1334]"
+
+- id: 10
+  name: "Beta Hydri"
+  ra: "00h 25m 45.07s"
+  dec: "-77° 15' 15.29\""
+  app_mag: "2.79"
+  abs_mag: "3.46"
+  stellar_class: "G0V"
+  distance: "24.33"
+  parallax: "134.07 [0.11]"
+
+- id: 11
+  name: "96 G. Piscium"
+  ra: "00h 48m 22.98s"
+  dec: "05° 16' 50.21\""
+  app_mag: "5.74"
+  abs_mag: "6.38"
+  stellar_class: "K2.5V"
+  distance: "24.25"
+  parallax: "134.4948 [0.0578]"
+
+- id: 12
+  name: "Eta Cassiopeiae"
+  ra: "00h 49m 06.29s"
+  dec: "57° 48' 54.64\""
+  app_mag: "3.44"
+  abs_mag: "4.59"
+  stellar_class: "F9V"
+  distance: "19.32"
+  parallax: "168.8322 [0.1663]"
+
+- id: 13
+  name: "Mu Cassiopeiae"
+  ra: "01h 08m 16.30s"
+  dec: "54° 55' 12.56\""
+  app_mag: "5.17"
+  abs_mag: "5.78"
+  stellar_class: "G5Vb"
+  distance: "25.03"
+  parallax: "130.2881 [0.4348]"
+
+- id: 14
+  name: "p Eridani"
+  ra: "01h 39m 47.81s"
+  dec: "-56° 11' 35.94\""
+  app_mag: "5.69"
+  abs_mag: "6.27"
+  stellar_class: "K2V"
+  distance: "25.51"
+  parallax: "122.1088 [0.0365]"
+
+- id: 15
+  name: "107 Piscium"
+  ra: "01h 42m 29.76s"
+  dec: "20° 16' 06.65\""
+  app_mag: "5.24"
+  abs_mag: "5.86"
+  stellar_class: "K1V"
+  distance: "24.93"
+  parallax: "130.8234 [0.1532]"
+
+- id: 16
+  name: "Gliese 105"
+  ra: "02h 36m 04.90s"
+  dec: "06° 53' 12.38\""
+  app_mag: "5.79"
+  abs_mag: "6.5"
+  stellar_class: "K3V"
+  distance: "23.58"
+  parallax: "138.3400 [0.3177]"
+
+- id: 17
+  name: "Kappa1 Ceti"
+  ra: "03h 19m 21.70s"
+  dec: "03° 22' 12.71\""
+  app_mag: "4.85"
+  abs_mag: "5.03"
+  stellar_class: "G5V"
+  distance: "30.26"
+  parallax: "107.8023 [0.1838]"
+
+- id: 18
+  name: "82 G. Eridani"
+  ra: "03h 19m 55.65s"
+  dec: "-43° 04' 11.22\""
+  app_mag: "4.27"
+  abs_mag: "5.35"
+  stellar_class: "G6V"
+  distance: "19.7"
+  parallax: "165.5242 [0.0784]"
+
+- id: 19
+  name: "Rana"
+  ra: "03h 43m 14.90s"
+  dec: "-09° 45' 48.21\""
+  app_mag: "3.54"
+  abs_mag: "3.74"
+  stellar_class: "K0+IV"
+  distance: "29.64"
+  parallax: "110.0254 [0.1944]"
+
+- id: 20
+  name: "40 Eridani"
+  ra: "04h 15m 16.32s"
+  dec: "-07° 39' 10.33\""
+  app_mag: "4.43"
+  abs_mag: "5.92"
+  stellar_class: "K0V"
+  distance: "16.34"
+  parallax: "199.6080 [0.1208]"
