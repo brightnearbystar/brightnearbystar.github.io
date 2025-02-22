@@ -197,3 +197,103 @@
   stellar_class: "K0V"
   distance: "16.34"
   parallax: "199.6080 [0.1208]"
+
+- id: 21
+  name: "Pi3 Orionis"
+  ra: "04h 49m 50.41s"
+  dec: "06° 57' 40.60\""
+  app_mag: "3.19"
+  abs_mag: "3.67"
+  stellar_class: "F6V"
+  distance: "26.32"
+  parallax: "124.6198 [0.2246]"
+
+- id: 22
+  name: "284 G. Eridani"
+  ra: "05h 00m 49.00s"
+  dec: "-05° 45' 13.22\""
+  app_mag: "6.21"
+  abs_mag: "6.49"
+  stellar_class: "K3+V"
+  distance: "28.85"
+  parallax: "113.0715 [0.0222]"
+
+- id: 23
+  name: "Gamma Leporis"
+  ra: "05h 44m 27.79s"
+  dec: "-22° 26' 54.19\""
+  app_mag: "3.6"
+  abs_mag: "3.83"
+  stellar_class: "F6V"
+  distance: "29.04"
+  parallax: "112.2960 [0.1452]"
+
+- id: 24
+  name: "Chi1 Orionis"
+  ra: "05h 54m 22.98s"
+  dec: "20° 16' 34.22\""
+  app_mag: "4.4"
+  abs_mag: "4.7"
+  stellar_class: "G0V"
+  distance: "28.26"
+  parallax: "115.43 [0.27]"
+
+- id: 25
+  name: "Gliese 250"
+  ra: "06h 52m 18.05s"
+  dec: "-05° 10' 25.37\""
+  app_mag: "6.59"
+  abs_mag: "6.88"
+  stellar_class: "K3.5V"
+  distance: "28.52"
+  parallax: "114.3547 [0.0418]"
+
+- id: 26
+  name: "Xi Ursae Majoris"
+  ra: "11h 18m 10.93s"
+  dec: "31° 31' 45.44\""
+  app_mag: "4.41"
+  abs_mag: "4.25"
+  stellar_class: "F8.5V"
+  distance: "28.81"
+  parallax: "114.4867 [0.4316]"
+
+- id: 27
+  name: "289 G. Hydrae"
+  ra: "11h 34m 29.49s"
+  dec: "-32° 49' 52.82\""
+  app_mag: "5.98"
+  abs_mag: "6.06"
+  stellar_class: "K0V"
+  distance: "31.18"
+  parallax: "104.6133 [0.0277]"
+
+- id: 28
+  name: "61 Ursae Majoris"
+  ra: "11h 41m 03.02s"
+  dec: "34° 12' 05.88\""
+  app_mag: "5.34"
+  abs_mag: "5.41"
+  stellar_class: "G8V"
+  distance: "31.23"
+  parallax: "104.4252 [0.1005]"
+
+- id: 29
+  name: "66 G. Centauri"
+  ra: "11h 46m 31.07s"
+  dec: "-40° 30' 01.29\""
+  app_mag: "4.88"
+  abs_mag: "5.06"
+  stellar_class: "G2V"
+  distance: "30.4"
+  parallax: "107.3024 [0.0873]"
+
+- id: 30
+  name: "Argelanders Star"
+  ra: "11h 52m 58.77s"
+  dec: "37° 43' 07.25\""
+  app_mag: "6.45"
+  abs_mag: "6.61"
+  stellar_class: "K1V_Fe-1.5"
+  distance: "29.91"
+  parallax: "109.0296 [0.0197]"
