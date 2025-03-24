@@ -147,6 +147,10 @@
   stellar_class: "K2.5V"
   distance: "24.25"
   parallax: "134.4948 [0.0578]"
+  links:
+    wikipedia: "HD_4628"
+    simbad: "HD 4628"
+    stellar_catalog: "96-g-piscium"
 
 - id: 12
   name: "Eta Cassiopeiae"
@@ -157,6 +161,10 @@
   stellar_class: "F9V"
   distance: "19.32"
   parallax: "168.8322 [0.1663]"
+  links:
+    wikipedia: "Eta_Cassiopeiae"
+    simbad: "* eta Cas"
+    stellar_catalog: "eta-cassiopeiae-a"
 
 - id: 13
   name: "Mu Cassiopeiae"
@@ -167,6 +175,10 @@
   stellar_class: "G5Vb"
   distance: "25.03"
   parallax: "130.2881 [0.4348]"
+  links:
+    wikipedia: "Mu_Cassiopeiae"
+    simbad: "* mu. Cas"
+    stellar_catalog: "mu-cassiopeiae-a"
 
 - id: 14
   name: "p Eridani"
@@ -177,6 +189,10 @@
   stellar_class: "K2V"
   distance: "25.51"
   parallax: "122.1088 [0.0365]"
+  links:
+    wikipedia: "P_Eridani"
+    simbad: "* p Eri A"
+    stellar_catalog: "p-eridani-a"
 
 - id: 15
   name: "107 Piscium"
@@ -187,6 +203,10 @@
   stellar_class: "K1V"
   distance: "24.93"
   parallax: "130.8234 [0.1532]"
+  links:
+    wikipedia: "107_Piscium"
+    simbad: "* 107 Psc"
+    stellar_catalog: "107-piscium"
 
 - id: 16
   name: "Gliese 105"
@@ -197,6 +217,10 @@
   stellar_class: "K3V"
   distance: "23.58"
   parallax: "138.3400 [0.3177]"
+  links:
+    wikipedia: "Gliese_105"
+    simbad: "HD 16160"
+    stellar_catalog: "gliese-105-a"
 
 - id: 17
   name: "Kappa1 Ceti"
@@ -207,6 +231,10 @@
   stellar_class: "G5V"
   distance: "30.26"
   parallax: "107.8023 [0.1838]"
+  links:
+    wikipedia: "Kappa1_Ceti"
+    simbad: "* kap01 Cet"
+    stellar_catalog: "kappa-1-ceti"
 
 - id: 18
   name: "82 G. Eridani"
@@ -217,6 +245,10 @@
   stellar_class: "G6V"
   distance: "19.7"
   parallax: "165.5242 [0.0784]"
+  links:
+    wikipedia: "82_G._Eridani"
+    simbad: "* e Eri"
+    stellar_catalog: "82-g-eridani"
 
 - id: 19
   name: "Rana"
@@ -227,6 +259,10 @@
   stellar_class: "K0+IV"
   distance: "29.64"
   parallax: "110.0254 [0.1944]"
+  links:
+    wikipedia: "Delta_Eridani"
+    simbad: "* del Eri"
+    stellar_catalog: "rana"
 
 - id: 20
   name: "40 Eridani"
@@ -237,6 +273,10 @@
   stellar_class: "K0V"
   distance: "16.34"
   parallax: "199.6080 [0.1208]"
+  links:
+    wikipedia: "40_Eridani"
+    simbad: "* omi02 Eri"
+    stellar_catalog: "40-eridani-a"
 
 - id: 21
   name: "Pi3 Orionis"
