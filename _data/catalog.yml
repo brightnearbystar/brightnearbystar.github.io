@@ -21,6 +21,10 @@
   stellar_class: "K2V"
   distance: "10.5"
   parallax: "310.5773 [0.1355]"
+  links:
+    wikipedia: "Epsilon_Eridani"
+    simbad: "* eps Eri"
+    stellar_catalog: "epsilon-eridani"
 
 - id: 3
   name: "Sirius"
@@ -31,6 +35,10 @@
   stellar_class: "A0mA1Va"
   distance: "8.6"
   parallax: "379.21 [1.58]"
+  links:
+    wikipedia: "Sirius"
+    simbad: "* alf CMa"
+    stellar_catalog: "sirius-a"
 
 - id: 4
   name: "Procyon"
@@ -41,6 +49,10 @@
   stellar_class: "F5IV-V"
   distance: "11.46"
   parallax: "284.56 [1.26]"
+  links:
+    wikipedia: "Procyon"
+    simbad: "* alf CMi"
+    stellar_catalog: "procyon-a"
 
 - id: 5
   name: "Groombridge 1618"
@@ -51,6 +63,10 @@
   stellar_class: "K6VeFe-1"
   distance: "15.89"
   parallax: "205.3148 [0.0224]"
+  links:
+    wikipedia: "Groombridge_1618"
+    simbad: "HD 88230"
+    stellar_catalog: "groombridge-1618"
 
 - id: 6
   name: "Alpha Centauri"

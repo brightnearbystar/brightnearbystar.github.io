@@ -29,9 +29,9 @@ layout: home
 	<td>{{ catalog.stellar_class }}</td>
 	<td>{{ catalog.distance }}</td>
 	<td>{{ catalog.parallax }}</td>
-	<td>{% if catalog.links.wikipedia %}<a href="https://en.wikipedia.org/wiki/{{ catalog.links.wikipedia }}">Wikipedia</a>{% endif %}
-	{% if catalog.links.simbad %} | <a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident={{ catalog.links.simbad }}">Simbad</a>{% endif %}
-	{% if catalog.links.stellar_catalog %} | <a href="https://www.stellarcatalog.com/stars/{{ catalog.links.stellar_catalog }}">Stellar Catalog</a>{% endif %}</td>
+	<td>{% if catalog.links.wikipedia %}<a href="https://en.wikipedia.org/wiki/{{ catalog.links.wikipedia }}" target="_blank">Wikipedia</a>{% endif %}
+	{% if catalog.links.simbad %}<br /><a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident={{ catalog.links.simbad }}" target="_blank">Simbad</a>{% endif %}
+	{% if catalog.links.stellar_catalog %}<br /><a href="https://www.stellarcatalog.com/stars/{{ catalog.links.stellar_catalog }}" target="_blank">Stellar Catalog</a>{% endif %}</td>
   </tr>
 {% endfor %}
 </table>
