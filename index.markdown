@@ -16,6 +16,7 @@ layout: home
 	<th>Stellar Class</th>
 	<th>Distance</th>
 	<th>Parallax [error]</th>
+	<th>External Links</th>
   </tr>
 {% for catalog in site.data.catalog %}
   <tr>
@@ -28,6 +29,9 @@ layout: home
 	<td>{{ catalog.stellar_class }}</td>
 	<td>{{ catalog.distance }}</td>
 	<td>{{ catalog.parallax }}</td>
+	<td>{% if catalog.links.wikipedia %}<a href="https://en.wikipedia.org/wiki/{{ catalog.links.wikipedia }}">Wikipedia</a>
+	{% if catalog.links.simbad %} | <a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident={{ catalog.links.simbad }}">Simbad</a>
+	{% if catalog.links.stellar_catalog %} | <a href="https://www.stellarcatalog.com/stars/{{ catalog.links.stellar_catalog }}">Stellar Catalog</a></td>
   </tr>
 {% endfor %}
 </table>

@@ -7,6 +7,10 @@
   stellar_class: "G8V"
   distance: "11.91"
   parallax: "273.8097 [0.1701]"
+  links:
+    wikipedia: "Tau_Ceti"
+    simbad: "* tau Cet"
+    stellar_catalog: "tau-ceti"
 
 - id: 2
   name: "Epsilon Eridani"
