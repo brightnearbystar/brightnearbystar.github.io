@@ -287,6 +287,10 @@
   stellar_class: "F6V"
   distance: "26.32"
   parallax: "124.6198 [0.2246]"
+  links:
+    wikipedia: "Pi3_Orionis"
+    simbad: "* pi.03 Ori"
+    stellar_catalog: "pi3-orionis"
 
 - id: 22
   name: "284 G. Eridani"
@@ -297,6 +301,10 @@
   stellar_class: "K3+V"
   distance: "28.85"
   parallax: "113.0715 [0.0222]"
+  links:
+    wikipedia: "HR_1614"
+    simbad: "HD 32147"
+    stellar_catalog: "284-g-eridani"
 
 - id: 23
   name: "Gamma Leporis"
@@ -307,6 +315,10 @@
   stellar_class: "F6V"
   distance: "29.04"
   parallax: "112.2960 [0.1452]"
+  links:
+    wikipedia: "Gamma_Leporis"
+    simbad: "* gam Lep"
+    stellar_catalog: "gamma-leporis"
 
 - id: 24
   name: "Chi1 Orionis"
@@ -317,6 +329,10 @@
   stellar_class: "G0V"
   distance: "28.26"
   parallax: "115.43 [0.27]"
+  links:
+    wikipedia: "Chi1_Orionis"
+    simbad: "* chi01 Ori"
+    stellar_catalog: "chi1-orionis-a"
 
 - id: 25
   name: "Gliese 250"
@@ -327,6 +343,10 @@
   stellar_class: "K3.5V"
   distance: "28.52"
   parallax: "114.3547 [0.0418]"
+  links:
+    wikipedia: "HD_50281"
+    simbad: "HD 50281"
+    stellar_catalog: "gliese-250-a"
 
 - id: 26
   name: "Xi Ursae Majoris"
@@ -477,3 +497,143 @@
   stellar_class: "G9V"
   distance: "28.67"
   parallax: "113.7513 [0.0725]"
+
+- id: 41
+  name: "Gliese 673"
+  ra: "17h 25m 45.23s"
+  dec: "02° 06' 41.12\""
+  app_mag: "7.56"
+  abs_mag: "8.1"
+  stellar_class: "K7V"
+  distance: "25.16"
+  parallax: "129.6459 [0.0175]"
+  links:
+    wikipedia: "Gliese_673"
+    simbad: "HD 157881"
+    stellar_catalog: "gliese-673"
+
+- id: 42
+  name: "Mu Herculis"
+  ra: "17h 46m 27.55s"
+  dec: "27° 43' 14.56\""
+  app_mag: "3.42"
+  abs_mag: "3.8"
+  stellar_class: "G5IV"
+  distance: "27.2"
+  parallax: "119.9248 [0.1543]"
+  links:
+    wikipedia: "Mu_Herculis"
+    simbad: "* mu.01 Her"
+    stellar_catalog: "mu-herculis-aa"
+
+- id: 43
+  name: "70 Ophiuchi"
+  ra: "18h 05m 27.25s"
+  dec: "02° 30' 00.53\""
+  app_mag: "4.24"
+  abs_mag: "5.71"
+  stellar_class: "K0V"
+  distance: "16.58"
+  parallax: "195.5674 [0.1964]"
+  links:
+    wikipedia: "70_Ophiuchi"
+    simbad: "* 70 Oph"
+    stellar_catalog: "70-ophiuchi-a"
+
+- id: 44
+  name: "Chi Draconis"
+  ra: "18h 21m 03.38s"
+  dec: "72° 43' 58.25\""
+  app_mag: "3.58"
+  abs_mag: "4.15"
+  stellar_class: "F7V"
+  distance: "26.28"
+  parallax: "124.11 [0.87]"
+  links:
+    wikipedia: "Chi_Draconis"
+    simbad: "* chi Dra"
+    stellar_catalog: "chi-draconis-a"
+
+- id: 45
+  name: "Vega"
+  ra: "18h 36m 56.34s"
+  dec: "38° 47' 01.28\""
+  app_mag: "0.03"
+  abs_mag: "0.58"
+  stellar_class: "A0Va"
+  distance: "25.04"
+  parallax: "130.23 [0.36]"
+  links:
+    wikipedia: "Vega"
+    simbad: "* alf Lyr"
+    stellar_catalog: "vega"
+
+- id: 46
+  name: "Sigma Draconis"
+  ra: "19h 32m 21.59s"
+  dec: "69° 39' 40.24\""
+  app_mag: "4.68"
+  abs_mag: "5.87"
+  stellar_class: "K0V"
+  distance: "18.8"
+  parallax: "173.4939 [0.0748]"
+  links:
+    wikipedia: "Sigma_Draconis"
+    simbad: "* sig Dra"
+    stellar_catalog: "sigma-draconis"
+
+- id: 47
+  name: "Altair"
+  ra: "19h 50m 47.00s"
+  dec: "08° 52' 05.96\""
+  app_mag: "0.76"
+  abs_mag: "2.21"
+  stellar_class: "A7Vn"
+  distance: "16.73"
+  parallax: "194.95 [0.57]"
+  links:
+    wikipedia: "Altair"
+    simbad: "* alf Aql"
+    stellar_catalog: "altair"
+
+- id: 48
+  name: "Delta Pavonis"
+  ra: "20h 08m 42.61s"
+  dec: "-66° 10' 55.44\""
+  app_mag: "3.56"
+  abs_mag: "4.62"
+  stellar_class: "G8IV"
+  distance: "19.89"
+  parallax: "163.9544 [0.1222]"
+  links:
+    wikipedia: "Delta_Pavonis"
+    simbad: "* del Pav"
+    stellar_catalog: "delta-pavonis"
+
+- id: 49
+  name: "279 G. Sagittari"
+  ra: "20h 11m 11.94s"
+  dec: "-36° 06' 04.35\""
+  app_mag: "5.32"
+  abs_mag: "6.42"
+  stellar_class: "K2.5V"
+  distance: "19.61"
+  parallax: "166.3272 [0.1065]"
+  links:
+    wikipedia: "HR_7703"
+    simbad: "HD 191408"
+    stellar_catalog: "279-g-sagittari-a"
+
+- id: 50
+  name: "5 G. Capricorni"
+  ra: "20h 15m 07.39s"
+  dec: "-27° 01' 58.71\""
+  app_mag: "5.72"
+  abs_mag: "6"
+  stellar_class: "K2+V"
+  distance: "28.74"
+  parallax: "113.4872 [0.0516]"
+  links:
+    wikipedia: "HD_192310"
+    simbad: "HD 192310"
+    stellar_catalog: "5-g-capricorni"
