@@ -77,6 +77,10 @@
   stellar_class: "G2V"
   distance: "4.34"
   parallax: "750.81 [0.38]"
+  links:
+    wikipedia: "Alpha_Centauri"
+    simbad: "* alf Cen A"
+    stellar_catalog: "alpha-centauri-a"
 
 - id: 7
   name: "61 Cygni"
@@ -87,6 +91,10 @@
   stellar_class: "K5V"
   distance: "11.4"
   parallax: "285.9949 [0.0599]"
+  links:
+    wikipedia: "61_Cygni"
+    simbad: "* 61 Cyg A"
+    stellar_catalog: "61-cygni-a"
 
 - id: 8
   name: "Epsilon Indi"
@@ -97,6 +105,10 @@
   stellar_class: "K5Ve"
   distance: "11.87"
   parallax: "274.8431 [0.0956]"
+  links:
+    wikipedia: "Epsilon_Indi"
+    simbad: "* eps Ind"
+    stellar_catalog: "epsilon-indi-a"
 
 - id: 9
   name: "Zeta Tucanae"
@@ -107,6 +119,10 @@
   stellar_class: "F9.5V"
   distance: "28.07"
   parallax: "116.1826 [0.1334]"
+  links:
+    wikipedia: "Zeta_Tucanae"
+    simbad: "* zet Tuc"
+    stellar_catalog: "zeta-tucanae"
 
 - id: 10
   name: "Beta Hydri"
@@ -117,6 +133,10 @@
   stellar_class: "G0V"
   distance: "24.33"
   parallax: "134.07 [0.11]"
+  links:
+    wikipedia: "Beta_Hydri"
+    simbad: "* bet Hyi"
+    stellar_catalog: "beta-hydri"
 
 - id: 11
   name: "96 G. Piscium"
