@@ -357,6 +357,10 @@
   stellar_class: "F8.5V"
   distance: "28.81"
   parallax: "114.4867 [0.4316]"
+  links:
+    wikipedia: "Xi_Ursae_Majoris"
+    simbad: "* ksi UMa"
+    stellar_catalog: "xi-ursae-majoris-aa"
 
 - id: 27
   name: "289 G. Hydrae"
@@ -367,6 +371,10 @@
   stellar_class: "K0V"
   distance: "31.18"
   parallax: "104.6133 [0.0277]"
+  links:
+    wikipedia: "HR_4458"
+    simbad: "* 20 Crt"
+    stellar_catalog: "289-g-hydrae-a"
 
 - id: 28
   name: "61 Ursae Majoris"
@@ -377,6 +385,10 @@
   stellar_class: "G8V"
   distance: "31.23"
   parallax: "104.4252 [0.1005]"
+  links:
+    wikipedia: "61_Ursae_Majoris"
+    simbad: "* 61 UMa"
+    stellar_catalog: "61-ursae-majoris"
 
 - id: 29
   name: "66 G. Centauri"
@@ -387,6 +399,10 @@
   stellar_class: "G2V"
   distance: "30.4"
   parallax: "107.3024 [0.0873]"
+  links:
+    wikipedia: "HD_102365"
+    simbad: "HD 102365"
+    stellar_catalog: "66-g-centauri-a"
 
 - id: 30
   name: "Argelanders Star"
@@ -397,6 +413,10 @@
   stellar_class: "K1V_Fe-1.5"
   distance: "29.91"
   parallax: "109.0296 [0.0197]"
+  links:
+    wikipedia: "Groombridge_1830"
+    simbad: "HD 103095"
+    stellar_catalog: "argelanders-star"
 
 - id: 31
   name: "Beta Canum Venaticorum"
@@ -637,3 +657,143 @@
     wikipedia: "HD_192310"
     simbad: "HD 192310"
     stellar_catalog: "5-g-capricorni"
+
+- id: 51
+  name: "Gamma Pavonis"
+  ra: "21h 26m 26.60s"
+  dec: "-65° 21' 58.31\""
+  app_mag: "4.22"
+  abs_mag: "4.39"
+  stellar_class: "F9VFe-1.4CH-0.7"
+  distance: "30.2"
+  parallax: "108.0102 [0.1061]"
+  links:
+    wikipedia: "Gamma_Pavonis"
+    simbad: "* gam Pav"
+    stellar_catalog: "gamma-pavonis"
+
+- id: 52
+  name: "Fomalhaut"
+  ra: "22h 57m 39.05s"
+  dec: "-29° 37' 20.05\""
+  app_mag: "1.16"
+  abs_mag: "1.74"
+  stellar_class: "A4V"
+  distance: "25.13"
+  parallax: "129.81 [0.47]"
+  links:
+    wikipedia: "Fomalhaut"
+    simbad: "* alf PsA"
+    stellar_catalog: "fomalhaut-a"
+
+- id: 53
+  name: "Gliese 884"
+  ra: "23h 00m 16.12s"
+  dec: "-22° 31' 27.65\""
+  app_mag: "7.87"
+  abs_mag: "8.33"
+  stellar_class: "K7+Vk"
+  distance: "26.85"
+  parallax: "121.4724 [0.0249]"
+  links:
+    wikipedia: ""
+    simbad: "HD 217357"
+    stellar_catalog: "gliese-884"
+
+- id: 54
+  name: "Gliese 892"
+  ra: "23h 13m 16.97s"
+  dec: "57° 10' 06.08\""
+  app_mag: "5.57"
+  abs_mag: "6.49"
+  stellar_class: "K3V"
+  distance: "21.34"
+  parallax: "152.8640 [0.0494]"
+  links:
+    wikipedia: "HD_219134"
+    simbad: "HD 219134"
+    stellar_catalog: "gliese-892"
+
+- id: 55
+  name: "85 Pegasi"
+  ra: "00h 02m 10.35s"
+  dec: "27° 04' 55.00\""
+  app_mag: "5.75"
+  abs_mag: "5.34"
+  stellar_class: "G5VbFe-2"
+  distance: "40.18"
+  parallax: "81.1790 [0.4490]"
+  links:
+    wikipedia: "85_Pegasi"
+    simbad: "* 85 Peg"
+    stellar_catalog: "85-pegasi"
+
+- id: 56
+  name: "V439 Andromedae"
+  ra: "00h 06m 36.78s"
+  dec: "29° 01' 17.41\""
+  app_mag: "6.07"
+  abs_mag: "5.23"
+  stellar_class: "G8"
+  distance: "44.9"
+  parallax: "72.6419 [0.0292]"
+  links:
+    wikipedia: "HD_166"
+    simbad: "HD 166"
+    stellar_catalog: "v439-andromedae"
+
+- id: 57
+  name: "BD+40 45"
+  ra: "00h 17m 06.37s"
+  dec: "40° 56' 53.87\""
+  app_mag: "8.99"
+  abs_mag: "8.11"
+  stellar_class: "K7"
+  distance: "47.91"
+  parallax: "68.0846 [0.0209]"
+  links:
+    wikipedia: ""
+    simbad: "Gliese 14"
+    stellar_catalog: "bd-40-45"
+
+- id: 58
+  name: "54 Piscium"
+  ra: "00h 39m 21.81s"
+  dec: "21° 15' 01.71\""
+  app_mag: "5.88"
+  abs_mag: "5.65"
+  stellar_class: "K0.5V"
+  distance: "36.23"
+  parallax: "90.0248 [0.0482]"
+  links:
+    wikipedia: "54_Piscium"
+    simbad: "* 54 Psc"
+    stellar_catalog: "54-piscium-a"
+
+- id: 59
+  name: "HD 5133"
+  ra: "00h 53m 01.13s"
+  dec: "-30° 21' 24.89\""
+  app_mag: "7.48"
+  abs_mag: "6.72"
+  stellar_class: "K2.5Vk:"
+  distance: "45.47"
+  parallax: "71.7259 [0.0267]"
+  links:
+    wikipedia: "Gliese_42"
+    simbad: "HD 5133"
+    stellar_catalog: "hd-5133"
+
+- id: 60
+  name: "Upsilon Andromedae"
+  ra: "01h 36m 47.84s"
+  dec: "41° 24' 19.65\""
+  app_mag: "4.1"
+  abs_mag: "2.86"
+  stellar_class: "F9V"
+  distance: "43.96"
+  parallax: "74.1940 [0.2083]"
+  links:
+    wikipedia: "Upsilon_Andromedae"
+    simbad: "* ups And"
+    stellar_catalog: "upsilon-andromedae-a"
