@@ -696,7 +696,7 @@
   distance: "26.85"
   parallax: "121.4724 [0.0249]"
   links:
-    wikipedia: ""
+    wikipedia: ~
     simbad: "HD 217357"
     stellar_catalog: "gliese-884"
 
@@ -752,7 +752,7 @@
   distance: "47.91"
   parallax: "68.0846 [0.0209]"
   links:
-    wikipedia: ""
+    wikipedia: ~
     simbad: "Gliese 14"
     stellar_catalog: "bd-40-45"
 
