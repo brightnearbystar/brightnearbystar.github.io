@@ -427,6 +427,10 @@
   stellar_class: "G0V"
   distance: "27.63"
   parallax: "118.0266 [0.1530]"
+  links:
+    wikipedia: "Beta_Canum_Venaticorum"
+    simbad: "* bet CVn"
+    stellar_catalog: "beta-canum-venaticorum"
 
 - id: 32
   name: "Beta Comae Berenices"
@@ -437,6 +441,10 @@
   stellar_class: "F9.5V"
   distance: "30"
   parallax: "108.7250 [0.1645]"
+  links:
+    wikipedia: "Beta_Comae_Berenices"
+    simbad: "* bet Com"
+    stellar_catalog: "beta-comae-berenices"
 
 - id: 33
   name: "61 Virginis"
@@ -447,6 +455,10 @@
   stellar_class: "G6.5V"
   distance: "27.84"
   parallax: "117.1726 [0.1456]"
+  links:
+    wikipedia: "61_Virginis"
+    simbad: "* 61 Vir"
+    stellar_catalog: "61-virginis"
 
 - id: 34
   name: "Xi Boötis"
@@ -457,6 +469,10 @@
   stellar_class: "G8Ve"
   distance: "21.89"
   parallax: "148.0695 [0.1317]"
+  links:
+    wikipedia: "Xi_Boötis"
+    simbad: "* ksi Boo"
+    stellar_catalog: "xi-bootis-a"
 
 - id: 35
   name: "33 G. Librae"
@@ -467,6 +483,10 @@
   stellar_class: "K4V"
   distance: "19.2"
   parallax: "169.8843 [0.0653]"
+  links:
+    wikipedia: "Gliese_570"
+    simbad: "HD 131977"
+    stellar_catalog: "33-g-librae-a"
 
 - id: 36
   name: "12 Ophiuchi"
@@ -797,3 +817,143 @@
     wikipedia: "Upsilon_Andromedae"
     simbad: "* ups And"
     stellar_catalog: "upsilon-andromedae-a"
+
+- id: 61
+  name: "HD 10307"
+  ra: "01h 41m 47.13s"
+  dec: "42° 36' 48.22\""
+  app_mag: "4.96"
+  abs_mag: "4.3"
+  stellar_class: "G1V"
+  distance: "47.95"
+  parallax: "68.0244 [0.3718]"
+  links:
+    wikipedia: "HD_10307"
+    simbad: "HD 10307"
+    stellar_catalog: "hd-10307"
+
+- id: 62
+  name: "HD 10436"
+  ra: "01h 43m 40.72s"
+  dec: "63° 49' 24.24\""
+  app_mag: "8.41"
+  abs_mag: "7.74"
+  stellar_class: "K5Vbe"
+  distance: "44.09"
+  parallax: "73.9769 [0.0183]"
+  links:
+    wikipedia: "Gliese_69"
+    simbad: "HD 10436"
+    stellar_catalog: "hd-10436"
+
+- id: 63
+  name: "Gliese 75"
+  ra: "01h 47m 44.83s"
+  dec: "63° 51' 09.01\""
+  app_mag: "5.63"
+  abs_mag: "5.64"
+  stellar_class: "K0V"
+  distance: "32.75"
+  parallax: "99.5902 [0.0438]"
+  links:
+    wikipedia: "HR_511"
+    simbad: "HD 10780"
+    stellar_catalog: "gliese-75"
+
+- id: 64
+  name: "Gliese 86"
+  ra: "02h 10m 25.92s"
+  dec: "-50° 49' 25.47\""
+  app_mag: "6.12"
+  abs_mag: "5.93"
+  stellar_class: "K1.5V"
+  distance: "35.1"
+  parallax: "92.9251 [0.0461]"
+  links:
+    wikipedia: "Gliese_86"
+    simbad: "HD 13445"
+    stellar_catalog: "gliese-86-a"
+
+- id: 65
+  name: "Delta Trianguli"
+  ra: "02h 17m 03.23s"
+  dec: "34° 13' 27.24\""
+  app_mag: "4.84"
+  abs_mag: "4.66"
+  stellar_class: "G0.5VFe-0.5"
+  distance: "35.59"
+  parallax: "91.6504 [0.4271]"
+  links:
+    wikipedia: "Delta_Trianguli"
+    simbad: "* del Tri"
+    stellar_catalog: "delta-trianguli-a"
+
+- id: 66
+  name: "HD 14412"
+  ra: "02h 18m 58.50s"
+  dec: "-25° 56' 44.47\""
+  app_mag: "6.34"
+  abs_mag: "5.81"
+  stellar_class: "G8V"
+  distance: "41.86"
+  parallax: "77.9140 [0.0295]"
+  links:
+    wikipedia: "HD_14412"
+    simbad: "HD 14412"
+    stellar_catalog: "hd-14412"
+
+- id: 67
+  name: "Theta Persei"
+  ra: "02h 44m 11.99s"
+  dec: "49° 13' 42.41\""
+  app_mag: "4.11"
+  abs_mag: "3.85"
+  stellar_class: "F8V"
+  distance: "36.37"
+  parallax: "89.6850 [0.1638]"
+  links:
+    wikipedia: "Theta_Persei"
+    simbad: "* tet Per"
+    stellar_catalog: "theta-persei-a"
+
+- id: 68
+  name: "Tau1 Eridani"
+  ra: "02h 45m 06.20s"
+  dec: "-18° 34' 21.44\""
+  app_mag: "4.46"
+  abs_mag: "3.74"
+  stellar_class: "F7V"
+  distance: "46.56"
+  parallax: "70.0459 [0.1599]"
+  links:
+    wikipedia: "Tau1_Eridani"
+    simbad: "* tau01 Eri"
+    stellar_catalog: "tau1-eridani"
+
+- id: 69
+  name: "32 G. Eridani"
+  ra: "02h 52m 32.13s"
+  dec: "-12° 46' 10.97\""
+  app_mag: "6.05"
+  abs_mag: "5.97"
+  stellar_class: "K1V"
+  distance: "33.79"
+  parallax: "96.5200 [0.0258]"
+  links:
+    wikipedia: "HD_17925"
+    simbad: "HD 17925"
+    stellar_catalog: "32-g-eridani"
+
+- id: 70
+  name: "HD 19305"
+  ra: "03h 06m 26.74s"
+  dec: "01° 57' 54.63\""
+  app_mag: "9.05"
+  abs_mag: "8.21"
+  stellar_class: "M0V"
+  distance: "48.01"
+  parallax: "67.9335 [0.0274]"
+  links:
+    wikipedia: ~
+    simbad: "HD 19305"
+    stellar_catalog: "hd-19305"
