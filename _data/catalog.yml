@@ -497,6 +497,10 @@
   stellar_class: "K1V"
   distance: "32.27"
   parallax: "101.0719 [0.0501]"
+  links:
+    wikipedia: "12_Ophiuchi"
+    simbad: "* 12 Oph"
+    stellar_catalog: "12-ophiuchi"
 
 - id: 37
   name: "Gliese 638"
@@ -507,6 +511,10 @@
   stellar_class: "K7.5Ve"
   distance: "32.11"
   parallax: "101.5615 [0.0150]"
+  links:
+    wikipedia: "Gliese_638"
+    simbad: "HD 151288"
+    stellar_catalog: "gliese-638"
 
 - id: 38
   name: "36 Ophiuchi"
@@ -517,6 +525,10 @@
   stellar_class: "K2V"
   distance: "19.35"
   parallax: "168.0031 [0.1343]"
+  links:
+    wikipedia: "36_Ophiuchi"
+    simbad: "* 36 Oph"
+    stellar_catalog: "36-ophiuchi-a"
 
 - id: 39
   name: "Gliese 667"
@@ -527,6 +539,10 @@
   stellar_class: "K3V"
   distance: "22.3"
   parallax: "146.29 [9.03]"
+  links:
+    wikipedia: "Gliese_667"
+    simbad: "HD 156384"
+    stellar_catalog: "gliese-667-a"
 
 - id: 40
   name: "41 G. Arae"
@@ -537,6 +553,10 @@
   stellar_class: "G9V"
   distance: "28.67"
   parallax: "113.7513 [0.0725]"
+  links:
+    wikipedia: "41_G._Arae"
+    simbad: "* 41 Ara"
+    stellar_catalog: "41-g-arae-a"
 
 - id: 41
   name: "Gliese 673"
@@ -957,3 +977,143 @@
     wikipedia: ~
     simbad: "HD 19305"
     stellar_catalog: "hd-19305"
+
+- id: 71
+  name: "Iota Persei"
+  ra: "03h 09m 04.02s"
+  dec: "49° 36' 47.80\""
+  app_mag: "4.05"
+  abs_mag: "3.94"
+  stellar_class: "G0V"
+  distance: "34.5"
+  parallax: "94.5412 [0.1448]"
+  links:
+    wikipedia: "Iota_Persei"
+    simbad: "* iot Per"
+    stellar_catalog: "iota-persei"
+
+- id: 72
+  name: "Alpha Fornacis"
+  ra: "03h 12m 04.53s"
+  dec: "-28° 59' 15.44\""
+  app_mag: "3.98"
+  abs_mag: "3.05"
+  stellar_class: "F6V"
+  distance: "45.66"
+  parallax: "71.4337 [0.1320]"
+  links:
+    wikipedia: "Alpha_Fornacis"
+    simbad: "* alf For"
+    stellar_catalog: "alpha-fornacis"
+
+- id: 73
+  name: "Zeta2 Reticuli"
+  ra: "03h 18m 12.81s"
+  dec: "-62° 30' 22.90\""
+  app_mag: "5.23"
+  abs_mag: "5.11"
+  stellar_class: "G1V"
+  distance: "39.29"
+  parallax: "83.0606 [0.0608]"
+  links:
+    wikipedia: "Zeta_Reticuli"
+    simbad: "* zet02 Ret"
+    stellar_catalog: "zeta-reticuli"
+
+- id: 74
+  name: "HD 21531"
+  ra: "03h 27m 52.41s"
+  dec: "-19° 48' 16.14\""
+  app_mag: "8.38"
+  abs_mag: "7.88"
+  stellar_class: "K5V"
+  distance: "40.75"
+  parallax: "80.04 [0.99]"
+  links:
+    wikipedia: ~
+    simbad: "HD 21531"
+    stellar_catalog: "hd-21531"
+
+- id: 75
+  name: "HD 22496"
+  ra: "03h 35m 00.93s"
+  dec: "-48° 25' 08.91\""
+  app_mag: "8.57"
+  abs_mag: "8.34"
+  stellar_class: "K5V"
+  distance: "44.36"
+  parallax: "73.5199 [0.0164]"
+  links:
+    wikipedia: "Gliese_146"
+    simbad: "HD 22496"
+    stellar_catalog: "hd-22496"
+
+- id: 76
+  name: "10 Tauri"
+  ra: "03h 36m 52.38s"
+  dec: "00° 24' 05.99\""
+  app_mag: "4.3"
+  abs_mag: "3.6"
+  stellar_class: "F9IV-V"
+  distance: "45.4"
+  parallax: "71.8370 [0.1503]"
+  links:
+    wikipedia: "10_Tauri"
+    simbad: "* 10 Tau"
+    stellar_catalog: "10-tauri"
+
+- id: 77
+  name: "HD 23356"
+  ra: "03h 43m 55.34s"
+  dec: "-19° 06' 39.23\""
+  app_mag: "7.08"
+  abs_mag: "6.4"
+  stellar_class: "K2V"
+  distance: "45.46"
+  parallax: "71.7505 [0.0210]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23356"
+    stellar_catalog: "hd-23356"
+
+- id: 78
+  name: "HD 27274"
+  ra: "04h 15m 56.90s"
+  dec: "-53° 18' 35.31\""
+  app_mag: "7.63"
+  abs_mag: "7.03"
+  stellar_class: "K4.5Vk:"
+  distance: "42.54"
+  parallax: "76.6638 [0.0146]"
+  links:
+    wikipedia: "HD_27274"
+    simbad: "HD 27274"
+    stellar_catalog: "hd-27274"
+
+- id: 79
+  name: "HD 28343"
+  ra: "04h 29m 00.12s"
+  dec: "21° 55' 21.72\""
+  app_mag: "8.3"
+  abs_mag: "8.42"
+  stellar_class: "M0.5V"
+  distance: "36.62"
+  parallax: "89.0546 [0.0234]"
+  links:
+    wikipedia: ~
+    simbad: "HD 28343"
+    stellar_catalog: "hd-28343"
+
+- id: 80
+  name: "HD 29697"
+  ra: "04h 41m 18.86s"
+  dec: "20° 54' 05.45\""
+  app_mag: "7.99"
+  abs_mag: "7.36"
+  stellar_class: "K4V"
+  distance: "43.09"
+  parallax: "75.6870 [0.0241]"
+  links:
+    wikipedia: "HD_29697"
+    simbad: "HD 29697"
+    stellar_catalog: "hd-29697"
