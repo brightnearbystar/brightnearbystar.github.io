@@ -1117,3 +1117,143 @@
     wikipedia: "HD_29697"
     simbad: "HD 29697"
     stellar_catalog: "hd-29697"
+
+- id: 81
+  name: "58 Eridani"
+  ra: "04h 47m 36.29s"
+  dec: "-16° 56' 04.04\""
+  app_mag: "5.5"
+  abs_mag: "5.01"
+  stellar_class: "G2.5IV-V"
+  distance: "43.18"
+  parallax: "75.5289 [0.0539]"
+  links:
+    wikipedia: "58_Eridani"
+    simbad: "* 58 Eri"
+    stellar_catalog: "58-eridani"
+
+- id: 82
+  name: "Zeta Doradus"
+  ra: "05h 05m 30.66s"
+  dec: "-57° 28' 21.74\""
+  app_mag: "4.71"
+  abs_mag: "4.38"
+  stellar_class: "F9VFe-0.5"
+  distance: "38.14"
+  parallax: "85.5233 [0.0755]"
+  links:
+    wikipedia: "Zeta_Doradus"
+    simbad: "* zet Dor"
+    stellar_catalog: "zeta-doradus-a"
+
+- id: 83
+  name: "Capella"
+  ra: "05h 16m 41.36s"
+  dec: "45° 59' 52.77\""
+  app_mag: "0.76"
+  abs_mag: "0.2"
+  stellar_class: "G3III:"
+  distance: "42.8"
+  parallax: "76.20 [0.46]"
+  links:
+    wikipedia: "Capella"
+    simbad: "* alf Aur"
+    stellar_catalog: "capella-aa"
+
+- id: 84
+  name: "Lambda Aurigae"
+  ra: "05h 19m 08.48s"
+  dec: "40° 05' 56.59\""
+  app_mag: "4.71"
+  abs_mag: "4.18"
+  stellar_class: "G1.5IV-VFe-1"
+  distance: "40.97"
+  parallax: "79.6021 [0.1005]"
+  links:
+    wikipedia: "Lambda_Aurigae"
+    simbad: "* lam Aur"
+    stellar_catalog: "lambda-aurigae"
+
+- id: 85
+  name: "111 Tauri"
+  ra: "05h 24m 25.46s"
+  dec: "17° 23' 00.73\""
+  app_mag: "5"
+  abs_mag: "4.17"
+  stellar_class: "F8V"
+  distance: "47.55"
+  parallax: "68.5908 [0.1040]"
+  links:
+    wikipedia: "111_Tauri"
+    simbad: "* 111 Tau"
+    stellar_catalog: "111-tauri"
+
+- id: 86
+  name: "Gliese 204"
+  ra: "05h 28m 26.10s"
+  dec: "-03° 29' 58.40\""
+  app_mag: "7.64"
+  abs_mag: "7.08"
+  stellar_class: "K5V"
+  distance: "42.17"
+  parallax: "77.3499 [0.0198]"
+  links:
+    wikipedia: ~
+    simbad: "HD 36003"
+    stellar_catalog: "hd-36003"
+
+- id: 87
+  name: "AB Doradus"
+  ra: "05h 28m 44.87s"
+  dec: "-65° 26' 55.20\""
+  app_mag: "7"
+  abs_mag: "5.98"
+  stellar_class: "K0V"
+  distance: "48.44"
+  parallax: "67.3331 [0.4414]"
+  links:
+    wikipedia: "AB_Doradus"
+    simbad: "V* AB Dor"
+    stellar_catalog: "ab-doradus"
+
+- id: 88
+  name: "V538 Aurigae"
+  ra: "05h 41m 20.34s"
+  dec: "53° 28' 51.81\""
+  app_mag: "6.23"
+  abs_mag: "5.77"
+  stellar_class: "K1"
+  distance: "40.02"
+  parallax: "81.4987 [0.0253]"
+  links:
+    wikipedia: "V538_Aurigae"
+    simbad: "HD 37394"
+    stellar_catalog: "hd-37394"
+
+- id: 89
+  name: "BD+62 780"
+  ra: "05h 45m 48.28s"
+  dec: "62° 14' 12.39\""
+  app_mag: "9.02"
+  abs_mag: "8.29"
+  stellar_class: "K7V"
+  distance: "44.01"
+  parallax: "74.1187 [0.0180]"
+  links:
+    wikipedia: ~
+    simbad: "Gliese 215"
+    stellar_catalog: "bd-62-780"
+
+- id: 90
+  name: "HD 40307"
+  ra: "05h 54m 04.24s"
+  dec: "-60° 01' 24.49\""
+  app_mag: "7.15"
+  abs_mag: "6.63"
+  stellar_class: "K2.5V"
+  distance: "42.18"
+  parallax: "77.3261 [0.017]"
+  links:
+    wikipedia: "HD_40307"
+    simbad: "HD 40307"
+    stellar_catalog: "hd-40307"
