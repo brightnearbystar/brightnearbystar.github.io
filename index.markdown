@@ -5,6 +5,6 @@
 layout: home
 ---
 
-Welcome to the Bright Nearby Star catalog, a star catalog listing the bright (absolute magnitude greater than 8.5) stars within 25 parsecs of Earth.<br />
+Welcome to the Bright Nearby Star catalog, a star catalog listing the bright (absolute magnitude greater than 8.5) stars within 25 parsecs (81.54 light years) of Earth.<br />
 <br />
-This site is currently a Work in Progress.
+This site (and catalog) is currently a Work in Progress.
