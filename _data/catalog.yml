@@ -1257,3 +1257,143 @@
     wikipedia: "HD_40307"
     simbad: "HD 40307"
     stellar_catalog: "hd-40307"
+
+- id: 91
+  name: "Eta Leporis"
+  ra: "05h 56m 24.29s"
+  dec: "-14° 10' 03.72\""
+  app_mag: "3.72"
+  abs_mag: "2.85"
+  stellar_class: "F2V"
+  distance: "48.78"
+  parallax: "66.8573 [0.1759]"
+  links:
+    wikipedia: "Eta_Leporis"
+    simbad: "* eta Lep"
+    stellar_catalog: "eta-leporis"
+
+- id: 92
+  name: "AG+10 687"
+  ra: "06h 06m 26.74s"
+  dec: "10° 44' 54.42\""
+  app_mag: "8.91"
+  abs_mag: "8.1"
+  stellar_class: "F0"
+  distance: "47.64"
+  parallax: "68.46 [36.13]"
+  links:
+    wikipedia: ~
+    simbad: "HIP 28936"
+    stellar_catalog: "ag-10-687"
+
+- id: 93
+  name: "Alpha Mensae"
+  ra: "06h 10m 14.47s"
+  dec: "-74° 45' 10.96\""
+  app_mag: "5.07"
+  abs_mag: "5.05"
+  stellar_class: "G7V"
+  distance: "33.31"
+  parallax: "97.9158 [0.0573]"
+  links:
+    wikipedia: "Alpha_Mensae"
+    simbad: "* alf Men"
+    stellar_catalog: "alpha-mensae"
+
+- id: 94
+  name: "OU Geminorum"
+  ra: "06h 26m 10.25s"
+  dec: "18° 45' 24.76\""
+  app_mag: "6.76"
+  abs_mag: "5.91"
+  stellar_class: "K2Ve"
+  distance: "47.67"
+  parallax: "68.4142 [0.0983]"
+  links:
+    wikipedia: "OU_Geminorum"
+    simbad: "HD 45088"
+    stellar_catalog: "ou-geminorum"
+
+- id: 95
+  name: "Gliese 259"
+  ra: "07h 01m 13.73s"
+  dec: "-25° 56' 55.49\""
+  app_mag: "6.69"
+  abs_mag: "6.05"
+  stellar_class: "K1V"
+  distance: "48.11"
+  parallax: "67.8007 [0.2184]"
+  links:
+    wikipedia: ~
+    simbad: "HD 52698"
+    stellar_catalog: "gliese-259"
+
+- id: 96
+  name: "Gliese 269"
+  ra: "07h 17m 29.57s"
+  dec: "-46° 58' 45.32\""
+  app_mag: "7.1"
+  abs_mag: "7.26"
+  stellar_class: "K1V"
+  distance: "47.6"
+  parallax: "68.52 [0.56]"
+  links:
+    wikipedia: ~
+    simbad: "HD 57095"
+    stellar_catalog: "gliese-269"
+
+- id: 97
+  name: "HD 61606"
+  ra: "07h 39m 59.33s"
+  dec: "-03° 35' 51.03\""
+  app_mag: "7.17"
+  abs_mag: "6.52"
+  stellar_class: "K3V"
+  distance: "45.92"
+  parallax: "71.0323 [0.0243]"
+  links:
+    wikipedia: "Gliese_282"
+    simbad: "HD 61606"
+    stellar_catalog: "hd-61606"
+
+- id: 98
+  name: "Pollux"
+  ra: "07h 45m 18.95s"
+  dec: "28° 01' 34.32\""
+  app_mag: "1.14"
+  abs_mag: "1.09"
+  stellar_class: "K0IIIb"
+  distance: "33.78"
+  parallax: "96.54 [0.27]"
+  links:
+    wikipedia: "Pollux_(star)"
+    simbad: "* bet Gem"
+    stellar_catalog: "pollux"
+
+- id: 99
+  name: "HD 69830"
+  ra: "08h 18m 23.95s"
+  dec: "-12° 37' 55.82\""
+  app_mag: "5.95"
+  abs_mag: "5.45"
+  stellar_class: "G8:V"
+  distance: "41.03"
+  parallax: "79.4953 [0.0400]"
+  links:
+    wikipedia: "HD_69830"
+    simbad: "HD 69830"
+    stellar_catalog: "hd-69830"
+
+- id: 100
+  name: "HD 72673"
+  ra: "08h 32m 51.50s"
+  dec: "-31° 30' 03.06\""
+  app_mag: "6.38"
+  abs_mag: "5.95"
+  stellar_class: "K1V"
+  distance: "39.67"
+  parallax: "82.2080 [0.0178]"
+  links:
+    wikipedia: "HR_3384"
+    simbad: "HD 72673"
+    stellar_catalog: "hd-72673"
