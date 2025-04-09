@@ -793,7 +793,7 @@
   parallax: "68.0846 [0.0209]"
   links:
     wikipedia: ~
-    simbad: "Gliese 14"
+    simbad: "BD%2B40 45"
     stellar_catalog: "bd-40-45"
 
 - id: 58
@@ -1241,7 +1241,7 @@
   parallax: "74.1187 [0.0180]"
   links:
     wikipedia: ~
-    simbad: "Gliese 215"
+    simbad: "BD%2B62 780"
     stellar_catalog: "bd-62-780"
 
 - id: 90
@@ -1397,3 +1397,283 @@
     wikipedia: "Pi1_Ursae_Majoris"
     simbad: "* pi.01 UMa"
     stellar_catalog: "pi1-ursae-majoris"
+
+- id: 101
+  name: "HD 74576"
+  ra: "08h 43m 18.03s"
+  dec: "-38° 52' 56.57\""
+  app_mag: "6.56"
+  abs_mag: "6.35"
+  stellar_class: "K3V"
+  distance: "36.5"
+  parallax: "89.3522 [0.0151]"
+  links:
+    wikipedia: ~
+    simbad: "HD 74576"
+    stellar_catalog: "hd-74576"
+
+- id: 102
+  name: "55 Cancri"
+  ra: "08h 52m 35.81s"
+  dec: "28° 19' 50.95\""
+  app_mag: "5.96"
+  abs_mag: "5.47"
+  stellar_class: "K0IV-V"
+  distance: "41.05"
+  parallax: "79.4482 [0.0429]"
+  links:
+    wikipedia: "55_Cancri"
+    simbad: "* rho01 Cnc"
+    stellar_catalog: "55-cancri-a"
+
+- id: 103
+  name: "HD 75632"
+  ra: "08h 55m 24.79s"
+  dec: "70° 47' 39.54\""
+  app_mag: "8.82"
+  abs_mag: "8.5"
+  stellar_class: "M1V"
+  distance: "37.77"
+  parallax: "86.3542 [0.0358]"
+  links:
+    wikipedia: ~
+    simbad: "HD 75632"
+    stellar_catalog: "hd-75632-a"
+
+- id: 104
+  name: "Iota Ursae Majoris"
+  ra: "08h 59m 12.45s"
+  dec: "48° 02' 30.56\""
+  app_mag: "3.13"
+  abs_mag: "2.4"
+  stellar_class: "A7V(n)"
+  distance: "48.02"
+  parallax: "68.0010 [0.4223]"
+  links:
+    wikipedia: "Iota_Ursae_Majoris"
+    simbad: "* iot UMa"
+    stellar_catalog: "iota-ursae-majoris"
+
+- id: 105
+  name: "HD 82106"
+  ra: "09h 29m 54.83s"
+  dec: "05° 39' 18.47\""
+  app_mag: "7.2"
+  abs_mag: "6.68"
+  stellar_class: "K3V"
+  distance: "41.71"
+  parallax: "78.1945 [0.0215]"
+  links:
+    wikipedia: ~
+    simbad: "HD 82106"
+    stellar_catalog: "hd-82106"
+
+- id: 106
+  name: "Theta Ursae Majoris"
+  ra: "09h 32m 51.43s"
+  dec: "51° 40' 38.33\""
+  app_mag: "3.18"
+  abs_mag: "2.37"
+  stellar_class: "F7V"
+  distance: "43.96"
+  parallax: "73.8284 [0.2046]"
+  links:
+    wikipedia: "Theta_Ursae_Majoris"
+    simbad: "* tet UMa"
+    stellar_catalog: "theta-ursae-majoris"
+
+- id: 107
+  name: "11 Leonis Minoris"
+  ra: "09h 35m 39.50s"
+  dec: "35° 48' 36.48\""
+  app_mag: "5.34"
+  abs_mag: "5.16"
+  stellar_class: "G8Ve"
+  distance: "36.64"
+  parallax: "89.0092 [0.0937]"
+  links:
+    wikipedia: "11_Leonis_Minoris"
+    simbad: "* 11 LMi"
+    stellar_catalog: "11-leonis-minoris-a"
+
+- id: 108
+  name: "HD 84117"
+  ra: "09h 42m 14.42s"
+  dec: "-23° 54' 56.04\""
+  app_mag: "4.94"
+  abs_mag: "4.05"
+  stellar_class: "F9V"
+  distance: "48.77"
+  parallax: "66.8827 [0.1123]"
+  links:
+    wikipedia: "HD_84117"
+    simbad: "HD 84117"
+    stellar_catalog: "hd-84117"
+
+- id: 109
+  name: "HD 85512"
+  ra: "09h 51m 07.05s"
+  dec: "-43° 30' 10.02\""
+  app_mag: "7.65"
+  abs_mag: "7.43"
+  stellar_class: "K6Vk:"
+  distance: "36.78"
+  parallax: "88.6737 [0.0173]"
+  links:
+    wikipedia: "HD_85512"
+    simbad: "HD 85512"
+    stellar_catalog: "hd-85512"
+
+- id: 110
+  name: "20 Leonis Minoris"
+  ra: "10h 01m 00.66s"
+  dec: "31° 55' 25.21\""
+  app_mag: "5.37"
+  abs_mag: "4.5"
+  stellar_class: "G3VaHdel1"
+  distance: "48.68"
+  parallax: "66.9958 [0.0921]"
+  links:
+    wikipedia: "20_Leonis_Minoris"
+    simbad: "* 20 LMi"
+    stellar_catalog: "20-leonis-minoris"
+
+- id: 111
+  name: "36 Ursae Majoris"
+  ra: "10h 30m 37.58s"
+  dec: "55° 58' 49.94\""
+  app_mag: "4.82"
+  abs_mag: "4.28"
+  stellar_class: "F8V"
+  distance: "42.22"
+  parallax: "77.2485 [0.0805]"
+  links:
+    wikipedia: "36_Ursae_Majoris"
+    simbad: "* 36 UMa"
+    stellar_catalog: "36-ursae-majoris"
+
+- id: 112
+  name: "47 Ursae Majoris"
+  ra: "10h 59m 27.97s"
+  dec: "40° 25' 48.92\""
+  app_mag: "5.03"
+  abs_mag: "4.29"
+  stellar_class: "G1-VFe-0.5"
+  distance: "45.3"
+  parallax: "72.0070 [0.0974]"
+  links:
+    wikipedia: "47_Ursae_Majoris"
+    simbad: "* 47 UMa"
+    stellar_catalog: "47-ursae-majoris"
+
+- id: 113
+  name: "Gliese 414"
+  ra: "11h 11m 05.17s"
+  dec: "30° 26' 45.66\""
+  app_mag: "8.86"
+  abs_mag: "8.49"
+  stellar_class: "K7V"
+  distance: "38.75"
+  parallax: "84.1766 [0.0258]"
+  links:
+    wikipedia: "Gliese_414"
+    simbad: "HD 97101"
+    stellar_catalog: "gliese-414-a"
+
+- id: 114
+  name: "HD 97584"
+  ra: "11h 15m 11.90s"
+  dec: "73° 28' 30.74\""
+  app_mag: "7.65"
+  abs_mag: "6.85"
+  stellar_class: "K4V"
+  distance: "47.18"
+  parallax: "69.1364 [0.0151]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97584"
+    stellar_catalog: "hd-97584"
+
+- id: 115
+  name: "HD 98712"
+  ra: "11h 21m 26.67s"
+  dec: "-20° 27' 13.99\""
+  app_mag: "8.75"
+  abs_mag: "8"
+  stellar_class: "K7V"
+  distance: "42.93"
+  parallax: "72.8638 [0.3248]"
+  links:
+    wikipedia: ~
+    simbad: "HD 98712"
+    stellar_catalog: "hd-98712a"
+
+- id: 116
+  name: "HD 99279"
+  ra: "11h 24m 40.39s"
+  dec: "-61° 38' 51.31\""
+  app_mag: "7.54"
+  abs_mag: "6.96"
+  stellar_class: "K5-V"
+  distance: "39.52"
+  parallax: "82.5253 [1.5120]"
+  links:
+    wikipedia: ~
+    simbad: "HD 99279A"
+    stellar_catalog: "hd-99279-a"
+
+- id: 117
+  name: "HD 101581"
+  ra: "11h 41m 02.47s"
+  dec: "-44° 24' 18.69\""
+  app_mag: "7.76"
+  abs_mag: "7.28"
+  stellar_class: "K4.5Vk:"
+  distance: "41.69"
+  parallax: "78.2268 [0.0182]"
+  links:
+    wikipedia: "HD_101581"
+    simbad: "HD 101581"
+    stellar_catalog: "hd-101581"
+
+- id: 118
+  name: "Beta Leonis"
+  ra: "11h 49m 03.58s"
+  dec: "14° 34' 19.41\""
+  app_mag: "2.13"
+  abs_mag: "1.92"
+  stellar_class: "A3Va"
+  distance: "35.88"
+  parallax: "90.91 [0.52]"
+  links:
+    wikipedia: "Denebola"
+    simbad: "* bet Leo"
+    stellar_catalog: "beta-leonis"
+
+- id: 119
+  name: "Beta Virginis"
+  ra: "11h 50m 41.72s"
+  dec: "01° 45' 53.00\""
+  app_mag: "3.6"
+  abs_mag: "3.4"
+  stellar_class: "F9V"
+  distance: "35.88"
+  parallax: "90.8945 [0.1934]"
+  links:
+    wikipedia: "Beta_Virginis"
+    simbad: "* bet Vir"
+    stellar_catalog: "beta-virginis"
+
+- id: 120
+  name: "Gliese 453"
+  ra: "11h 57m 56.21s"
+  dec: "-27° 42' 25.37\""
+  app_mag: "6.96"
+  abs_mag: "6.95"
+  stellar_class: "K4+V"
+  distance: "33.18"
+  parallax: "98.2980 [0.0203]"
+  links:
+    wikipedia: ~
+    simbad: "HD 103932"
+    stellar_catalog: "gliese-453"
