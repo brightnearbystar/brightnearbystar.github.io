@@ -1677,3 +1677,283 @@
     wikipedia: ~
     simbad: "HD 103932"
     stellar_catalog: "gliese-453"
+
+- id: 121
+  name: "24 G. Virginis"
+  ra: "12h 00m 44.46s"
+  dec: "-10° 26' 46.07\""
+  app_mag: "5.55"
+  abs_mag: "4.99"
+  stellar_class: "G8IV"
+  distance: "41.64"
+  parallax: "78.3359 [0.0923]"
+  links:
+    wikipedia: "HD_104304"
+    simbad: "HD 104304"
+    stellar_catalog: "24-g-virginis-a"
+
+- id: 122
+  name: "Alpha Corvi"
+  ra: "12h 08m 24.82s"
+  dec: "-24° 43' 43.95\""
+  app_mag: "4.01"
+  abs_mag: "3.17"
+  stellar_class: "F1V"
+  distance: "48.85"
+  parallax: "66.7696 [0.1804]"
+  links:
+    wikipedia: "Alpha_Corvi"
+    simbad: "* alf Crv"
+    stellar_catalog: "alpha-corvi"
+
+- id: 123
+  name: "HD 110315"
+  ra: "12h 41m 06.49s"
+  dec: "15° 22' 36.00\""
+  app_mag: "7.92"
+  abs_mag: "7.07"
+  stellar_class: "K4.5V"
+  distance: "46.02"
+  parallax: "70.8793 [0.0266]"
+  links:
+    wikipedia: ~
+    simbad: "HD 110315"
+    stellar_catalog: "hd-110315"
+
+- id: 124
+  name: "Gamma Virginis"
+  ra: "12h 41m 39.63s"
+  dec: "-01° 26' 57.85\""
+  app_mag: "2.74"
+  abs_mag: "3.1"
+  stellar_class: "F1-F2V"
+  distance: "39.2"
+  parallax: "83.1935 [0.5074]"
+  links:
+    wikipedia: "Gamma_Virginis"
+    simbad: "* gam Vir"
+    stellar_catalog: "gamma-virginis-a"
+
+- id: 125
+  name: "HD 110833"
+  ra: "12h 44m 14.55s"
+  dec: "51° 45' 33.39\""
+  app_mag: "7.04"
+  abs_mag: "6.15"
+  stellar_class: "K3V"
+  distance: "47.3"
+  parallax: "68.9516 [0.4864]"
+  links:
+    wikipedia: ~
+    simbad: "HD 110833"
+    stellar_catalog: "hd-110833"
+
+- id: 126
+  name: "HD 111631"
+  ra: "12h 50m 43.57s"
+  dec: "-00° 46' 05.27\""
+  app_mag: "8.47"
+  abs_mag: "8.33"
+  stellar_class: "M0V"
+  distance: "34.75"
+  parallax: "93.8547 [0.0245]"
+  links:
+    wikipedia: ~
+    simbad: "HD 111631"
+    stellar_catalog: "hd-111631"
+
+- id: 127
+  name: "HD 115404"
+  ra: "13h 16m 51.05s"
+  dec: "17° 01' 01.84\""
+  app_mag: "6.66"
+  abs_mag: "6.27"
+  stellar_class: "K2V"
+  distance: "35.83"
+  parallax: "91.0176 [0.0236]"
+  links:
+    wikipedia: "HD_115404"
+    simbad: "HD 115404"
+    stellar_catalog: "hd-115404-a"
+
+- id: 128
+  name: "HD 120036"
+  ra: "13h 47m 42.16s"
+  dec: "-32° 25' 48.13\""
+  app_mag: "8.85"
+  abs_mag: "7.87"
+  stellar_class: "K6V"
+  distance: "47.26"
+  parallax: "68.6052 [0.027]"
+  links:
+    wikipedia: ~
+    simbad: "HD 120036"
+    stellar_catalog: "hd-120036"
+
+- id: 129
+  name: "HD 120476"
+  ra: "13h 49m 04.00s"
+  dec: "26° 58' 47.75\""
+  app_mag: "7.24"
+  abs_mag: "7.32"
+  stellar_class: "K4V"
+  distance: "43.73"
+  parallax: "74.0937 [0.0370]"
+  links:
+    wikipedia: ~
+    simbad: "HD 120476"
+    stellar_catalog: "hd-120476"
+
+- id: 130
+  name: "HD 120467"
+  ra: "13h 49m 44.81s"
+  dec: "-22° 06' 39.93\""
+  app_mag: "8.16"
+  abs_mag: "7.62"
+  stellar_class: "K6Va"
+  distance: "45.89"
+  parallax: "71.0780 [0.0318]"
+  links:
+    wikipedia: ~
+    simbad: "HD 120467"
+    stellar_catalog: "hd-120467"
+
+- id: 131
+  name: "HD 234078"
+  ra: "13h 52m 00.01s"
+  dec: "49° 57' 03.27\""
+  app_mag: "8.99"
+  abs_mag: "8.24"
+  stellar_class: "K7V"
+  distance: "46.589"
+  parallax: "70.1492 [0.0174]"
+  links:
+    wikipedia: ~
+    simbad: "HD 234078"
+    stellar_catalog: "hd-234078"
+
+- id: 132
+  name: "Eta Boötis"
+  ra: "13h 54m 41.08s"
+  dec: "18° 23' 51.79\""
+  app_mag: "2.68"
+  abs_mag: "2.41"
+  stellar_class: "G0IV"
+  distance: "37.1789"
+  parallax: "87.75 [1.24]"
+  links:
+    wikipedia: "Eta_Boötis"
+    simbad: "* eta Boo"
+    stellar_catalog: "eta-bootis"
+
+- id: 133
+  name: "HR 5256"
+  ra: "13h 57m 32.06s"
+  dec: "61° 29' 34.30\""
+  app_mag: "6.49"
+  abs_mag: "6.47"
+  stellar_class: "K3V"
+  distance: "32.8489"
+  parallax: "99.3325 [0.0193]"
+  links:
+    wikipedia: "HR_5256"
+    simbad: "HD 122064"
+    stellar_catalog: "hr-5256"
+
+- id: 134
+  name: "Arcturus"
+  ra: "14h 15m 39.67s"
+  dec: "19° 10' 56.67\""
+  app_mag: "-0.05"
+  abs_mag: "-0.31"
+  stellar_class: "K1.5IIIFe-0.5"
+  distance: "36.7289"
+  parallax: "88.83 [0.54]"
+  links:
+    wikipedia: "Arcturus"
+    simbad: "* alf Boo"
+    stellar_catalog: "arcturus"
+
+- id: 135
+  name: "HD 125072"
+  ra: "14h 19m 04.83s"
+  dec: "-59° 22' 44.54\""
+  app_mag: "6.66"
+  abs_mag: "6.29"
+  stellar_class: "K3IV"
+  distance: "38.5589"
+  parallax: "84.6029 [0.0218]"
+  links:
+    wikipedia: "HD_125072"
+    simbad: "HD 125072"
+    stellar_catalog: "hd-125072"
+
+- id: 136
+  name: "BD+30 2512"
+  ra: "14h 21m 57.22s"
+  dec: "29° 37' 46.62\""
+  app_mag: "8.37"
+  abs_mag: "7.57"
+  stellar_class: "K5V"
+  distance: "47.3789"
+  parallax: "68.8506 [0.0216]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B30 2512"
+    stellar_catalog: "bd-30-2512"
+
+- id: 137
+  name: "Theta Boötis"
+  ra: "14h 25m 11.80s"
+  dec: "51° 51' 02.68\""
+  app_mag: "4.05"
+  abs_mag: "3.28"
+  stellar_class: "F7V"
+  distance: "47.3989"
+  parallax: "69.0686 [0.1579]"
+  links:
+    wikipedia: "Theta_Boötis"
+    simbad: "* tet Boo"
+    stellar_catalog: "theta-bootis"
+
+- id: 138
+  name: "HD 128165"
+  ra: "14h 33m 28.87s"
+  dec: "52° 54' 31.65\""
+  app_mag: "7.32"
+  abs_mag: "6.67"
+  stellar_class: "K3"
+  distance: "43.1689"
+  parallax: "75.5689 [0.0151]"
+  links:
+    wikipedia: ~
+    simbad: "HD 128165"
+    stellar_catalog: "hd-128165"
+
+- id: 139
+  name: "DE Bootis"
+  ra: "14h 53m 23.77s"
+  dec: "19° 09' 10.07\""
+  app_mag: "6"
+  abs_mag: "5.69"
+  stellar_class: "K0.5V"
+  distance: "37.9389"
+  parallax: "85.9932 [0.5516]"
+  links:
+    wikipedia: "HR_5553"
+    simbad: "V* DE Boo"
+    stellar_catalog: "v-de-boo"
+
+- id: 140
+  name: "44 Boötis"
+  ra: "15h 03m 47.23s"
+  dec: "47° 39' 14.32\""
+  app_mag: "5.13"
+  abs_mag: "4.67"
+  stellar_class: "F5V"
+  distance: "42.2289"
+  parallax: "77.2460 [1.2028]"
+  links:
+    wikipedia: "44_Boötis"
+    simbad: "* i Boo"
+    stellar_catalog: "44-bootis"
