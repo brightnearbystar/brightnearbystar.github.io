@@ -1825,7 +1825,7 @@
   app_mag: "8.99"
   abs_mag: "8.24"
   stellar_class: "K7V"
-  distance: "46.589"
+  distance: "46.5"
   parallax: "70.1492 [0.0174]"
   links:
     wikipedia: ~
@@ -1839,7 +1839,7 @@
   app_mag: "2.68"
   abs_mag: "2.41"
   stellar_class: "G0IV"
-  distance: "37.1789"
+  distance: "37.17"
   parallax: "87.75 [1.24]"
   links:
     wikipedia: "Eta_Boötis"
@@ -1853,7 +1853,7 @@
   app_mag: "6.49"
   abs_mag: "6.47"
   stellar_class: "K3V"
-  distance: "32.8489"
+  distance: "32.84"
   parallax: "99.3325 [0.0193]"
   links:
     wikipedia: "HR_5256"
@@ -1867,7 +1867,7 @@
   app_mag: "-0.05"
   abs_mag: "-0.31"
   stellar_class: "K1.5IIIFe-0.5"
-  distance: "36.7289"
+  distance: "36.72"
   parallax: "88.83 [0.54]"
   links:
     wikipedia: "Arcturus"
@@ -1881,7 +1881,7 @@
   app_mag: "6.66"
   abs_mag: "6.29"
   stellar_class: "K3IV"
-  distance: "38.5589"
+  distance: "38.55"
   parallax: "84.6029 [0.0218]"
   links:
     wikipedia: "HD_125072"
@@ -1895,7 +1895,7 @@
   app_mag: "8.37"
   abs_mag: "7.57"
   stellar_class: "K5V"
-  distance: "47.3789"
+  distance: "47.37"
   parallax: "68.8506 [0.0216]"
   links:
     wikipedia: ~
@@ -1909,7 +1909,7 @@
   app_mag: "4.05"
   abs_mag: "3.28"
   stellar_class: "F7V"
-  distance: "47.3989"
+  distance: "47.39"
   parallax: "69.0686 [0.1579]"
   links:
     wikipedia: "Theta_Boötis"
@@ -1923,7 +1923,7 @@
   app_mag: "7.32"
   abs_mag: "6.67"
   stellar_class: "K3"
-  distance: "43.1689"
+  distance: "43.16"
   parallax: "75.5689 [0.0151]"
   links:
     wikipedia: ~
@@ -1937,7 +1937,7 @@
   app_mag: "6"
   abs_mag: "5.69"
   stellar_class: "K0.5V"
-  distance: "37.9389"
+  distance: "37.93"
   parallax: "85.9932 [0.5516]"
   links:
     wikipedia: "HR_5553"
@@ -1951,7 +1951,7 @@
   app_mag: "5.13"
   abs_mag: "4.67"
   stellar_class: "F5V"
-  distance: "42.2289"
+  distance: "42.22"
   parallax: "77.2460 [1.2028]"
   links:
     wikipedia: "44_Boötis"
