@@ -1957,3 +1957,283 @@
     wikipedia: "44_Boötis"
     simbad: "* i Boo"
     stellar_catalog: "44-bootis"
+
+- id: 141
+  name: "Nu2 Lupi"
+  ra: "15h 21m 48.15s"
+  dec: "-48° 19' 03.47\""
+  app_mag: "5.65"
+  abs_mag: "4.84"
+  stellar_class: "G3/5V"
+  distance: "48.07"
+  parallax: "67.8467 [0.0601]"
+  links:
+    wikipedia: "Nu2_Lupi"
+    simbad: "* nu.02 Lup"
+    stellar_catalog: "nu2-lupi"
+
+- id: 142
+  name: "Psi Serpentis"
+  ra: "15h 44m 01.82s"
+  dec: "02° 30' 54.60\""
+  app_mag: "5.86"
+  abs_mag: "5.03"
+  stellar_class: "G2.5V"
+  distance: "48.25"
+  parallax: "67.6007 [0.036]"
+  links:
+    wikipedia: "Psi_Serpentis"
+    simbad: "* psi Ser"
+    stellar_catalog: "psi-serpentis"
+
+- id: 143
+  name: "Lambda Serpentis"
+  ra: "15h 46m 26.61s"
+  dec: "07° 21' 11.05\""
+  app_mag: "4.42"
+  abs_mag: "4.07"
+  stellar_class: "G0-V"
+  distance: "38.86"
+  parallax: "83.9214 [0.1501]"
+  links:
+    wikipedia: "Lambda_Serpentis"
+    simbad: "* lam Ser"
+    stellar_catalog: "lambda-serpentis"
+
+- id: 144
+  name: "Beta Trianguli Australis"
+  ra: "15h 55m 08.56s"
+  dec: "-63° 25' 50.62\""
+  app_mag: "2.85"
+  abs_mag: "2.38"
+  stellar_class: "F1V"
+  distance: "40.37"
+  parallax: "80.4854 [0.2187]"
+  links:
+    wikipedia: "Beta_Trianguli_Australis"
+    simbad: "* bet TrA"
+    stellar_catalog: "beta-trianguli-australis"
+
+- id: 145
+  name: "Gamma Serpentis"
+  ra: "15h 56m 27.18s"
+  dec: "15° 39' 41.81\""
+  app_mag: "3.84"
+  abs_mag: "3.62"
+  stellar_class: "F6V"
+  distance: "36.7"
+  parallax: "89.5647 [0.1835]"
+  links:
+    wikipedia: "Gamma_Serpentis"
+    simbad: "* gam Ser"
+    stellar_catalog: "gamma-serpentis"
+
+- id: 146
+  name: "HD 142709"
+  ra: "15h 57m 40.74s"
+  dec: "-42° 37' 27.24\""
+  app_mag: "8.06"
+  abs_mag: "7.22"
+  stellar_class: "K4V"
+  distance: "48.08"
+  parallax: "67.8433 [0.0246]"
+  links:
+    wikipedia: ~
+    simbad: "HD 142709"
+    stellar_catalog: "hd-142709"
+
+- id: 147
+  name: "Gliese 611"
+  ra: "16h 04m 56.79s"
+  dec: "39° 09' 23.43\""
+  app_mag: "6.67"
+  abs_mag: "5.94"
+  stellar_class: "G8V"
+  distance: "46.83"
+  parallax: "69.6405 [0.0140]"
+  links:
+    wikipedia: ~
+    simbad: "HD 144579"
+    stellar_catalog: "gliese-611"
+
+- id: 148
+  name: "HD 144628"
+  ra: "16h 09m 42.79s"
+  dec: "-56° 26' 42.54\""
+  app_mag: "7.12"
+  abs_mag: "6.33"
+  stellar_class: "K2V"
+  distance: "48.36"
+  parallax: "67.4469 [0.0190]"
+  links:
+    wikipedia: ~
+    simbad: "HD 144628"
+    stellar_catalog: "hd-144628"
+
+- id: 149
+  name: "HD 145417"
+  ra: "16h 13m 48.56s"
+  dec: "-57° 34' 13.84\""
+  app_mag: "7.54"
+  abs_mag: "6.66"
+  stellar_class: "K3VFe-1.7"
+  distance: "44.35"
+  parallax: "73.5482 [0.0184]"
+  links:
+    wikipedia: ~
+    simbad: "HD 145417"
+    stellar_catalog: "hd-145417"
+
+- id: 150
+  name: "18 Scorpii"
+  ra: "16h 15m 37.27s"
+  dec: "-08° 22' 09.98\""
+  app_mag: "5.5"
+  abs_mag: "4.76"
+  stellar_class: "G2Va"
+  distance: "46.11"
+  parallax: "70.7371 [0.0631]"
+  links:
+    wikipedia: "18_Scorpii"
+    simbad: "* 18 Sco"
+    stellar_catalog: "18-scorpii"
+
+- id: 151
+  name: "Gliese 617"
+  ra: "16h 16m 42.75s"
+  dec: "67° 14' 19.83\""
+  app_mag: "8.61"
+  abs_mag: "8.45"
+  stellar_class: "M1-Ve"
+  distance: "35.12"
+  parallax: "92.8766 [0.0146]"
+  links:
+    wikipedia: "HD_147379"
+    simbad: "HD 147379"
+    stellar_catalog: "gliese-617-a"
+
+- id: 152
+  name: "HD 147513"
+  ra: "16h 24m 01.29s"
+  dec: "-39° 11' 34.73\""
+  app_mag: "5.38"
+  abs_mag: "4.82"
+  stellar_class: "G5V"
+  distance: "42.05"
+  parallax: "77.5655 [0.0661]"
+  links:
+    wikipedia: "HD_147513"
+    simbad: "HD 147513"
+    stellar_catalog: "hd-147513"
+
+- id: 153
+  name: "Zeta Trianguli Australis"
+  ra: "16h 28m 28.14s"
+  dec: "-70° 05' 03.82\""
+  app_mag: "4.9"
+  abs_mag: "4.5"
+  stellar_class: "F9V"
+  distance: "39.36"
+  parallax: "82.8699 [0.1627]"
+  links:
+    wikipedia: "Zeta_Trianguli_Australis"
+    simbad: "* zet TrA"
+    stellar_catalog: "zeta-trianguli-australis-a"
+
+- id: 154
+  name: "Zeta Herculis"
+  ra: "16h 41m 17.46s"
+  dec: "31° 36' 06.97\""
+  app_mag: "2.88"
+  abs_mag: "2.74"
+  stellar_class: "G0IV"
+  distance: "34.95"
+  parallax: "93.32 [0.47]"
+  links:
+    wikipedia: "Zeta_Herculis"
+    simbad: "* zet Her"
+    stellar_catalog: "zeta-herculis-a"
+
+- id: 155
+  name: "HD 150689"
+  ra: "16h 44m 15.02s"
+  dec: "-38° 56' 37.09\""
+  app_mag: "7.51"
+  abs_mag: "6.62"
+  stellar_class: "K3V"
+  distance: "46.38"
+  parallax: "70.322 [0.0196]"
+  links:
+    wikipedia: ~
+    simbad: "HD 150689"
+    stellar_catalog: "hd-150689"
+
+- id: 156
+  name: "Gliese 653"
+  ra: "17h 05m 03.39s"
+  dec: "-05° 03' 59.44\""
+  app_mag: "7.71"
+  abs_mag: "7.54"
+  stellar_class: "K4/5V"
+  distance: "34.13"
+  parallax: "95.5670 [0.0241]"
+  links:
+    wikipedia: ~
+    simbad: "HD 154363"
+    stellar_catalog: "gliese-653"
+
+- id: 157
+  name: "HD 154577"
+  ra: "17h 10m 10.35s"
+  dec: "-60° 43' 43.58\""
+  app_mag: "7.41"
+  abs_mag: "6.58"
+  stellar_class: "K2.5Vk:"
+  distance: "44.77"
+  parallax: "72.8538 [0.0218]"
+  links:
+    wikipedia: "HD_154577"
+    simbad: "HD 154577"
+    stellar_catalog: "hd-154577"
+
+- id: 158
+  name: "72 Herculis"
+  ra: "17h 20m 39.57s"
+  dec: "32° 28' 03.88\""
+  app_mag: "5.39"
+  abs_mag: "4.59"
+  stellar_class: "G0V"
+  distance: "47.57"
+  parallax: "68.5575 [0.0553]"
+  links:
+    wikipedia: "72_Herculis"
+    simbad: "* w Her"
+    stellar_catalog: "72-herculis"
+
+- id: 159
+  name: "HD 158633"
+  ra: "17h 25m 00.10s"
+  dec: "67° 18' 24.15\""
+  app_mag: "6.44"
+  abs_mag: "5.9"
+  stellar_class: "K0V"
+  distance: "41.72"
+  parallax: "78.1747 [0.0226]"
+  links:
+    wikipedia: "HD_158633"
+    simbad: "HD 158633"
+    stellar_catalog: "hd-158633"
+
+- id: 160
+  name: "Alpha Ophiuchi"
+  ra: "17h 34m 56.07s"
+  dec: "12° 33' 36.13\""
+  app_mag: "2.07"
+  abs_mag: "1.3"
+  stellar_class: "A5IVnn"
+  distance: "48.59"
+  parallax: "67.13 [1.06]"
+  links:
+    wikipedia: "Alpha_Ophiuchi"
+    simbad: "* alf Oph"
+    stellar_catalog: "alpha-ophiuchi"
