@@ -2237,3 +2237,283 @@
     wikipedia: "Alpha_Ophiuchi"
     simbad: "* alf Oph"
     stellar_catalog: "alpha-ophiuchi"
+
+- id: 161
+  name: "26 Draconis"
+  ra: "17h 34m 59.58s"
+  dec: "61° 52' 28.35\""
+  app_mag: "5.21"
+  abs_mag: "4.31"
+  stellar_class: "G0IV-V"
+  distance: "47.08"
+  parallax: "69.2832 [0.2004]"
+  links:
+    wikipedia: "26_Draconis"
+    simbad: "* 26 Dra"
+    stellar_catalog: "26-draconis"
+
+- id: 162
+  name: "HD 160346"
+  ra: "17h 39m 16.92s"
+  dec: "03° 33' 18.88\""
+  app_mag: "6.53"
+  abs_mag: "6.38"
+  stellar_class: "K3-V"
+  distance: "35.88"
+  parallax: "90.91 [0.67]"
+  links:
+    wikipedia: ~
+    simbad: "HD 160346"
+    stellar_catalog: "hd-160346"
+
+- id: 163
+  name: "HD 166620"
+  ra: "18h 09m 37.42s"
+  dec: "38° 27' 28.00\""
+  app_mag: "6.4"
+  abs_mag: "6.15"
+  stellar_class: "K2V"
+  distance: "36.19"
+  parallax: "90.1234 [0.0156]"
+  links:
+    wikipedia: "HR_6806"
+    simbad: "HD 166620"
+    stellar_catalog: "hd-166620"
+
+- id: 164
+  name: "HD 166348"
+  ra: "18h 12m 21.39s"
+  dec: "-43° 26' 41.45\""
+  app_mag: "8.37"
+  abs_mag: "7.65"
+  stellar_class: "M0V"
+  distance: "43.08"
+  parallax: "75.7122 [0.0211]"
+  links:
+    wikipedia: ~
+    simbad: "HD 166348"
+    stellar_catalog: "hd-166348"
+
+- id: 165
+  name: "HD 170657"
+  ra: "18h 31m 18.96s"
+  dec: "-18° 54' 31.73\""
+  app_mag: "6.81"
+  abs_mag: "6.21"
+  stellar_class: "K2V"
+  distance: "43"
+  parallax: "75.8476 [0.0349]"
+  links:
+    wikipedia: "HD_170657"
+    simbad: "HD 170657"
+    stellar_catalog: "hd-170657"
+
+- id: 166
+  name: "HD 172051"
+  ra: "18h 38m 53.40s"
+  dec: "-21° 03' 06.75\""
+  app_mag: "5.86"
+  abs_mag: "5.28"
+  stellar_class: "G6V"
+  distance: "42.5"
+  parallax: "76.7405 [0.0494]"
+  links:
+    wikipedia: "HD_172051"
+    simbad: "HD 172051"
+    stellar_catalog: "hd-172051"
+
+- id: 167
+  name: "HD 173818"
+  ra: "18h 47m 27.25s"
+  dec: "-03° 38' 23.40\""
+  app_mag: "8.77"
+  abs_mag: "8.17"
+  stellar_class: "K5V"
+  distance: "46.51"
+  parallax: "70.1335 [0.0258]"
+  links:
+    wikipedia: ~
+    simbad: "HD 173818"
+    stellar_catalog: "hd-173818"
+
+- id: 168
+  name: "HD 176051"
+  ra: "18h 57m 01.64s"
+  dec: "32° 54' 04.75\""
+  app_mag: "5.27"
+  abs_mag: "5.34"
+  stellar_class: "F9V"
+  distance: "48.58"
+  parallax: "67.1412 [0.1185]"
+  links:
+    wikipedia: "HD_176051"
+    simbad: "HD 176051"
+    stellar_catalog: "hd-176051a"
+
+- id: 169
+  name: "31 Aquilae"
+  ra: "19h 24m 58.20s"
+  dec: "11° 56' 39.89\""
+  app_mag: "5.16"
+  abs_mag: "4.01"
+  stellar_class: "G7IVHdel1"
+  distance: "48.67"
+  parallax: "67.0153 [0.0657]"
+  links:
+    wikipedia: "31_Aquilae"
+    simbad: "* b Aql"
+    stellar_catalog: "31-aquilae"
+
+- id: 170
+  name: "HD 188088"
+  ra: "19h 54m 17.74s"
+  dec: "-23° 56' 27.86\""
+  app_mag: "6.21"
+  abs_mag: "5.46"
+  stellar_class: "K3VaCN1"
+  distance: "46.13"
+  parallax: "70.7010 [0.0350]"
+  links:
+    wikipedia: "HR_7578"
+    simbad: "HD 188088"
+    stellar_catalog: "hd-188088"
+
+- id: 171
+  name: "Beta Aquilae"
+  ra: "19h 55m 18.79s"
+  dec: "06° 24' 24.35\""
+  app_mag: "3.71"
+  abs_mag: "3.06"
+  stellar_class: "G8IV"
+  distance: "44.36"
+  parallax: "73.5249 [0.1415]"
+  links:
+    wikipedia: "Beta_Aquilae"
+    simbad: "* bet Aql"
+    stellar_catalog: "beta-aquilae"
+
+- id: 172
+  name: "HD 190007"
+  ra: "20h 02m 47.05s"
+  dec: "03° 19' 34.27\""
+  app_mag: "7.45"
+  abs_mag: "6.84"
+  stellar_class: "K5V"
+  distance: "41.47"
+  parallax: "78.6465 [0.0198]"
+  links:
+    wikipedia: "HD_190007"
+    simbad: "HD 190007"
+    stellar_catalog: "hd-190007"
+
+- id: 173
+  name: "HD 196761"
+  ra: "20h 40m 11.76s"
+  dec: "-23° 46' 25.92\""
+  app_mag: "6.37"
+  abs_mag: "5.58"
+  stellar_class: "G7.5IV-V"
+  distance: "47.86"
+  parallax: "68.1557 [0.0300]"
+  links:
+    wikipedia: "HD_196761"
+    simbad: "HD 196761"
+    stellar_catalog: "hd-196761"
+
+- id: 174
+  name: "HD 196877"
+  ra: "20h 42m 18.78s"
+  dec: "-52° 41' 57.35\""
+  app_mag: "8.82"
+  abs_mag: "8.36"
+  stellar_class: "K7V"
+  distance: "40.25"
+  parallax: "81.0279 [0.0228]"
+  links:
+    wikipedia: ~
+    simbad: "HD 196877"
+    stellar_catalog: "hd-196877"
+
+- id: 175
+  name: "Eta Cephei"
+  ra: "20h 45m 17.38s"
+  dec: "61° 50' 19.61\""
+  app_mag: "3.41"
+  abs_mag: "2.63"
+  stellar_class: "K0IV"
+  distance: "46.86"
+  parallax: "69.5976 [0.1279]"
+  links:
+    wikipedia: "Eta_Cephei"
+    simbad: "* eta Cep"
+    stellar_catalog: "eta-cephei"
+
+- id: 176
+  name: "Psi Capricorni"
+  ra: "20h 46m 05.73s"
+  dec: "-25° 16' 15.23\""
+  app_mag: "4.12"
+  abs_mag: "3.3"
+  stellar_class: "F5V"
+  distance: "47.73"
+  parallax: "68.3370 [0.1823]"
+  links:
+    wikipedia: "Psi_Capricorni"
+    simbad: "* psi Cap"
+    stellar_catalog: "psi-capricorni"
+
+- id: 177
+  name: "Gliese 833"
+  ra: "21h 36m 41.24s"
+  dec: "-50° 50' 43.39\""
+  app_mag: "7.16"
+  abs_mag: "6.48"
+  stellar_class: "K1V"
+  distance: "48.32"
+  parallax: "67.5002 [0.0175]"
+  links:
+    wikipedia: ~
+    simbad: "HD 205390"
+    stellar_catalog: "gliese-833"
+
+- id: 178
+  name: "Delta Capricorni"
+  ra: "21h 47m 02.44s"
+  dec: "-16° 07' 38.23\""
+  app_mag: "2.83"
+  abs_mag: "2.37"
+  stellar_class: "kA5hF0mF2III"
+  distance: "38.7"
+  parallax: "84.27 [0.19]"
+  links:
+    wikipedia: "Delta_Capricorni"
+    simbad: "* del Cap"
+    stellar_catalog: "delta-capricorni"
+
+- id: 179
+  name: "Iota Pegasi"
+  ra: "22h 07m 00.67s"
+  dec: "25° 20' 42.36\""
+  app_mag: "3.77"
+  abs_mag: "3.42"
+  stellar_class: "F5V"
+  distance: "38.83"
+  parallax: "84.0054 [0.2023]"
+  links:
+    wikipedia: "Iota_Pegasi"
+    simbad: "* iot Peg"
+    stellar_catalog: "iota-pegasi"
+
+- id: 180
+  name: "HD 211415"
+  ra: "22h 18m 15.61s"
+  dec: "-53° 37' 37.47\""
+  app_mag: "5.39"
+  abs_mag: "4.66"
+  stellar_class: "G0V"
+  distance: "45.88"
+  parallax: "71.0938 [0.0554]"
+  links:
+    wikipedia: "HD_211415"
+    simbad: "HD 211415"
+    stellar_catalog: "hd-211415"
