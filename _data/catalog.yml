@@ -2517,3 +2517,283 @@
     wikipedia: "HD_211415"
     simbad: "HD 211415"
     stellar_catalog: "hd-211415"
+
+- id: 181
+  name: "HD 211970"
+  ra: "22h 22m 16.21s"
+  dec: "-54° 33' 38.20\""
+  app_mag: "8.99"
+  abs_mag: "8.39"
+  stellar_class: "K7Vk:"
+  distance: "42.83"
+  parallax: "76.1595 [0.0197]"
+  links:
+    wikipedia: ~
+    simbad: "HD 211970"
+    stellar_catalog: "hd-211970"
+
+- id: 182
+  name: "HD 214749"
+  ra: "22h 40m 43.38s"
+  dec: "-29° 40' 28.12\""
+  app_mag: "7.84"
+  abs_mag: "7.25"
+  stellar_class: "K4.5Vk"
+  distance: "43.3"
+  parallax: "75.3248 [0.0232]"
+  links:
+    wikipedia: ~
+    simbad: "HD 214749"
+    stellar_catalog: "hd-214749"
+
+- id: 183
+  name: "HD 218511"
+  ra: "23h 09m 40.95s"
+  dec: "-67° 43' 58.16\""
+  app_mag: "8.39"
+  abs_mag: "7.44"
+  stellar_class: "K6V"
+  distance: "48.39"
+  parallax: "67.3957 [0.0198]"
+  links:
+    wikipedia: ~
+    simbad: "HD 218511"
+    stellar_catalog: "hd-218511"
+
+- id: 184
+  name: "Gliese 898"
+  ra: "23h 32m 49.40s"
+  dec: "-16° 50' 44.32\""
+  app_mag: "8.61"
+  abs_mag: "7.68"
+  stellar_class: "K6V"
+  distance: "47.45"
+  parallax: "68.7356 [0.0272]"
+  links:
+    wikipedia: ~
+    simbad: "HD 221503"
+    stellar_catalog: "gliese-898"
+
+- id: 185
+  name: "Gamma Cephei"
+  ra: "23h 39m 20.91s"
+  dec: "77° 37' 56.51\""
+  app_mag: "2.94"
+  abs_mag: "2.24"
+  stellar_class: "K1III-IVCN1"
+  distance: "44.98"
+  parallax: "72.5167 [0.147]"
+  links:
+    wikipedia: "Gamma_Cephei"
+    simbad: "* gam Cep"
+    stellar_catalog: "gammacepheia"
+
+- id: 186
+  name: "HD 222237"
+  ra: "23h 39m 37.38s"
+  dec: "-72° 43' 19.75\""
+  app_mag: "7.09"
+  abs_mag: "6.81"
+  stellar_class: "K3+V"
+  distance: "37.33"
+  parallax: "87.3724 [0.0187]"
+  links:
+    wikipedia: "HD_222237"
+    simbad: "HD 222237"
+    stellar_catalog: "hd-222237"
+
+- id: 187
+  name: "Iota Piscium"
+  ra: "23h 39m 57.04s"
+  dec: "05° 37' 34.65\""
+  app_mag: "4.12"
+  abs_mag: "3.36"
+  stellar_class: "F7V"
+  distance: "44.73"
+  parallax: "73.2370 [0.1698]"
+  links:
+    wikipedia: "Iota_Piscium"
+    simbad: "* iot Psc"
+    stellar_catalog: "iota-piscium"
+
+- id: 188
+  name: "HR 9038"
+  ra: "23h 52m 25.41s"
+  dec: "75° 32' 40.35\""
+  app_mag: "6.36"
+  abs_mag: "6.19"
+  stellar_class: "K3V"
+  distance: "35.54"
+  parallax: "91.7722 [0.0425]"
+  links:
+    wikipedia: "HR_9038"
+    simbad: "HD 223778"
+    stellar_catalog: "hr-9038-aa"
+
+- id: 189
+  name: "HD 55"
+  ra: "00h 05m 17.68s"
+  dec: "-67° 49' 57.59\""
+  app_mag: "8.49"
+  abs_mag: "7.47"
+  stellar_class: "K4.5V"
+  distance: "53.46"
+  parallax: "61.0064 [0.0193]"
+  links:
+    wikipedia: ~
+    simbad: "HD 55"
+    stellar_catalog: "hd-55"
+
+- id: 190
+  name: "Beta Cassiopeiae"
+  ra: "00h 09m 10.695s"
+  dec: "59° 08' 59.18\""
+  app_mag: "2.27"
+  abs_mag: "1.15"
+  stellar_class: "F2III"
+  distance: "54.74"
+  parallax: "59.58 [0.38]"
+  links:
+    wikipedia: "Beta_Cassiopeiae"
+    simbad: "* bet Cas"
+    stellar_catalog: "beta-cassiopeiae"
+
+- id: 191
+  name: "6 Ceti"
+  ra: "00h 11m 15.862s"
+  dec: "-15° 28' 04.92\""
+  app_mag: "4.89"
+  abs_mag: "3.51"
+  stellar_class: "F8VFe-0.8CH-0.5"
+  distance: "61.6"
+  parallax: "52.9489 [0.0958]"
+  links:
+    wikipedia: "6_Ceti"
+    simbad: "* 6 Cet"
+    stellar_catalog: "6-ceti"
+
+- id: 192
+  name: "HD 1237"
+  ra: "00h 16m 12.547s"
+  dec: "-79° 51' 04.43\""
+  app_mag: "6.58"
+  abs_mag: "5.36"
+  stellar_class: "G8V"
+  distance: "57.26"
+  parallax: "56.9644 [0.0192]"
+  links:
+    wikipedia: "HD_1237"
+    simbad: "HD 1237"
+    stellar_catalog: "hd-1237-a"
+
+- id: 193
+  name: "HD 2025"
+  ra: "00h 24m 25.969s"
+  dec: "-27° 01' 36.92\""
+  app_mag: "7.92"
+  abs_mag: "6.66"
+  stellar_class: "K3V"
+  distance: "58.43"
+  parallax: "55.8243 [0.0247]"
+  links:
+    wikipedia: ~
+    simbad: "HD 2025"
+    stellar_catalog: "hd-2025"
+
+- id: 194
+  name: "HD 3443"
+  ra: "00h 37m 20.716s"
+  dec: "-24° 46' 02.22\""
+  app_mag: "6.23"
+  abs_mag: "5.27"
+  stellar_class: "K1V"
+  distance: "50.23"
+  parallax: "64.93 [1.85]"
+  links:
+    wikipedia: "HD_3443"
+    simbad: "HD 3443"
+    stellar_catalog: "hd-3443"
+
+- id: 195
+  name: "HD 3765"
+  ra: "00h 40m 49.221s"
+  dec: "40° 11' 14.06\""
+  app_mag: "7.36"
+  abs_mag: "6.18"
+  stellar_class: "K2V"
+  distance: "58.41"
+  parallax: "55.8412 [0.0235]"
+  links:
+    wikipedia: ~
+    simbad: "HD 3765"
+    stellar_catalog: "hd-3765"
+
+- id: 196
+  name: "HD 4391"
+  ra: "00h 45m 45.59s"
+  dec: "-47° 33' 07.14\""
+  app_mag: "5.8"
+  abs_mag: "4.93"
+  stellar_class: "G3V"
+  distance: "49.08"
+  parallax: "66.4509 [0.0446]"
+  links:
+    wikipedia: "HD_4391"
+    simbad: "HD 4391"
+    stellar_catalog: "hd-4391"
+
+- id: 197
+  name: "HD 4378"
+  ra: "00h 45m 48.44s"
+  dec: "-41° 54' 34.7\""
+  app_mag: "8.41"
+  abs_mag: "7.39"
+  stellar_class: "K5Ve"
+  distance: "51.29"
+  parallax: "63.5938 [0.0227]"
+  links:
+    wikipedia: ~
+    simbad: "HD 4378"
+    stellar_catalog: "hd-4378"
+
+- id: 198
+  name: "HD 4747"
+  ra: "00h 49m 26.778s"
+  dec: "-23° 12' 45.61\""
+  app_mag: "7.15"
+  abs_mag: "5.78"
+  stellar_class: "G8V"
+  distance: "61.48"
+  parallax: "53.0526 [0.0282]"
+  links:
+    wikipedia: "HD_4747"
+    simbad: "HD 4747"
+    stellar_catalog: "hd-4747"
+
+- id: 199
+  name: "Phi2 Ceti"
+  ra: "00h 50m 07.596s"
+  dec: "-10° 38' 39.54\""
+  app_mag: "5.172"
+  abs_mag: "4.24"
+  stellar_class: "F7V"
+  distance: "51.93"
+  parallax: "62.8022 [0.0951]"
+  links:
+    wikipedia: "Phi2_Ceti"
+    simbad: "* phi02 Cet"
+    stellar_catalog: "phi2-ceti"
+
+- id: 200
+  name: "HD 4967"
+  ra: "00h 51m 34.05s"
+  dec: "-22° 54' 36.6\""
+  app_mag: "8.95"
+  abs_mag: "8.04"
+  stellar_class: "K5V"
+  distance: "50.11"
+  parallax: "65.0902 [0.0247]"
+  links:
+    wikipedia: ~
+    simbad: "HD 4967"
+    stellar_catalog: "hd-4967"
