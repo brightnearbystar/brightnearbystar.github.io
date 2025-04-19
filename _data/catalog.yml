@@ -2797,3 +2797,283 @@
     wikipedia: ~
     simbad: "HD 4967"
     stellar_catalog: "hd-4967"
+
+- id: 201
+  name: "HD 5015"
+  ra: "00h 53m 04.14s"
+  dec: "61° 07' 26.7\""
+  app_mag: "4.82"
+  abs_mag: "3.45"
+  stellar_class: "F9V"
+  distance: "61.65"
+  parallax: "52.9017 [0.1037]"
+  links:
+    wikipedia: "HR_244"
+    simbad: "HD 5015"
+    stellar_catalog: "hd-5015"
+
+- id: 202
+  name: "BD+63 137"
+  ra: "01h 07m 08.17s"
+  dec: "63° 56' 28.99\""
+  app_mag: "8.98"
+  abs_mag: "8.1"
+  stellar_class: "K7V"
+  distance: "49.15"
+  parallax: "66.3666 [0.0161]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B63 137"
+    stellar_catalog: "bd-63-137"
+
+- id: 203
+  name: "Nu Phoenicis"
+  ra: "01h 15m 11.121s"
+  dec: "-45° 31' 53.99\""
+  app_mag: "4.95"
+  abs_mag: "4.07"
+  stellar_class: "F9VFe+0.4"
+  distance: "49.77"
+  parallax: "65.5270 [0.0704]"
+  links:
+    wikipedia: "Nu_Phoenicis"
+    simbad: "* nu. Phe"
+    stellar_catalog: "nu-phoenicis"
+
+- id: 204
+  name: "HD 7924"
+  ra: "01h 21m 59.14s"
+  dec: "76° 42' 36.58\""
+  app_mag: "7.17"
+  abs_mag: "6.02"
+  stellar_class: "K0.5V"
+  distance: "55.46"
+  parallax: "58.8125 [0.0168]"
+  links:
+    wikipedia: "HD_7924"
+    simbad: "HD 7924"
+    stellar_catalog: "hd-7924"
+
+- id: 205
+  name: "HD 9540"
+  ra: "01h 33m 15.98s"
+  dec: "-24° 10' 40.4\""
+  app_mag: "6.97"
+  abs_mag: "5.52"
+  stellar_class: "K0V"
+  distance: "62.84"
+  parallax: "51.9067 [0.0214]"
+  links:
+    wikipedia: ~
+    simbad: "HD 9540"
+    stellar_catalog: "hd-9540"
+
+- id: 206
+  name: "HD 10647"
+  ra: "01h 42m 29.395s"
+  dec: "-53° 44' 27.13\""
+  app_mag: "5.52"
+  abs_mag: "4.34"
+  stellar_class: "F9V"
+  distance: "56.58"
+  parallax: "57.6409 [0.0453]"
+  links:
+    wikipedia: "HD_10647"
+    simbad: "* q01 Eri"
+    stellar_catalog: "hd-10647"
+
+- id: 207
+  name: "Alpha Trianguli"
+  ra: "01h 53m 04.905s"
+  dec: "29° 34' 43.82\""
+  app_mag: "3.42"
+  abs_mag: "1.95"
+  stellar_class: "F5III"
+  distance: "63.33"
+  parallax: "51.3310 [0.5563]"
+  links:
+    wikipedia: "Alpha_Trianguli"
+    simbad: "* alf Tri"
+    stellar_catalog: "alpha-trianguli-a"
+
+- id: 208
+  name: "Beta Arietis"
+  ra: "01h 54m 38.401s"
+  dec: "20° 48' 28.82\""
+  app_mag: "2.65"
+  abs_mag: "1.34"
+  stellar_class: "kA4hA5mA5Va"
+  distance: "58.66"
+  parallax: "55.60 [0.58]"
+  links:
+    wikipedia: "Beta_Arietis"
+    simbad: "* bet Ari"
+    stellar_catalog: "beta-arietis"
+
+- id: 209
+  name: "Chi Eridani"
+  ra: "01h 55m 57.488s"
+  dec: "-51° 36' 31.99\""
+  app_mag: "3.7"
+  abs_mag: "2.49"
+  stellar_class: "G8IIIbCNIV"
+  distance: "57.37"
+  parallax: "56.8508 [0.1628]"
+  links:
+    wikipedia: "Chi_Eridani"
+    simbad: "* chi Eri"
+    stellar_catalog: "-chi-eri"
+
+- id: 210
+  name: "Alpha Hydri"
+  ra: "01h 58m 46.13s"
+  dec: "-61° 34' 11.35\""
+  app_mag: "2.84"
+  abs_mag: "1.4"
+  stellar_class: "F0IV"
+  distance: "63.26"
+  parallax: "51.5547 [0.8303]"
+  links:
+    wikipedia: "Alpha_Hydri"
+    simbad: "* alf Hyi"
+    stellar_catalog: "alpha-hydri"
+
+- id: 211
+  name: "HD 13579"
+  ra: "02h 15m 41.76s"
+  dec: "67° 40' 23.0\""
+  app_mag: "7.13"
+  abs_mag: "5.78"
+  stellar_class: "K2V"
+  distance: "60.58"
+  parallax: "53.8413 [0.0167]"
+  links:
+    wikipedia: ~
+    simbad: "HD 13579"
+    stellar_catalog: "gaia-dr3-520377795206114688"
+
+- id: 212
+  name: "HD 15285"
+  ra: "02h 27m 45.927s"
+  dec: "04° 25' 55.26\""
+  app_mag: "8.67"
+  abs_mag: "7.59"
+  stellar_class: "M2V"
+  distance: "55.92"
+  parallax: "58.33 [1.08]"
+  links:
+    wikipedia: ~
+    simbad: "HD 15285"
+    stellar_catalog: "hd-15285"
+
+- id: 213
+  name: "HD 15468"
+  ra: "02h 29m 01.94s"
+  dec: "-19° 58' 44.3\""
+  app_mag: "8.86"
+  abs_mag: "7.48"
+  stellar_class: "K4.5V"
+  distance: "63.2"
+  parallax: "51.6064 [0.1360]"
+  links:
+    wikipedia: ~
+    simbad: "HD 15468"
+    stellar_catalog: "hd-15468"
+
+- id: 214
+  name: "CD-58 538"
+  ra: "02h 39m 01.17s"
+  dec: "-58° 11' 13.72\""
+  app_mag: "9.55"
+  abs_mag: "8.42"
+  stellar_class: "M0Ve"
+  distance: "54.94"
+  parallax: "59.37 [1.22]"
+  links:
+    wikipedia: ~
+    simbad: "CD-58 538"
+    stellar_catalog: "cd-58-538"
+
+- id: 215
+  name: "Iota Horologii"
+  ra: "02h 42m 33.499s"
+  dec: "-50° 48' 01.32\""
+  app_mag: "5.4"
+  abs_mag: "4.22"
+  stellar_class: "F8V"
+  distance: "56.61"
+  parallax: "57.6131 [0.0383]"
+  links:
+    wikipedia: "Iota_Horologii"
+    simbad: "* iot Hor"
+    stellar_catalog: "iota-horologii"
+
+- id: 216
+  name: "HD 16909"
+  ra: "02h 43m 20.924s"
+  dec: "19° 25' 45.59\""
+  app_mag: "8.27"
+  abs_mag: "6.93"
+  stellar_class: "K3.5Vk"
+  distance: "60.9"
+  parallax: "53.5579 [0.1814]"
+  links:
+    wikipedia: ~
+    simbad: "HD 16909"
+    stellar_catalog: "hd-16909"
+
+- id: 217
+  name: "HD 17230"
+  ra: "02h 46m 17.295s"
+  dec: "11° 46' 31.03\""
+  app_mag: "8.57"
+  abs_mag: "7.58"
+  stellar_class: "K6V"
+  distance: "52.7"
+  parallax: "61.8910 [0.0280]"
+  links:
+    wikipedia: ~
+    simbad: "HD 17230"
+    stellar_catalog: "hd-17230"
+
+- id: 218
+  name: "HD 20280"
+  ra: "03h 14m 44.702s"
+  dec: "-26° 26' 46.8\""
+  app_mag: "9.14"
+  abs_mag: "7.85"
+  stellar_class: "K5.5Vk:"
+  distance: "60.9"
+  parallax: "53.5543 [0.0178]"
+  links:
+    wikipedia: ~
+    simbad: "HD 20280"
+    stellar_catalog: "hd-20280"
+
+- id: 219
+  name: "HD 21209"
+  ra: "03h 23m 15.66s"
+  dec: "-49° 59' 36.9\""
+  app_mag: "8.59"
+  abs_mag: "7.16"
+  stellar_class: "K3.5V"
+  distance: "62.95"
+  parallax: "51.8155 [0.0142]"
+  links:
+    wikipedia: ~
+    simbad: "HD 21209"
+    stellar_catalog: "hd-21209"
+
+- id: 220
+  name: "HD 21175"
+  ra: "03h 23m 35.23s"
+  dec: "-40° 04' 35.4\""
+  app_mag: "6.9"
+  abs_mag: "5.74"
+  stellar_class: "K0V"
+  distance: "57.67"
+  parallax: "56.557 [0.027]"
+  links:
+    wikipedia: ~
+    simbad: "HD 21175"
+    stellar_catalog: "hd-21175"
