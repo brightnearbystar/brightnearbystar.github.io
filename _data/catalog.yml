@@ -3357,3 +3357,283 @@
     wikipedia: ~
     simbad: "HD 34673"
     stellar_catalog: "hd-34673"
+
+- id: 241
+  name: "HD 35112"
+  ra: "05h 22m 37.46s"
+  dec: "02° 36' 12.7\""
+  app_mag: "7.75"
+  abs_mag: "6.27"
+  stellar_class: "K3V"
+  distance: "64.56"
+  parallax: "50.5171 [0.0368]"
+  links:
+    wikipedia: ~
+    simbad: "HD 35112"
+    stellar_catalog: "hd-35112"
+
+- id: 242
+  name: "HD 35650"
+  ra: "05h 24m 30.14s"
+  dec: "-38° 58' 10.2\""
+  app_mag: "9.05"
+  abs_mag: "7.8"
+  stellar_class: "K6V"
+  distance: "56.95"
+  parallax: "57.2706 [0.0149]"
+  links:
+    wikipedia: ~
+    simbad: "HD 35650"
+    stellar_catalog: "hd-35650"
+
+- id: 243
+  name: "HD 35854"
+  ra: "05h 26m 14.772s"
+  dec: "-32° 30' 17.93\""
+  app_mag: "7.71"
+  abs_mag: "6.46"
+  stellar_class: "K2/3V"
+  distance: "58.26"
+  parallax: "55.9858 [0.0165]"
+  links:
+    wikipedia: ~
+    simbad: "HD 35854"
+    stellar_catalog: "hd-35854"
+
+- id: 244
+  name: "HD 36435"
+  ra: "05h 27m 39.401s"
+  dec: "-60° 24' 58.4\""
+  app_mag: "6.98"
+  abs_mag: "5.53"
+  stellar_class: "G5V"
+  distance: "63.53"
+  parallax: "51.3371 [0.0175]"
+  links:
+    wikipedia: ~
+    simbad: "HD 36435"
+    stellar_catalog: "hd-36435"
+
+- id: 245
+  name: "VZ Columbae"
+  ra: "05h 30m 13.98s"
+  dec: "-42° 41' 49.1\""
+  app_mag: "9.71"
+  abs_mag: "8.35"
+  stellar_class: "M0V"
+  distance: "62.49"
+  parallax: "52.1963 [0.0123]"
+  links:
+    wikipedia: ~
+    simbad: "V* VZ Col"
+    stellar_catalog: "vz-columba"
+
+- id: 246
+  name: "Pi Mensae"
+  ra: "05h 37m 09.841s"
+  dec: "-80° 28' 08.67\""
+  app_mag: "5.67"
+  abs_mag: "4.35"
+  stellar_class: "G0V"
+  distance: "59.65"
+  parallax: "54.6825 [0.0354]"
+  links:
+    wikipedia: "Pi_Mensae"
+    simbad: "* pi. Men"
+    stellar_catalog: "pi-mensae"
+
+- id: 247
+  name: "Beta Pictoris"
+  ra: "05h 47m 17.089s"
+  dec: "-51° 03' 59.4\""
+  app_mag: "3.86"
+  abs_mag: "2.42"
+  stellar_class: "A6V"
+  distance: "63.41"
+  parallax: "50.9307 [0.1482]"
+  links:
+    wikipedia: "Beta_Pictoris"
+    simbad: "* bet Pic"
+    stellar_catalog: "beta-pictoris"
+
+- id: 248
+  name: "HD 38858"
+  ra: "05h 48m 34.937s"
+  dec: "-04° 05' 40.53\""
+  app_mag: "5.97"
+  abs_mag: "5"
+  stellar_class: "G4V"
+  distance: "49.61"
+  parallax: "65.7446 [0.0307]"
+  links:
+    wikipedia: "HD_38858"
+    simbad: "HD 38858"
+    stellar_catalog: "hd-38858"
+
+- id: 249
+  name: "HD 40887"
+  ra: "06h 00m 19.32s"
+  dec: "-31° 01' 50.09\""
+  app_mag: "8.9"
+  abs_mag: "7.56"
+  stellar_class: "K5V"
+  distance: "60.36"
+  parallax: "54.0273 [0.0992]"
+  links:
+    wikipedia: ~
+    simbad: "HD 40887"
+    stellar_catalog: "hd-40887"
+
+- id: 250
+  name: "V1386 Orionis"
+  ra: "06h 06m 40.468s"
+  dec: "15° 32' 31.23\""
+  app_mag: "6.78"
+  abs_mag: "5.83"
+  stellar_class: "K0V"
+  distance: "51.44"
+  parallax: "63.4065 [0.0269]"
+  links:
+    wikipedia: ~
+    simbad: "V* V1386 Ori"
+    stellar_catalog: "v1386-orionis"
+
+- id: 251
+  name: "HD 42807"
+  ra: "06h 13m 12.517s"
+  dec: "10° 37' 37.95\""
+  app_mag: "6.44"
+  abs_mag: "5.15"
+  stellar_class: "G5V"
+  distance: "60.66"
+  parallax: "53.7653 [0.0317]"
+  links:
+    wikipedia: ~
+    simbad: "HD 42807"
+    stellar_catalog: "hd-42807"
+
+- id: 252
+  name: "HD 43162"
+  ra: "06h 13m 45.29s"
+  dec: "-23° 51' 42.96\""
+  app_mag: "6.38"
+  abs_mag: "5.26"
+  stellar_class: "G6.5V"
+  distance: "54.46"
+  parallax: "59.885 [0.0192]"
+  links:
+    wikipedia: "HD_43162"
+    simbad: "HD 43162"
+    stellar_catalog: "hd-43162"
+
+- id: 253
+  name: "k Orionis"
+  ra: "06h 16m 26.617s"
+  dec: "12° 16' 19.71\""
+  app_mag: "5.04"
+  abs_mag: "3.58"
+  stellar_class: "F5V"
+  distance: "63.89"
+  parallax: "51.0518 [0.0969]"
+  links:
+    wikipedia: "74_Orionis"
+    simbad: "* k Ori"
+    stellar_catalog: "k-orionis"
+
+- id: 254
+  name: "HD 43587"
+  ra: "06h 17m 16.2s"
+  dec: "05° 06' 00.2\""
+  app_mag: "5.7"
+  abs_mag: "4.27"
+  stellar_class: "G0V"
+  distance: "63.19"
+  parallax: "51.6165 [0.1235]"
+  links:
+    wikipedia: "HD_43587"
+    simbad: "HD 43587"
+    stellar_catalog: "hd-43587"
+
+- id: 255
+  name: "HD 47752"
+  ra: "06h 41m 15.69s"
+  dec: "23° 57' 27.86\""
+  app_mag: "8.06"
+  abs_mag: "6.89"
+  stellar_class: "K3.5V"
+  distance: "56.29"
+  parallax: "57.9451 [0.0233]"
+  links:
+    wikipedia: ~
+    simbad: "HD 47752"
+    stellar_catalog: "hd-47752"
+
+- id: 256
+  name: "Xi Geminorum"
+  ra: "06h 45m 17.362s"
+  dec: "12° 53' 44.02\""
+  app_mag: "3.36"
+  abs_mag: "2.14"
+  stellar_class: "F5IV-V"
+  distance: "58.7"
+  parallax: "54.1894 [0.2369]"
+  links:
+    wikipedia: "Xi_Geminorum"
+    simbad: "* ksi Gem"
+    stellar_catalog: "xi-geminorum"
+
+- id: 257
+  name: "HD 46588"
+  ra: "06h 46m 14.073s"
+  dec: "79° 33' 53.27\""
+  app_mag: "5.45"
+  abs_mag: "4.19"
+  stellar_class: "F8V"
+  distance: "59.37"
+  parallax: "54.9380 [0.0595]"
+  links:
+    wikipedia: "HD_46588"
+    simbad: "HD 46588"
+    stellar_catalog: "hd-46588"
+
+- id: 258
+  name: "Psi5 Aurigae"
+  ra: "06h 46m 44.336s"
+  dec: "43° 34' 38.77\""
+  app_mag: "5.25"
+  abs_mag: "4.11"
+  stellar_class: "F9V"
+  distance: "54.18"
+  parallax: "60.2024 [0.0865]"
+  links:
+    wikipedia: "Psi5_Aurigae"
+    simbad: "* psi05 Aur"
+    stellar_catalog: "psi5-aurigae"
+
+- id: 259
+  name: "HD 48948"
+  ra: "06h 49m 56.867s"
+  dec: "60° 20' 8.21\""
+  app_mag: "8.59"
+  abs_mag: "7.52"
+  stellar_class: "K3V"
+  distance: "54.92"
+  parallax: "59.3934 [0.0248]"
+  links:
+    wikipedia: "HD_48948"
+    simbad: "HD 48948"
+    stellar_catalog: "hd-48948"
+
+- id: 260
+  name: "HD 49601"
+  ra: "06h 51m 32.442s"
+  dec: "47° 22' 03.99\""
+  app_mag: "8.99"
+  abs_mag: "7.61"
+  stellar_class: "K6V"
+  distance: "60.81"
+  parallax: "53.6322 [0.0178]"
+  links:
+    wikipedia: ~
+    simbad: "HD 49601"
+    stellar_catalog: "hd-49601"
