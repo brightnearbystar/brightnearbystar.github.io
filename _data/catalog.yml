@@ -3077,3 +3077,283 @@
     wikipedia: ~
     simbad: "HD 21175"
     stellar_catalog: "hd-21175"
+
+- id: 221
+  name: "HD 21197"
+  ra: "03h 24m 059.747s"
+  dec: "-05° 21' 49.55\""
+  app_mag: "7.86"
+  abs_mag: "6.97"
+  stellar_class: "K5V"
+  distance: "49.98"
+  parallax: "65.2607 [0.0277]"
+  links:
+    wikipedia: ~
+    simbad: "HD 21197"
+    stellar_catalog: "hd-21197"
+
+- id: 222
+  name: "HD 21749"
+  ra: "03h 26m 59.09s"
+  dec: "-63° 29' 55.8\""
+  app_mag: "8.14"
+  abs_mag: "7.01"
+  stellar_class: "K4.5V"
+  distance: "53.27"
+  parallax: "61.2271 [0.0150]"
+  links:
+    wikipedia: "HD_21749"
+    simbad: "HD 21749"
+    stellar_catalog: "hd-21749"
+
+- id: 223
+  name: "HD 23484"
+  ra: "03h 44m 09.216s"
+  dec: "-38° 16' 54.32\""
+  app_mag: "6.99"
+  abs_mag: "5.94"
+  stellar_class: "K2V"
+  distance: "52.74"
+  parallax: "61.8444 [0.0154]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23484"
+    stellar_catalog: "hd-23484"
+
+- id: 224
+  name: "Tau6 Eridani"
+  ra: "03h 46m 50.889s"
+  dec: "-23° 14' 58.97\""
+  app_mag: "4.2"
+  abs_mag: "2.95"
+  stellar_class: "F5IV-V"
+  distance: "58.01"
+  parallax: "56.2281 [0.1393]"
+  links:
+    wikipedia: "Tau6_Eridani"
+    simbad: "* tau06 Eri"
+    stellar_catalog: "-tau06-eri"
+
+- id: 225
+  name: "HD 23189"
+  ra: "03h 48m 00.83s"
+  dec: "68° 40' 20.2\""
+  app_mag: "9.17"
+  abs_mag: "7.97"
+  stellar_class: "K0V"
+  distance: "58.42"
+  parallax: "55.8254 [0.0135]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23189"
+    stellar_catalog: "hd-23189"
+
+- id: 226
+  name: "BD-07 699"
+  ra: "03h 54m 35.451s"
+  dec: "-06° 49' 34.15\""
+  app_mag: "9.02"
+  abs_mag: "8.24"
+  stellar_class: "K7V"
+  distance: "51.11"
+  parallax: "63.8136 [0.0228]"
+  links:
+    wikipedia: ~
+    simbad: "BD-07 699"
+    stellar_catalog: "bd-07-699"
+
+- id: 227
+  name: "HD 25004"
+  ra: "03h 56m 36.409s"
+  dec: "-41° 20' 36.64\""
+  app_mag: "8.85"
+  abs_mag: "7.67"
+  stellar_class: "K6Vk:"
+  distance: "57.29"
+  parallax: "56.9352 [0.014]"
+  links:
+    wikipedia: ~
+    simbad: "HD 25004"
+    stellar_catalog: "hd-25004"
+
+- id: 228
+  name: "HD 24916"
+  ra: "03h 57m 28.7s"
+  dec: "-01° 09' 34\""
+  app_mag: "8.04"
+  abs_mag: "7.06"
+  stellar_class: "K4V"
+  distance: "49.85"
+  parallax: "65.4262 [0.0234]"
+  links:
+    wikipedia: ~
+    simbad: "HD 24916"
+    stellar_catalog: "hd-24916"
+
+- id: 229
+  name: "HD 24451"
+  ra: "04h 01m 19.6s"
+  dec: "76° 9' 33.79\""
+  app_mag: "8.24"
+  abs_mag: "7.22"
+  stellar_class: "K4V"
+  distance: "52.9"
+  parallax: "61.6525 [0.0165]"
+  links:
+    wikipedia: ~
+    simbad: "HD 24451"
+    stellar_catalog: "hd-24451"
+
+- id: 230
+  name: "HD 25457"
+  ra: "04h 02m 36.719s"
+  dec: "00° 16' 08.03\""
+  app_mag: "5.38"
+  abs_mag: "3.95"
+  stellar_class: "F7V"
+  distance: "61.01"
+  parallax: "53.4559 [0.0702]"
+  links:
+    wikipedia: ~
+    simbad: "HD 25457"
+    stellar_catalog: "hd-25457"
+
+- id: 231
+  name: "HD 25329"
+  ra: "04h 03m 13.76s"
+  dec: "35° 16' 35.7\""
+  app_mag: "8.5"
+  abs_mag: "7.19"
+  stellar_class: "K1VbFe-2"
+  distance: "60.35"
+  parallax: "54.0422 [0.0260]"
+  links:
+    wikipedia: ~
+    simbad: "HD 25329"
+    stellar_catalog: "hd-25329"
+
+- id: 232
+  name: "39 Tauri"
+  ra: "04h 05m 20.23s"
+  dec: "22° 00' 32.06\""
+  app_mag: "5.9"
+  abs_mag: "4.79"
+  stellar_class: "G5V"
+  distance: "54.84"
+  parallax: "59.4728 [0.0361]"
+  links:
+    wikipedia: "39_Tauri"
+    simbad: "* 39 Tau"
+    stellar_catalog: "39-tauri"
+
+- id: 233
+  name: "HD 26347"
+  ra: "04h 09m 18.91s"
+  dec: "-20° 24' 59.23\""
+  app_mag: "9.15"
+  abs_mag: "7.7"
+  stellar_class: "G2/3V"
+  distance: "63.78"
+  parallax: "51.1404 [1.5315]"
+  links:
+    wikipedia: ~
+    simbad: "HD 26347"
+    stellar_catalog: "hd-26347"
+
+- id: 234
+  name: "HD 25665"
+  ra: "04h 09m 35.037s"
+  dec: "69° 32' 28.89\""
+  app_mag: "7.71"
+  abs_mag: "6.38"
+  stellar_class: "K2.5V"
+  distance: "61.24"
+  parallax: "53.2562 [0.0170]"
+  links:
+    wikipedia: ~
+    simbad: "HD 25665"
+    stellar_catalog: "hd-25665"
+
+- id: 235
+  name: "Epsilon Reticuli"
+  ra: "04h 16m 28.93s"
+  dec: "-59° 18' 07.2\""
+  app_mag: "4.44"
+  abs_mag: "3.13"
+  stellar_class: "K2III"
+  distance: "60.15"
+  parallax: "54.2286 [0.1019]"
+  links:
+    wikipedia: "Epsilon_Reticuli"
+    simbad: "* eps Ret"
+    stellar_catalog: "epsilon-reticuli-a"
+
+- id: 236
+  name: "HD 283750"
+  ra: "04h 36m 48.09s"
+  dec: "27° 07' 57.2\""
+  app_mag: "8.1"
+  abs_mag: "6.83"
+  stellar_class: "K2.5Ve"
+  distance: "56.74"
+  parallax: "57.4873 [0.0471]"
+  links:
+    wikipedia: "HD_283750"
+    simbad: "HD 283750"
+    stellar_catalog: "hd-283750"
+
+- id: 237
+  name: "HD 30876"
+  ra: "04h 49m 52.35s"
+  dec: "-35° 06' 26.5\""
+  app_mag: "7.49"
+  abs_mag: "6.21"
+  stellar_class: "K2V"
+  distance: "57.69"
+  parallax: "56.5374 [0.0144]"
+  links:
+    wikipedia: ~
+    simbad: "HD 30876"
+    stellar_catalog: "hd-30876"
+
+- id: 238
+  name: "HD 31560"
+  ra: "04h 55m 41.889s"
+  dec: "-28° 33' 50.35\""
+  app_mag: "8.12"
+  abs_mag: "6.86"
+  stellar_class: "K3.5Vk:"
+  distance: "59.39"
+  parallax: "54.9199 [0.0173]"
+  links:
+    wikipedia: ~
+    simbad: "HD 31560"
+    stellar_catalog: "hd-31560"
+
+- id: 239
+  name: "m Tauri"
+  ra: "05h 07m 27.012s"
+  dec: "18° 38' 42.43\""
+  app_mag: "5.6"
+  abs_mag: "4.6"
+  stellar_class: "G4V"
+  distance: "51.92"
+  parallax: "62.8252 [0.1094]"
+  links:
+    wikipedia: "104_Tauri"
+    simbad: "* m Tau"
+    stellar_catalog: "m-tauri"
+
+- id: 240
+  name: "HD 34673"
+  ra: "05h 19m 12.669s"
+  dec: "-03° 04' 26.07\""
+  app_mag: "7.7"
+  abs_mag: "6.56"
+  stellar_class: "K3V"
+  distance: "51.25"
+  parallax: "63.6435 [0.0225]"
+  links:
+    wikipedia: ~
+    simbad: "HD 34673"
+    stellar_catalog: "hd-34673"
