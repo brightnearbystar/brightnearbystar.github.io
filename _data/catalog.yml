@@ -3637,3 +3637,283 @@
     wikipedia: ~
     simbad: "HD 49601"
     stellar_catalog: "hd-49601"
+
+- id: 261
+  name: "37 Geminorum"
+  ra: "06h 55m 18.637s"
+  dec: "25° 22' 32.65\""
+  app_mag: "5.73"
+  abs_mag: "4.54"
+  stellar_class: "G0V"
+  distance: "56.77"
+  parallax: "57.4559 [0.0907]"
+  links:
+    wikipedia: "37_Geminorum"
+    simbad: "* 37 Gem"
+    stellar_catalog: "37-geminorum"
+
+- id: 262
+  name: "HD 266611"
+  ra: "06h 57m 04.688s"
+  dec: "30° 45' 23.98\""
+  app_mag: "9.68"
+  abs_mag: "8.33"
+  stellar_class: "K5V"
+  distance: "61.57"
+  parallax: "52.9767 [0.0182]"
+  links:
+    wikipedia: ~
+    simbad: "HD 266611"
+    stellar_catalog: "hd-266611"
+
+- id: 263
+  name: "HD 53143"
+  ra: "06h 59m 59.654s"
+  dec: "-61° 20' 11.01\""
+  app_mag: "6.8"
+  abs_mag: "5.5"
+  stellar_class: "G9V"
+  distance: "59.82"
+  parallax: "54.5252 [0.0145]"
+  links:
+    wikipedia: "HD_53143"
+    simbad: "HD 53143"
+    stellar_catalog: "hd-53143"
+
+- id: 264
+  name: "HD 52919"
+  ra: "07h 02m 42.967s"
+  dec: "-06° 47' 56.38\""
+  app_mag: "8.35"
+  abs_mag: "7.02"
+  stellar_class: "K4V"
+  distance: "62.34"
+  parallax: "52.3188 [0.0195]"
+  links:
+    wikipedia: ~
+    simbad: "HD 52919"
+    stellar_catalog: "hd-52919"
+
+- id: 265
+  name: "HD 52711"
+  ra: "07h 03m 30.43s"
+  dec: "29° 20' 13.7\""
+  app_mag: "5.92"
+  abs_mag: "4.52"
+  stellar_class: "G0V"
+  distance: "61.81"
+  parallax: "52.7712 [0.0438]"
+  links:
+    wikipedia: ~
+    simbad: "HD 52711"
+    stellar_catalog: "hd-52711"
+
+- id: 266
+  name: "HD 53705"
+  ra: "07h 03m 57.32s"
+  dec: "-43° 36' 29.3\""
+  app_mag: "5.56"
+  abs_mag: "4.5"
+  stellar_class: "G1.5V"
+  distance: "55.64"
+  parallax: "58.6192 [0.0477]"
+  links:
+    wikipedia: "HD_53680,_HD_53705,_and_HD_53706"
+    simbad: "HD 53705"
+    stellar_catalog: "hd-53705"
+
+- id: 267
+  name: "HD 56533"
+  ra: "07h 13m 07.44s"
+  dec: "-63° 20' 46.9\""
+  app_mag: "9.08"
+  abs_mag: "7.63"
+  stellar_class: "K6Vk:"
+  distance: "63.89"
+  parallax: "51.0539 [0.0156]"
+  links:
+    wikipedia: ~
+    simbad: "HD 56533"
+    stellar_catalog: "hd-56533"
+
+- id: 268
+  name: "HD 55575"
+  ra: "07h 15m 50.134s"
+  dec: "47° 14' 24.02\""
+  app_mag: "5.57"
+  abs_mag: "4.43"
+  stellar_class: "F9V"
+  distance: "54.96"
+  parallax: "59.3408 [0.0535]"
+  links:
+    wikipedia: ~
+    simbad: "HD 55575"
+    stellar_catalog: "hd-55575"
+
+- id: 269
+  name: "Delta Geminorum"
+  ra: "07h 20m 07.367s"
+  dec: "21° 58' 56.29\""
+  app_mag: "3.53"
+  abs_mag: "2.25"
+  stellar_class: "F2VkF0mF0"
+  distance: "60.66"
+  parallax: "53.7692 [0.2403]"
+  links:
+    wikipedia: "Delta_Geminorum"
+    simbad: "* del Gem"
+    stellar_catalog: "delta-geminorum-a"
+
+- id: 270
+  name: "Rho Geminorum"
+  ra: "07h 29m 06.7s"
+  dec: "31° 47' 03.87\""
+  app_mag: "4.18"
+  abs_mag: "2.84"
+  stellar_class: "F1V"
+  distance: "58.86"
+  parallax: "55.41 [0.24]"
+  links:
+    wikipedia: "Rho_Geminorum"
+    simbad: "* rho Gem"
+    stellar_catalog: "rho-geminorum"
+
+- id: 271
+  name: "Castor"
+  ra: "07h 34m 36s"
+  dec: "31° 53' 18\""
+  app_mag: "1.93"
+  abs_mag: "1.7"
+  stellar_class: "A1V"
+  distance: "50.87"
+  parallax: "64.12 [3.75]"
+  links:
+    wikipedia: "Castor_(star)"
+    simbad: "* alf Gem"
+    stellar_catalog: "castor"
+
+- id: 272
+  name: "171 G. Puppis"
+  ra: "07h 45m 35.022s"
+  dec: "-34° 10' 20.51\""
+  app_mag: "5.38"
+  abs_mag: "4.57"
+  stellar_class: "F9V"
+  distance: "49.83"
+  parallax: "65.4544 [0.2145]"
+  links:
+    wikipedia: "171_G._Puppis"
+    simbad: "* 171 Pup"
+    stellar_catalog: "171-g-puppis"
+
+- id: 273
+  name: "9 Puppis"
+  ra: "07h 51m 46.294s"
+  dec: "-13° 53' 52.85\""
+  app_mag: "5.61"
+  abs_mag: "4.61"
+  stellar_class: "G0V"
+  distance: "53.83"
+  parallax: "60.59 [0.59]"
+  links:
+    wikipedia: "9_Puppis"
+    simbad: "* 9 Pup"
+    stellar_catalog: "9-puppis"
+
+- id: 274
+  name: "212 G. Puppis"
+  ra: "07h 52m 15.80s"
+  dec: "-34° 42' 21.7\""
+  app_mag: "5.12"
+  abs_mag: "3.73"
+  stellar_class: "F5V"
+  distance: "60.37"
+  parallax: "54.5631 [0.0665]"
+  links:
+    wikipedia: ~
+    simbad: "* 212 Pup"
+    stellar_catalog: "212-g-puppis"
+
+- id: 275
+  name: "HIP 38594"
+  ra: "07h 54m 10.88s"
+  dec: "-25° 18' 11.42\""
+  app_mag: "9.72"
+  abs_mag: "8.47"
+  stellar_class: "M0"
+  distance: "58"
+  parallax: "56.2356 [0.0127]"
+  links:
+    wikipedia: ~
+    simbad: "CD-24 6144"
+    stellar_catalog: "hip-38594"
+
+- id: 276
+  name: "HD 64606"
+  ra: "07h 54m 34.119s"
+  dec: "-01° 24' 44.30\""
+  app_mag: "7.43"
+  abs_mag: "6.01"
+  stellar_class: "K0V"
+  distance: "64.31"
+  parallax: "50.7142 [0.5135]"
+  links:
+    wikipedia: ~
+    simbad: "HD 64606"
+    stellar_catalog: "hd-64606"
+
+- id: 277
+  name: "HD 62613"
+  ra: "07h 56m 17.098s"
+  dec: "80° 15' 56.14\""
+  app_mag: "6.55"
+  abs_mag: "5.4"
+  stellar_class: "G9"
+  distance: "55.95"
+  parallax: "58.2919 [0.0196]"
+  links:
+    wikipedia: ~
+    simbad: "HD 62613"
+    stellar_catalog: "hd-62613"
+
+- id: 278
+  name: "HD 65907"
+  ra: "07h 57m 47.75s"
+  dec: "-60° 18' 10.2\""
+  app_mag: "5.6"
+  abs_mag: "4.55"
+  stellar_class: "F9.5V"
+  distance: "52.75"
+  parallax: "61.8360 [0.0417]"
+  links:
+    wikipedia: ~
+    simbad: "HD 65907"
+    stellar_catalog: "hd-65907"
+
+- id: 279
+  name: "CD-33 4354"
+  ra: "07h 57m 48.436s"
+  dec: "-33° 57' 08.22\""
+  app_mag: "8.82"
+  abs_mag: "7.53"
+  stellar_class: "K4.5Vk:"
+  distance: "63.33"
+  parallax: "51.4977 [0.5547]"
+  links:
+    wikipedia: ~
+    simbad: "CD-33 4354"
+    stellar_catalog: "cd-33-4354"
+
+- id: 280
+  name: "HD 65277"
+  ra: "07h 57m 57.731s"
+  dec: "-00° 48' 52.11\""
+  app_mag: "8.05"
+  abs_mag: "6.85"
+  stellar_class: "K4V"
+  distance: "57.58"
+  parallax: "56.6412 [0.0254]"
+  links:
+    wikipedia: ~
+    simbad: "HD 65277"
+    stellar_catalog: "hd-65277"
