@@ -4197,3 +4197,353 @@
     wikipedia: ~
     simbad: "HD 82342"
     stellar_catalog: "hd-82342"
+
+- id: 301
+  name: "Psi Velorum"
+  ra: "09h 30m 42.018s"
+  dec: "-40° 28' 00.25\""
+  app_mag: "3.91"
+  abs_mag: "2.78"
+  stellar_class: "F3IV"
+  distance: "59.73"
+  parallax: "54.6059 [0.4483]"
+  links:
+    wikipedia: "Psi_Velorum"
+    simbad: "* psi Vel"
+    stellar_catalog: "psi-velorum-a"
+
+- id: 302
+  name: "LQ Hydrae"
+  ra: "09h 32m 25.72s"
+  dec: "-11° 11' 05.0\""
+  app_mag: "7.82"
+  abs_mag: "6.47"
+  stellar_class: "K1Vp"
+  distance: "59.59"
+  parallax: "54.7362 [0.0244]"
+  links:
+    wikipedia: "LQ_Hydrae"
+    simbad: "V* LQ Hya"
+    stellar_catalog: "lq-hydrae"
+
+- id: 303
+  name: "HD 82443"
+  ra: "09h 32m 43.775s"
+  dec: "26° 59' 18.37\""
+  app_mag: "7.01"
+  abs_mag: "5.76"
+  stellar_class: "G9V(k)"
+  distance: "58.95"
+  parallax: "55.3291 [0.0206]"
+  links:
+    wikipedia: ~
+    simbad: "HD 82443"
+    stellar_catalog: "hd-82443"
+
+- id: 304
+  name: "HD 84035"
+  ra: "09h 43m 25.635s"
+  dec: "42° 41' 29.17\""
+  app_mag: "8.15"
+  abs_mag: "6.9"
+  stellar_class: "K4V"
+  distance: "58.69"
+  parallax: "55.5758 [0.0258]"
+  links:
+    wikipedia: ~
+    simbad: "HD 84035"
+    stellar_catalog: "hd-84035"
+
+- id: 305
+  name: "15 Leonis Minoris"
+  ra: "09h 48m 35.379s"
+  dec: "46° 01' 15.62\""
+  app_mag: "5.1"
+  abs_mag: "3.77"
+  stellar_class: "G0.5Va"
+  distance: "61.39"
+  parallax: "53.1277 [0.0773]"
+  links:
+    wikipedia: "15_Leonis_Minoris"
+    simbad: "* 15 LMi"
+    stellar_catalog: "15-leonis-minoris"
+
+- id: 306
+  name: "HD 87883"
+  ra: "10h 08m 43.18s"
+  dec: "34° 14' 32.7\""
+  app_mag: "7.55"
+  abs_mag: "6.26"
+  stellar_class: "K0V"
+  distance: "59.66"
+  parallax: "54.6678 [0.0295]"
+  links:
+    wikipedia: "HD_87883"
+    simbad: "HD 87883"
+    stellar_catalog: "hd-87883"
+
+- id: 307
+  name: "I Carinae"
+  ra: "10h 24m 23.66s"
+  dec: "-74° 1' 53.81\""
+  app_mag: "3.99"
+  abs_mag: "2.94"
+  stellar_class: "F3V"
+  distance: "53.09"
+  parallax: "61.4342 [0.1214]"
+  links:
+    wikipedia: "HR_4102"
+    simbad: "* I Car"
+    stellar_catalog: "i-carinae"
+
+- id: 308
+  name: "BD+46 1635"
+  ra: "10h 31m 24.21s"
+  dec: "45° 31' 33.79\""
+  app_mag: "8.88"
+  abs_mag: "7.9"
+  stellar_class: "K7V"
+  distance: "52.17"
+  parallax: "62.5202 [0.0208]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B46 1635"
+    stellar_catalog: "bd-46-1635"
+
+- id: 309
+  name: "BD+57 1274"
+  ra: "10h 31m 43.099s"
+  dec: "57° 06' 59.87\""
+  app_mag: "9.63"
+  abs_mag: "8.42"
+  stellar_class: "K5V"
+  distance: "57.21"
+  parallax: "57.01 [0.0137]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B57 1274"
+    stellar_catalog: "bd-57-1274"
+
+- id: 310
+  name: "HD 94765"
+  ra: "10h 56m 30.95s"
+  dec: "07° 23' 19.2\""
+  app_mag: "7.38"
+  abs_mag: "6.15"
+  stellar_class: "K0V"
+  distance: "56.43"
+  parallax: "57.8024 [0.02]"
+  links:
+    wikipedia: ~
+    simbad: "HD 94765"
+    stellar_catalog: "hd-94765"
+
+- id: 311
+  name: "HD 97214"
+  ra: "11h 11m 11.26s"
+  dec: "-10° 57' 08.4\""
+  app_mag: "9.22"
+  abs_mag: "7.63"
+  stellar_class: "K5V"
+  distance: "64.84"
+  parallax: "50.3036 [0.0166]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97214"
+    stellar_catalog: "hd-97214"
+
+- id: 312
+  name: "HD 97233"
+  ra: "11h 11m 32.70s"
+  dec: "-14° 59' 23.8\""
+  app_mag: "9.04"
+  abs_mag: "7.39"
+  stellar_class: "K5Vk:"
+  distance: "62.87"
+  parallax: "51.8748 [0.6600]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97233"
+    stellar_catalog: "hd-97233"
+
+- id: 313
+  name: "HD 97503"
+  ra: "11h 13m 13.227s"
+  dec: "04° 28' 55.63\""
+  app_mag: "8.7"
+  abs_mag: "7.43"
+  stellar_class: "K5V"
+  distance: "59.84"
+  parallax: "54.5058 [0.0211]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97503"
+    stellar_catalog: "hd-97503"
+
+- id: 314
+  name: "Delta Leonis"
+  ra: "11h 14m 06.495s"
+  dec: "20° 31' 25.3\""
+  app_mag: "2.53"
+  abs_mag: "1.32"
+  stellar_class: "A5IV(n)"
+  distance: "58.43"
+  parallax: "55.82 [0.25]"
+  links:
+    wikipedia: "Delta_Leonis"
+    simbad: "* del Leo"
+    stellar_catalog: "delta-leonis"
+
+- id: 315
+  name: "83 Leonis"
+  ra: "11h 26m 45.328s"
+  dec: "03° 00' 47.05\""
+  app_mag: "6.49"
+  abs_mag: "5.25"
+  stellar_class: "G9IV-V"
+  distance: "59.29"
+  parallax: "55.0090 [0.0240]"
+  links:
+    wikipedia: "83_Leonis"
+    simbad: "* 83 Leo A"
+    stellar_catalog: "83-leonis-a"
+
+- id: 316
+  name: "MV Ursae Majoris"
+  ra: "11h 38m 59.82s"
+  dec: "42° 19' 39.9\""
+  app_mag: "8.22"
+  abs_mag: "6.74"
+  stellar_class: "K5V"
+  distance: "62.96"
+  parallax: "51.8077 [0.1151]"
+  links:
+    wikipedia: ~
+    simbad: "V* MV UMa"
+    stellar_catalog: "mv-ursae-majoris"
+
+- id: 317
+  name: "HD 102438"
+  ra: "11h 47m 15.815s"
+  dec: "-30° 17' 11.35\""
+  app_mag: "6.48"
+  abs_mag: "5.23"
+  stellar_class: "G6V"
+  distance: "57.87"
+  parallax: "56.3626 [0.0169]"
+  links:
+    wikipedia: ~
+    simbad: "HD 102438"
+    stellar_catalog: "hd-102438"
+
+- id: 318
+  name: "Eta Crucis"
+  ra: "12h 06m 52.884s"
+  dec: "-64° 36' 49.48\""
+  app_mag: "4.14"
+  abs_mag: "2.67"
+  stellar_class: "F2V"
+  distance: "64.21"
+  parallax: "50.7919 [0.1049]"
+  links:
+    wikipedia: "Eta_Crucis"
+    simbad: "* eta Cru"
+    stellar_catalog: "eta-crucis"
+
+- id: 319
+  name: "HD 105671"
+  ra: "12h 09m 55.30s"
+  dec: "-46° 12' 29.5\""
+  app_mag: "8.43"
+  abs_mag: "6.98"
+  stellar_class: "K4Vk:"
+  distance: "64.52"
+  parallax: "50.5536 [0.0248]"
+  links:
+    wikipedia: ~
+    simbad: "HD 105671"
+    stellar_catalog: "hd-105671"
+
+- id: 320
+  name: "HD 107596"
+  ra: "12h 21m 54.027s"
+  dec: "42° 08' 01.8\""
+  app_mag: "9.36"
+  abs_mag: "8.36"
+  stellar_class: "M0V"
+  distance: "51.99"
+  parallax: "62.7385 [0.0181]"
+  links:
+    wikipedia: ~
+    simbad: "HD 107596"
+    stellar_catalog: "hd-107596"
+
+- id: 321
+  name: "Eta Corvi"
+  ra: "12h 32m 04.223s"
+  dec: "-16° 11' 45.63\""
+  app_mag: "4.31"
+  abs_mag: "3"
+  stellar_class: "F2V"
+  distance: "59.5"
+  parallax: "54.8135 [0.1562]"
+  links:
+    wikipedia: "Eta_Corvi"
+    simbad: "* eta Crv"
+    stellar_catalog: "eta-corvi"
+
+- id: 322
+  name: "HD 109200"
+  ra: "12h 33m 31.394s"
+  dec: "-68° 45' 20.75\""
+  app_mag: "7.13"
+  abs_mag: "6.09"
+  stellar_class: "K1V"
+  distance: "52.8"
+  parallax: "61.7737 [0.0154]"
+  links:
+    wikipedia: ~
+    simbad: "HD 109200"
+    stellar_catalog: "hd-109200"
+
+- id: 323
+  name: "10 Canum Venaticorum"
+  ra: "12h 44m 59.393s"
+  dec: "39° 16' 44.46\""
+  app_mag: "5.95"
+  abs_mag: "4.76"
+  stellar_class: "F9V_Fe-0.3"
+  distance: "57.26"
+  parallax: "56.9588 [0.0323]"
+  links:
+    wikipedia: "10_Canum_Venaticorum"
+    simbad: "* 10 CVn"
+    stellar_catalog: "10-canum-venaticorum"
+
+- id: 324
+  name: "HD 110810"
+  ra: "12h 45m 14.63s"
+  dec: "-57° 21' 27.7\""
+  app_mag: "7.84"
+  abs_mag: "6.3"
+  stellar_class: "K4V"
+  distance: "64.52"
+  parallax: "50.5533 [0.0201]"
+  links:
+    wikipedia: ~
+    simbad: "HD 110810"
+    stellar_catalog: "hd-110810"
+
+- id: 325
+  name: "HD 111261"
+  ra: "12h 48m 10.91s"
+  dec: "-24° 48' 25.2\""
+  app_mag: "8.9"
+  abs_mag: "7.41
+  stellar_class: "K4V"
+  distance: "61.15"
+  parallax: "53.3334 [0.0255]"
+  links:
+    wikipedia: ~
+    simbad: "HD 111261"
+    stellar_catalog: "hd-111261"
