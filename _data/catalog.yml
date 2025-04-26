@@ -4617,3 +4617,283 @@
     wikipedia: "Alpha_Comae_Berenices"
     simbad: "* alf Com"
     stellar_catalog: "alpha-comae-berenices"
+
+- id: 331
+  name: "HD 114837"
+  ra: "13h 14m 15.131s"
+  dec: "-59° 06' 11.75\""
+  app_mag: "4.93"
+  abs_mag: "3.63"
+  stellar_class: "F6VFe-0.4"
+  distance: "59.49"
+  parallax: "54.8247 [0.0809]"
+  links:
+    wikipedia: "HD_114837"
+    simbad: "HD 114837"
+    stellar_catalog: "hd-114837"
+
+- id: 332
+  name: "59 Virginis"
+  ra: "13h 16m 46.51s"
+  dec: "09° 25' 26.6\""
+  app_mag: "5.22"
+  abs_mag: "3.94"
+  stellar_class: "G0V"
+  distance: "57.36"
+  parallax: "56.8577 [0.1224]"
+  links:
+    wikipedia: "59_Virginis"
+    simbad: "* e Vir"
+    stellar_catalog: "59-virginis"
+
+- id: 333
+  name: "Iota Centauri"
+  ra: "13h 20m 35.822s"
+  dec: "-36° 42' 44.32\""
+  app_mag: "2.73"
+  abs_mag: "1.48"
+  stellar_class: "kA1.5hA3mA3Va"
+  distance: "58.18"
+  parallax: "56.0571 [1.1147]"
+  links:
+    wikipedia: "Iota_Centauri"
+    simbad: "* iot Cen"
+    stellar_catalog: "iota-centauri"
+
+- id: 334
+  name: "HD 116495"
+  ra: "13h 23m 33.10s"
+  dec: "29° 14' 12.8\""
+  app_mag: "9.44"
+  abs_mag: "8.15"
+  stellar_class: "K5V"
+  distance: "59.08"
+  parallax: "55.2100 [0.0249]"
+  links:
+    wikipedia: ~
+    simbad: "HD 116495"
+    stellar_catalog: "hd-116495"
+
+- id: 335
+  name: "HD 116442"
+  ra: "13h 23m 39.15s"
+  dec: "02° 43' 22.2\""
+  app_mag: "7.06"
+  abs_mag: "6.04"
+  stellar_class: "G9V"
+  distance: "54.11"
+  parallax: "60.2817 [0.0231]"
+  links:
+    wikipedia: ~
+    simbad: "HD 116442"
+    stellar_catalog: "hd-116442"
+
+- id: 336
+  name: "70 Virginis"
+  ra: "13h 28m 25.809s"
+  dec: "13° 46' 43.5\""
+  app_mag: "4.97"
+  abs_mag: "3.69"
+  stellar_class: "G4Va"
+  distance: "59.03"
+  parallax: "55.2511 [0.0779]"
+  links:
+    wikipedia: "70_Virginis"
+    simbad: "* 70 Vir"
+    stellar_catalog: "70-virginis"
+
+- id: 337
+  name: "HD 117936"
+  ra: "13h 33m 32.403s"
+  dec: "08° 35' 12.35\""
+  app_mag: "7.96"
+  abs_mag: "6.65"
+  stellar_class: "K3V"
+  distance: "59.17"
+  parallax: "55.1239 [0.0266]"
+  links:
+    wikipedia: ~
+    simbad: "HD 117936"
+    stellar_catalog: "hd-117936"
+
+- id: 338
+  name: "HD 118972"
+  ra: "13h 41m 04.162s"
+  dec: "-34° 27' 51.74\""
+  app_mag: "6.93"
+  abs_mag: "5.97"
+  stellar_class: "K1V"
+  distance: "51.18"
+  parallax: "63.7263 [0.0291]"
+  links:
+    wikipedia: ~
+    simbad: "HD 118972"
+    stellar_catalog: "hd-118972"
+
+- id: 339
+  name: "i Centauri"
+  ra: "13h 45m 40.662s"
+  dec: "-33° 02' 39.725\""
+  app_mag: "4.23"
+  abs_mag: "2.8"
+  stellar_class: "F2V"
+  distance: "62.83"
+  parallax: "51.9074 [0.2259]"
+  links:
+    wikipedia: "1_Centauri"
+    simbad: "* i Cen"
+    stellar_catalog: "i-centauri"
+
+- id: 340
+  name: "Tau Boötis"
+  ra: "13h 47m 15.74s"
+  dec: "17° 27' 24.43\""
+  app_mag: "4.5"
+  abs_mag: "3.53"
+  stellar_class: "F7IV-V"
+  distance: "50.93"
+  parallax: "64.0470 [0.1093]"
+  links:
+    wikipedia: "Tau_Boötis"
+    simbad: "* tau Boo"
+    stellar_catalog: "tau-bootis-a"
+
+- id: 341
+  name: "HD 120690"
+  ra: "13h 51m 20.70s"
+  dec: "-24° 23' 23.2\""
+  app_mag: "6.43"
+  abs_mag: "4.98"
+  stellar_class: "G5Va"
+  distance: "60.54"
+  parallax: "53.8785 [0.3427]"
+  links:
+    wikipedia: ~
+    simbad: "HD 120690"
+    stellar_catalog: "hd-120690"
+
+- id: 342
+  name: "HD 120780"
+  ra: "13h 52m 35.888s"
+  dec: "-50° 55' 18.29\""
+  app_mag: "7.37"
+  abs_mag: "6.29"
+  stellar_class: "K0V"
+  distance: "53.62"
+  parallax: "60.8277 [0.1364]"
+  links:
+    wikipedia: ~
+    simbad: "HD 120780"
+    stellar_catalog: "hd-120780"
+
+- id: 343
+  name: "HD 121271"
+  ra: "13h 55m 2.637s"
+  dec: "-29° 05' 25.84\""
+  app_mag: "9.63"
+  abs_mag: "8.5"
+  stellar_class: "K7V"
+  distance: "56.3"
+  parallax: "59.4452 [0.0218]"
+  links:
+    wikipedia: ~
+    simbad: "HD 121271"
+    stellar_catalog: "hd-121271"
+
+- id: 344
+  name: "HD 122742"
+  ra: "14h 03m 32.351s"
+  dec: "10° 47' 12.55\""
+  app_mag: "6.29"
+  abs_mag: "5.19"
+  stellar_class: "G8V"
+  distance: "49.31"
+  parallax: "66.1469 [0.2708]"
+  links:
+    wikipedia: ~
+    simbad: "HD 122742"
+    stellar_catalog: "hd-122742"
+
+- id: 345
+  name: "Theta Centauri"
+  ra: "14h 06m 40.951s"
+  dec: "-36° 22' 12.03\""
+  app_mag: "2.05"
+  abs_mag: "0.7"
+  stellar_class: "K0-IIIb"
+  distance: "58.82"
+  parallax: "55.45 [0.20]"
+  links:
+    wikipedia: "Theta_Centauri"
+    simbad: "* tet Cen"
+    stellar_catalog: "theta-centauri"
+
+- id: 346
+  name: "HD 124642"
+  ra: "14h 13m 57.35s"
+  dec: "30° 13' 00.3\""
+  app_mag: "8.03"
+  abs_mag: "6.82"
+  stellar_class: "K3.5V"
+  distance: "56.18"
+  parallax: "58.0586 [0.0228]"
+  links:
+    wikipedia: ~
+    simbad: "HD 124642"
+    stellar_catalog: "hd-124642"
+
+- id: 347
+  name: "HD 125276"
+  ra: "14h 19m 00.774s"
+  dec: "-25° 48' 54.58\""
+  app_mag: "5.87"
+  abs_mag: "4.62"
+  stellar_class: "F9VFe-1.5CH-0.7"
+  distance: "58.67"
+  parallax: "55.5900 [0.0531]"
+  links:
+    wikipedia: ~
+    simbad: "HD 125276"
+    stellar_catalog: "hd-125276"
+
+- id: 348
+  name: "HD 126053"
+  ra: "14h 23m 15.301s"
+  dec: "01° 14' 29.79\""
+  app_mag: "6.27"
+  abs_mag: "5.04"
+  stellar_class: "G1.5V"
+  distance: "56.95"
+  parallax: "57.2706 [0.0375]"
+  links:
+    wikipedia: "HD_126053"
+    simbad: "HD 126053"
+    stellar_catalog: "hd-126053"
+
+- id: 349
+  name: "HD 128642"
+  ra: "14h 29m 22.57s"
+  dec: "80° 48' 36.6\""
+  app_mag: "6.88"
+  abs_mag: "5.42"
+  stellar_class: "G5"
+  distance: "64.26"
+  parallax: "50.7601 [0.4340]"
+  links:
+    wikipedia: ~
+    simbad: "HD 128642"
+    stellar_catalog: "hd-128642"
+
+- id: 350
+  name: "HD 127339"
+  ra: "14h 30m 47.8s"
+  dec: "-08° 38' 45.8\""
+  app_mag: "9.4"
+  abs_mag: "8.31"
+  stellar_class: "K7V"
+  distance: "51.48"
+  parallax: "63.3625 [0.0171]"
+  links:
+    wikipedia: ~
+    simbad: "HD 127339"
+    stellar_catalog: "hd-127339"
