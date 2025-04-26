@@ -4539,7 +4539,7 @@
   ra: "12h 48m 10.91s"
   dec: "-24° 48' 25.2\""
   app_mag: "8.9"
-  abs_mag: "7.41
+  abs_mag: "7.41"
   stellar_class: "K4V"
   distance: "61.15"
   parallax: "53.3334 [0.0255]"
@@ -4547,3 +4547,73 @@
     wikipedia: ~
     simbad: "HD 111261"
     stellar_catalog: "hd-111261"
+
+- id: 326
+  name: "HD 111395"
+  ra: "12h 48m 47.035s"
+  dec: "24° 50' 24.61\""
+  app_mag: "6.3"
+  abs_mag: "5.12"
+  stellar_class: "G5V"
+  distance: "55.77"
+  parallax: "58.4858 [0.0293]"
+  links:
+    wikipedia: "HD_111395"
+    simbad: "HD 111395"
+    stellar_catalog: "hd-111395"
+
+- id: 327
+  name: "HD 113194"
+  ra: "13h 02m 20.79s"
+  dec: "-26° 47' 11.8\""
+  app_mag: "8.35"
+  abs_mag: "7.1"
+  stellar_class: "K5Vk:"
+  distance: "57.28"
+  parallax: "56.9407 [0.1946]"
+  links:
+    wikipedia: ~
+    simbad: "HD 113194"
+    stellar_catalog: "hd-113194"
+
+- id: 328
+  name: "HD 113538"
+  ra: "13h 04m 57.398s"
+  dec: "-52° 26' 35.11\""
+  app_mag: "9.06"
+  abs_mag: "8.07"
+  stellar_class: "K9Vk:"
+  distance: "53.19"
+  parallax: "61.3202 [0.0201]"
+  links:
+    wikipedia: "HD_113538"
+    simbad: "HD 113538"
+    stellar_catalog: "hd-113538"
+
+- id: 329
+  name: "BD+21 2486"
+  ra: "13h 06m 15.355s"
+  dec: "20° 43' 43.5\""
+  app_mag: "9.72"
+  abs_mag: "8.09"
+  stellar_class: "M0V"
+  distance: "64.2"
+  parallax: "50.8073 [0.0226]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B21 2486"
+    stellar_catalog: "bd-21-2486a"
+
+- id: 330
+  name: "Alpha Comae Berenices"
+  ra: "13h 09m 59.317s"
+  dec: "17° 31' 46.29\""
+  app_mag: "4.8"
+  abs_mag: "3.55"
+  stellar_class: "F5V"
+  distance: "58.14"
+  parallax: "56.10 [0.89]"
+  links:
+    wikipedia: "Alpha_Comae_Berenices"
+    simbad: "* alf Com"
+    stellar_catalog: "alpha-comae-berenices"
