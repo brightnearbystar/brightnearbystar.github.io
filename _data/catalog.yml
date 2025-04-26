@@ -4787,20 +4787,6 @@
     stellar_catalog: "hd-120780"
 
 - id: 343
-  name: "HD 121271"
-  ra: "13h 55m 2.637s"
-  dec: "-29° 05' 25.84\""
-  app_mag: "9.63"
-  abs_mag: "8.5"
-  stellar_class: "K7V"
-  distance: "56.3"
-  parallax: "59.4452 [0.0218]"
-  links:
-    wikipedia: ~
-    simbad: "HD 121271"
-    stellar_catalog: "hd-121271"
-
-- id: 344
   name: "HD 122742"
   ra: "14h 03m 32.351s"
   dec: "10° 47' 12.55\""
@@ -4814,7 +4800,7 @@
     simbad: "HD 122742"
     stellar_catalog: "hd-122742"
 
-- id: 345
+- id: 344
   name: "Theta Centauri"
   ra: "14h 06m 40.951s"
   dec: "-36° 22' 12.03\""
@@ -4828,7 +4814,7 @@
     simbad: "* tet Cen"
     stellar_catalog: "theta-centauri"
 
-- id: 346
+- id: 345
   name: "HD 124642"
   ra: "14h 13m 57.35s"
   dec: "30° 13' 00.3\""
@@ -4842,7 +4828,7 @@
     simbad: "HD 124642"
     stellar_catalog: "hd-124642"
 
-- id: 347
+- id: 346
   name: "HD 125276"
   ra: "14h 19m 00.774s"
   dec: "-25° 48' 54.58\""
@@ -4856,7 +4842,7 @@
     simbad: "HD 125276"
     stellar_catalog: "hd-125276"
 
-- id: 348
+- id: 347
   name: "HD 126053"
   ra: "14h 23m 15.301s"
   dec: "01° 14' 29.79\""
@@ -4870,7 +4856,7 @@
     simbad: "HD 126053"
     stellar_catalog: "hd-126053"
 
-- id: 349
+- id: 348
   name: "HD 128642"
   ra: "14h 29m 22.57s"
   dec: "80° 48' 36.6\""
@@ -4884,7 +4870,7 @@
     simbad: "HD 128642"
     stellar_catalog: "hd-128642"
 
-- id: 350
+- id: 349
   name: "HD 127339"
   ra: "14h 30m 47.8s"
   dec: "-08° 38' 45.8\""
@@ -4897,3 +4883,17 @@
     wikipedia: ~
     simbad: "HD 127339"
     stellar_catalog: "hd-127339"
+
+- id: 350
+  name: "Sigma Boötis"
+  ra: "14h 34m 40.82s"
+  dec: "29° 44' 42.46\""
+  app_mag: "4.46"
+  abs_mag: "3.52"
+  stellar_class: "F4VkF2mF1"
+  distance: "51.39"
+  parallax: "63.4679 [0.1173]"
+  links:
+    wikipedia: "Sigma_Boötis"
+    simbad: "* sig Boo"
+    stellar_catalog: "--sig-boo"
