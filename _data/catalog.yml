@@ -4897,3 +4897,353 @@
     wikipedia: "Sigma_Boötis"
     simbad: "* sig Boo"
     stellar_catalog: "--sig-boo"
+
+- id: 351
+  name: "HD 128311"
+  ra: "14h 36m 0.551s"
+  dec: "9° 44' 47.53\""
+  app_mag: "7.45"
+  abs_mag: "6.39"
+  stellar_class: "K3V"
+  distance: "53.23"
+  parallax: "61.2792 [0.0426]"
+  links:
+    wikipedia: "HD_128311"
+    simbad: "HD 128311"
+    stellar_catalog: "hd-128311"
+
+- id: 352
+  name: "Alpha Circini"
+  ra: "14h 42m 30.408s"
+  dec: "-64° 58' 30.51\""
+  app_mag: "3.19"
+  abs_mag: "2.12"
+  stellar_class: "A7VpSrCrEu"
+  distance: "54.04"
+  parallax: "60.9930 [0.2260]"
+  links:
+    wikipedia: "Alpha_Circini"
+    simbad: "* alf Cir"
+    stellar_catalog: "alpha-circini"
+
+- id: 353
+  name: "Mu Virginis"
+  ra: "14h 43m 03.629s"
+  dec: "-05° 39' 29.56\""
+  app_mag: "3.88"
+  abs_mag: "2.52"
+  stellar_class: "F2V"
+  distance: "59.59"
+  parallax: "52.1815 [0.3855]"
+  links:
+    wikipedia: "Mu_Virginis"
+    simbad: "* mu. Vir"
+    stellar_catalog: "mu-virginis"
+
+- id: 354
+  name: "HD 130004"
+  ra: "14h 45m 24.32s"
+  dec: "13° 50' 48.7\""
+  app_mag: "7.87"
+  abs_mag: "6.49"
+  stellar_class: "K0V"
+  distance: "61.35"
+  parallax: "53.1607 [0.0213]"
+  links:
+    wikipedia: ~
+    simbad: "HD 130004"
+    stellar_catalog: "hd-130004"
+
+- id: 355
+  name: "BD+17 2785"
+  ra: "14h 46m 23.261s"
+  dec: "16° 29' 47.86\""
+  app_mag: "9.23"
+  abs_mag: "8.03"
+  stellar_class: "K5V"
+  distance: "57.86"
+  parallax: "56.3664 [0.0163]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B17 2785"
+    stellar_catalog: "bd-17-2785"
+
+- id: 356
+  name: "HD 130307"
+  ra: "14h 47m 16.27s"
+  dec: "02° 42' 12.3\""
+  app_mag: "7.76"
+  abs_mag: "6.32"
+  stellar_class: "K1V"
+  distance: "63.01"
+  parallax: "51.7643 [0.0262]"
+  links:
+    wikipedia: ~
+    simbad: "HD 130307"
+    stellar_catalog: "hd-130307"
+
+- id: 357
+  name: "HP Boötis"
+  ra: "14h 50m 15.81s"
+  dec: "23° 54' 42.57\""
+  app_mag: "5.86"
+  abs_mag: "4.59"
+  stellar_class: "F9IV-V"
+  distance: "59.36"
+  parallax: "54.9502 [0.0343]"
+  links:
+    wikipedia: "HD_130948"
+    simbad: "HD 130948"
+    stellar_catalog: "hp-bootis"
+
+- id: 358
+  name: "HD 130992"
+  ra: "14h 51m 40.472s"
+  dec: "-24° 18' 14.48\""
+  app_mag: "7.82"
+  abs_mag: "6.67"
+  stellar_class: "K3.5V"
+  distance: "54.69"
+  parallax: "59.6388 [0.0275]"
+  links:
+    wikipedia: ~
+    simbad: "HD 130992"
+    stellar_catalog: "hd-130992"
+
+- id: 359
+  name: "HD 132683"
+  ra: "15h 00m 43.42s"
+  dec: "-11° 08' 02.3\""
+  app_mag: "9.47"
+  abs_mag: "8.06"
+  stellar_class: "K8Vp"
+  distance: "58.17"
+  parallax: "56.0678 [0.0258]"
+  links:
+    wikipedia: ~
+    simbad: "HD 132683"
+    stellar_catalog: "hd-132683"
+
+- id: 360
+  name: "BD+06 2986"
+  ra: "15h 04m 53.576s"
+  dec: "05° 38' 17.54\""
+  app_mag: "9.83"
+  abs_mag: "8.41"
+  stellar_class: "K8V"
+  distance: "62.12"
+  parallax: "52.5048 [0.0235]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B06 2986"
+    stellar_catalog: "bd-06-2986"
+
+- id: 361
+  name: "45 Boötis"
+  ra: "15h 07m 18.069s"
+  dec: "24° 52' 08.96\""
+  app_mag: "4.93"
+  abs_mag: "3.46"
+  stellar_class: "F5V"
+  distance: "63.72"
+  parallax: "51.1875 [0.0879]"
+  links:
+    wikipedia: "45_Boötis"
+    simbad: "* c Boo"
+    stellar_catalog: "45-bootis"
+
+- id: 362
+  name: "HD 135204"
+  ra: "15h 13m 50.886s"
+  dec: "-01° 21' 03.94\""
+  app_mag: "7.35"
+  abs_mag: "6.16"
+  stellar_class: "G9V"
+  distance: "56.31"
+  parallax: "57.9205 [0.0300]"
+  links:
+    wikipedia: ~
+    simbad: "HD 135204"
+    stellar_catalog: "hd-135204"
+
+- id: 363
+  name: "HD 135599"
+  ra: "15h 15m 59.06s"
+  dec: "00° 47' 48.1\""
+  app_mag: "6.91"
+  abs_mag: "5.96"
+  stellar_class: "K0V"
+  distance: "51.6"
+  parallax: "63.2139 [0.0229]"
+  links:
+    wikipedia: ~
+    simbad: "HD 135599"
+    stellar_catalog: "hd-135599"
+
+- id: 364
+  name: "BD-04 3873"
+  ra: "15h 22m 04.135s"
+  dec: "-04° 46' 38.41\""
+  app_mag: "9.47"
+  abs_mag: "8.09"
+  stellar_class: "K7V"
+  distance: "62.47"
+  parallax: "52.21 [0.0166]"
+  links:
+    wikipedia: ~
+    simbad: "BD-04 3873"
+    stellar_catalog: "bd-04-3873"
+
+- id: 365
+  name: "HD 136923"
+  ra: "15h 22m 46.98s"
+  dec: "18° 55' 07.6\""
+  app_mag: "7.12"
+  abs_mag: "5.69"
+  stellar_class: "G9V"
+  distance: "64.27"
+  parallax: "50.7454 [0.018]"
+  links:
+    wikipedia: ~
+    simbad: "HD 136923"
+    stellar_catalog: "hd-136923"
+
+- id: 366
+  name: "Eta Coronae Borealis"
+  ra: "15h 23m 12.347s"
+  dec: "30° 17' 16.24\""
+  app_mag: "5.62"
+  abs_mag: "4.27"
+  stellar_class: "G2V"
+  distance: "58.26"
+  parallax: "55.98 [0.78]"
+  links:
+    wikipedia: "Eta_Coronae_Borealis"
+    simbad: "* eta CrB"
+    stellar_catalog: "eta-coronae-borealis-a"
+
+- id: 367
+  name: "HD 137763"
+  ra: "15h 28m 09.57s"
+  dec: "-09° 20' 49.9\""
+  app_mag: "6.89"
+  abs_mag: "5.39"
+  stellar_class: "G9V"
+  distance: "63.78"
+  parallax: "51.1421 [0.7370]"
+  links:
+    wikipedia: ~
+    simbad: "HD 137763"
+    stellar_catalog: "hd-137763"
+
+- id: 368
+  name: "HD 139477"
+  ra: "15h 35m 20.415s"
+  dec: "60° 05' 10.567\""
+  app_mag: "8.39"
+  abs_mag: "6.98"
+  stellar_class: "K3V"
+  distance: "63.68"
+  parallax: "51.2222 [0.0171]"
+  links:
+    wikipedia: ~
+    simbad: "HD 139477"
+    stellar_catalog: "hd-139477"
+
+- id: 369
+  name: "HD 139763"
+  ra: "15h 40m 34.47s"
+  dec: "-18° 02' 57.3\""
+  app_mag: "8.92"
+  abs_mag: "7.94"
+  stellar_class: "K6Vk"
+  distance: "50.82"
+  parallax: "64.1825 [0.0236]"
+  links:
+    wikipedia: ~
+    simbad: "HD 139763"
+    stellar_catalog: "hd-139763"
+
+- id: 370
+  name: "g Lupi"
+  ra: "15h 41m 11.402s"
+  dec: "-44° 39' 39.79\""
+  app_mag: "4.64"
+  abs_mag: "3.41"
+  stellar_class: "F3/5V"
+  distance: "56.75"
+  parallax: "57.4759 [0.1312]"
+  links:
+    wikipedia: "HD_139664"
+    simbad: "* g Lup"
+    stellar_catalog: "-g-lup"
+
+- id: 371
+  name: "HD 140901"
+  ra: "15h 47m 29.18s"
+  dec: "-37° 54' 59.9\""
+  app_mag: "6.01"
+  abs_mag: "5.09"
+  stellar_class: "G7IV"
+  distance: "49.73"
+  parallax: "65.5889 [0.0342]"
+  links:
+    wikipedia: ~
+    simbad: "HD 140901"
+    stellar_catalog: "hd-140901"
+
+- id: 372
+  name: "Chi Herculis"
+  ra: "15h 52m 40.542s"
+  dec: "42° 27' 5.64\""
+  app_mag: "4.62"
+  abs_mag: "3.62"
+  stellar_class: "F8VFe-2Hdel-1"
+  distance: "51.85"
+  parallax: "62.9028 [0.0807]"
+  links:
+    wikipedia: "Chi_Herculis"
+    simbad: "* chi Her"
+    stellar_catalog: "chi-herculis"
+
+- id: 373
+  name: "39 Serpentis"
+  ra: "15h 53m 12.105s"
+  dec: "13° 11' 47.9\""
+  app_mag: "6.09"
+  abs_mag: "4.87"
+  stellar_class: "G1VFe-1"
+  distance: "57.99"
+  parallax: "56.2405 [0.2206]"
+  links:
+    wikipedia: ~
+    simbad: "* 39 Ser"
+    stellar_catalog: "-39-ser"
+
+- id: 374
+  name: "Rho Coronae Borealis"
+  ra: "16h 01m 02.72s"
+  dec: "33° 18' 12.9\""
+  app_mag: "5.4"
+  abs_mag: "4.21"
+  stellar_class: "G0+VaFe-1"
+  distance: "57.11"
+  parallax: "57.1076 [0.0508]"
+  links:
+    wikipedia: "Rho_Coronae_Borealis"
+    simbad: "* rho CrB"
+    stellar_catalog: "rho-coronae-borealis"
+
+- id: 375
+  name: "HD 144253"
+  ra: "16h 05m 40.482s"
+  dec: "-20° 27' 00.24\""
+  app_mag: "7.39"
+  abs_mag: "6.06"
+  stellar_class: "K3V"
+  distance: "58.37"
+  parallax: "55.8809 [0.2207]"
+  links:
+    wikipedia: ~
+    simbad: "HD 144253"
+    stellar_catalog: "hd-144253"
