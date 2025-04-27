@@ -5247,3 +5247,353 @@
     wikipedia: ~
     simbad: "HD 144253"
     stellar_catalog: "hd-144253"
+
+- id: 376
+  name: "14 Herculis"
+  ra: "16h 10m 24.34s"
+  dec: "43° 49' 03.81\""
+  app_mag: "6.67"
+  abs_mag: "5.35"
+  stellar_class: "K0V"
+  distance: "58.38"
+  parallax: "55.8657 [0.0291]"
+  links:
+    wikipedia: "14_Herculis"
+    simbad: "* 14 Her"
+    stellar_catalog: "14-herculis"
+
+- id: 377
+  name: "BD+41 2695"
+  ra: "16h 20m 52.704s"
+  dec: "40° 57' 41.68\""
+  app_mag: "9"
+  abs_mag: "7.99"
+  stellar_class: "K5V"
+  distance: "51.49"
+  parallax: "63.3405 [0.0145]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B41 2695"
+    stellar_catalog: "bd-41-2695"
+
+- id: 378
+  name: "HD 148467"
+  ra: "16h 27m 56.937s"
+  dec: "07° 18' 20.48\""
+  app_mag: "8.85"
+  abs_mag: "7.59"
+  stellar_class: "K8V"
+  distance: "57.13"
+  parallax: "57.0866 [0.0234]"
+  links:
+    wikipedia: ~
+    simbad: "HD 148467"
+    stellar_catalog: "hd-148467"
+
+- id: 379
+  name: "HD 148653"
+  ra: "16h 28m 52.661s"
+  dec: "18° 24' 50.61\""
+  app_mag: "7.59"
+  abs_mag: "5.55"
+  stellar_class: "K3V"
+  distance: "64.12"
+  parallax: "51.8080 [0.0175]"
+  links:
+    wikipedia: ~
+    simbad: "HD 148653"
+    stellar_catalog: "hd-148653a"
+
+- id: 380
+  name: "Epsilon Scorpii"
+  ra: "16h 50m 10.24s"
+  dec: "-34° 17' 33.4\""
+  app_mag: "2.29"
+  abs_mag: "0.84"
+  stellar_class: "K1III"
+  distance: "63.72"
+  parallax: "51.19 [0.22]"
+  links:
+    wikipedia: "Epsilon_Scorpii"
+    simbad: "* eps Sco"
+    stellar_catalog: "epsilon-scorpii"
+
+- id: 381
+  name: "HD 152391"
+  ra: "16h 52m 58.79s"
+  dec: "00° 01' 35.87\""
+  app_mag: "6.63"
+  abs_mag: "5.49"
+  stellar_class: "G8.5Vk:"
+  distance: "54.83"
+  parallax: "59.4805 [0.0232]"
+  links:
+    wikipedia: ~
+    simbad: "HD 152391"
+    stellar_catalog: "hd-152391"
+
+- id: 382
+  name: "HD 152606"
+  ra: "16h 55m 37.95s"
+  dec: "-32° 04' 00.8\""
+  app_mag: "9.58"
+  abs_mag: "8.27"
+  stellar_class: "K8Vk"
+  distance: "57.69"
+  parallax: "56.5381 [0.0171]"
+  links:
+    wikipedia: ~
+    simbad: "HD 152606"
+    stellar_catalog: "hd-152606"
+
+- id: 383
+  name: "19 Draconis"
+  ra: "16h 56m 01.689s"
+  dec: "65° 08' 05.26\""
+  app_mag: "4.89"
+  abs_mag: "3.98"
+  stellar_class: "F8V"
+  distance: "49.76"
+  parallax: "65.2904 [0.5470]"
+  links:
+    wikipedia: "19_Draconis"
+    simbad: "* h Dra"
+    stellar_catalog: "19-draconis"
+
+- id: 384
+  name: "HD 152705"
+  ra: "16h 56m 42.67s"
+  dec: "-39° 08' 12.757\""
+  app_mag: "8.59"
+  abs_mag: "7.6"
+  stellar_class: "K3/4V"
+  distance: "51.18"
+  parallax: "63.7261 [0.0204]"
+  links:
+    wikipedia: ~
+    simbad: "HD 152705"
+    stellar_catalog: "hd-152705"
+
+- id: 385
+  name: "HD 153557 / 153525"
+  ra: "16h 57m 53.166s"
+  dec: "47° 22' 00.55\""
+  app_mag: "7.83"
+  abs_mag: "6.61"
+  stellar_class: "K3V"
+  distance: "58.5"
+  parallax: "55.7183 [0.0159]"
+  links:
+    wikipedia: ~
+    simbad: "HD 153557"
+    stellar_catalog: "hd-153557"
+
+- id: 386
+  name: "HD 153026"
+  ra: "16h 58m 53.85s"
+  dec: "-39° 33' 32.7\""
+  app_mag: "8.48"
+  abs_mag: "6.92"
+  stellar_class: "K5"
+  distance: "62.34"
+  parallax: "52.9027 [0.0207]"
+  links:
+    wikipedia: ~
+    simbad: "HD 153026"
+    stellar_catalog: "hd-153026a"
+
+- id: 387
+  name: "HD 154345"
+  ra: "17h 02m 36.394s"
+  dec: "47° 04' 55.84\""
+  app_mag: "6.74"
+  abs_mag: "5.48"
+  stellar_class: "G9"
+  distance: "59.59"
+  parallax: "54.7359 [0.0176]"
+  links:
+    wikipedia: "HD_154345"
+    simbad: "HD 154345"
+    stellar_catalog: "hd-154345"
+
+- id: 388
+  name: "HD 154088"
+  ra: "17h 04m 27.885s"
+  dec: "-28° 34' 57.94\""
+  app_mag: "6.58"
+  abs_mag: "5.29"
+  stellar_class: "K0IV-V"
+  distance: "59.6"
+  parallax: "54.726 [0.0236]"
+  links:
+    wikipedia: "HD_154088"
+    simbad: "HD 154088"
+    stellar_catalog: "hd-154088"
+
+- id: 389
+  name: "HD 156985"
+  ra: "17h 17m 50.41s"
+  dec: "52° 26' 51.3\""
+  app_mag: "7.93"
+  abs_mag: "6.59"
+  stellar_class: "K2"
+  distance: "60.42"
+  parallax: "53.9817 [0.015]"
+  links:
+    wikipedia: ~
+    simbad: "HD 156985"
+    stellar_catalog: "hd-156985"
+
+- id: 390
+  name: "Xi Ophiuchi"
+  ra: "17h 21m 00.234s"
+  dec: "-21° 06' 46.26\""
+  app_mag: "4.39"
+  abs_mag: "3.21"
+  stellar_class: "F2V"
+  distance: "57.14"
+  parallax: "57.0820 [0.1851]"
+  links:
+    wikipedia: "Xi_Ophiuchi"
+    simbad: "* ksi Oph"
+    stellar_catalog: "xi-ophiuchi"
+
+- id: 391
+  name: "HD 157347"
+  ra: "17h 22m 51.26s"
+  dec: "-02° 23' 16.5\""
+  app_mag: "6.28"
+  abs_mag: "4.83"
+  stellar_class: "G3V"
+  distance: "63.99"
+  parallax: "50.9694 [0.0251]"
+  links:
+    wikipedia: ~
+    simbad: "HD 157347"
+    stellar_catalog: "hd-157347"
+
+- id: 392
+  name: "HD 158233"
+  ra: "17h 29m 06.74s"
+  dec: "-23° 50' 09.4\""
+  app_mag: "9.6"
+  abs_mag: "8.23"
+  stellar_class: "K5V"
+  distance: "59.99"
+  parallax: "54.3668 [0.022]"
+  links:
+    wikipedia: ~
+    simbad: "HD 158233"
+    stellar_catalog: "hd-158233"
+
+- id: 393
+  name: "HD 158614"
+  ra: "17h 30m 23.811s"
+  dec: "-01° 03' 46.33\""
+  app_mag: "5.98"
+  abs_mag: "4.9"
+  stellar_class: "G9-IV-VHdel1"
+  distance: "53.3"
+  parallax: "61.19 [0.68]"
+  links:
+    wikipedia: "HD_158614"
+    simbad: "HD 158614"
+    stellar_catalog: "hd-158614"
+
+- id: 394
+  name: "HD 160964"
+  ra: "17h 36m 13.19s"
+  dec: "71° 52' 42.4\""
+  app_mag: "8.59"
+  abs_mag: "7.15"
+  stellar_class: "K4V"
+  distance: "62.13"
+  parallax: "52.4929 [0.0167]"
+  links:
+    wikipedia: ~
+    simbad: "HD 160964"
+    stellar_catalog: "hd-160964"
+
+- id: 395
+  name: "58 Ophiuchi"
+  ra: "17h 43m 25.803s"
+  dec: "-21° 40' 59.51\""
+  app_mag: "4.86"
+  abs_mag: "3.66"
+  stellar_class: "F5V"
+  distance: "56"
+  parallax: "58.2437 [0.1484]"
+  links:
+    wikipedia: "58_Ophiuchi"
+    simbad: "* 58 Oph"
+    stellar_catalog: "58-ophiuchi"
+
+- id: 396
+  name: "Mu Arae"
+  ra: "17h 44m 08.703s"
+  dec: "-51° 50' 02.59\""
+  app_mag: "5.12"
+  abs_mag: "4.17"
+  stellar_class: "G3IV-V"
+  distance: "50.89"
+  parallax: "64.0853 [0.0904]"
+  links:
+    wikipedia: "Mu_Arae"
+    simbad: "* mu. Ara"
+    stellar_catalog: "mu-arae"
+
+- id: 397
+  name: "HD 165185"
+  ra: "18h 06m 23.711s"
+  dec: "-36° 01' 10.68\""
+  app_mag: "5.95"
+  abs_mag: "4.7"
+  stellar_class: "G1V"
+  distance: "55.82"
+  parallax: "58.4296 [0.0404]"
+  links:
+    wikipedia: "HD_165185"
+    simbad: "HD 165185"
+    stellar_catalog: "hd-165185"
+
+- id: 398
+  name: "99 Herculis"
+  ra: "18h 07m 1.582s"
+  dec: "30° 33' 43.28\""
+  app_mag: "5.1"
+  abs_mag: "4.12"
+  stellar_class: "F6V"
+  distance: "51.45"
+  parallax: "63.3943 [0.075]"
+  links:
+    wikipedia: "99_Herculis"
+    simbad: "* b Her"
+    stellar_catalog: "99-herculis-a"
+
+- id: 399
+  name: "Iota Pavonis"
+  ra: "18h 10m 26.197s"
+  dec: "-62° 00' 08.72\""
+  app_mag: "5.47"
+  abs_mag: "4.23"
+  stellar_class: "G0V"
+  distance: "58.04"
+  parallax: "56.1961 [0.2674]"
+  links:
+    wikipedia: ~
+    simbad: "* iot Pav"
+    stellar_catalog: "iota-pavonis"
+
+- id: 400
+  name: "Gliese 710"
+  ra: "18h 19m 50.79s"
+  dec: "-01° 56' 19.5\""
+  app_mag: "9.69"
+  abs_mag: "8.23"
+  stellar_class: "K7Vk"
+  distance: "62.25"
+  parallax: "52.3963 [0.0171]"
+  links:
+    wikipedia: "Gliese_710"
+    simbad: "HD 168442"
+    stellar_catalog: "gliese-710"
