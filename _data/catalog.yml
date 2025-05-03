@@ -5947,3 +5947,353 @@
     wikipedia: ~
     simbad: "HD 190404"
     stellar_catalog: "hd-190404"
+
+- id: 426
+  name: "15 Sagittae"
+  ra: "20h 04m 06.22s"
+  dec: "17° 04' 13.1\""
+  app_mag: "5.79"
+  abs_mag: "4.55"
+  stellar_class: "G0V"
+  distance: "57.96"
+  parallax: "56.2693 [0.0433]"
+  links:
+    wikipedia: "15_Sagittae"
+    simbad: "* 15 Sge"
+    stellar_catalog: "15-sagittae"
+
+- id: 427
+  name: "HD 190771"
+  ra: "20h 05m 09.89s"
+  dec: "38° 28' 42\""
+  app_mag: "6.2"
+  abs_mag: "4.82"
+  stellar_class: "G2V"
+  distance: "62.09"
+  parallax: "52.5334 [0.0295]"
+  links:
+    wikipedia: ~
+    simbad: "HD 190771"
+    stellar_catalog: "hd-190771"
+
+- id: 428
+  name: "HD 189567"
+  ra: "20h 05m 32.706s"
+  dec: "-67° 19' 15.47\""
+  app_mag: "6.07"
+  abs_mag: "4.84"
+  stellar_class: "G2V"
+  distance: "58.49"
+  parallax: "55.7654 [0.0245]"
+  links:
+    wikipedia: "HD_189567"
+    simbad: "HD 189567"
+    stellar_catalog: "hd-189567"
+
+- id: 429
+  name: "HD 191391"
+  ra: "20h 10m 19.583s"
+  dec: "-20° 29' 35.77\""
+  app_mag: "8.91"
+  abs_mag: "7.94"
+  stellar_class: "K6Vk"
+  distance: "51.6"
+  parallax: "63.2074 [0.0347]"
+  links:
+    wikipedia: ~
+    simbad: "HD 191391"
+    stellar_catalog: "hd-191391"
+
+- id: 430
+  name: "HD 193202"
+  ra: "20h 10m 52.334s"
+  dec: "77° 14' 20.11\""
+  app_mag: "8.88"
+  abs_mag: "7.76"
+  stellar_class: "K7V"
+  distance: "54.89"
+  parallax: "59.4184 [0.0142]"
+  links:
+    wikipedia: ~
+    simbad: "HD 193202"
+    stellar_catalog: "hd-193202"
+
+- id: 431
+  name: "HD 192263"
+  ra: "20h 13m 59.88s"
+  dec: "-00° 52' 03.1\""
+  app_mag: "7.77"
+  abs_mag: "6.36"
+  stellar_class: "K1/2V"
+  distance: "64.02"
+  parallax: "50.9432 [0.023]"
+  links:
+    wikipedia: "HD_192263"
+    simbad: "HD 192263"
+    stellar_catalog: "hd-192263"
+
+- id: 432
+  name: "HD 193664"
+  ra: "20h 17m 31.293s"
+  dec: "66° 51' 13.26\""
+  app_mag: "5.92"
+  abs_mag: "4.7"
+  stellar_class: "G3V"
+  distance: "57.02"
+  parallax: "57.2041 [0.0208]"
+  links:
+    wikipedia: "HD_193664"
+    simbad: "HD 193664"
+    stellar_catalog: "hd-193664"
+
+- id: 433
+  name: "HD 192961"
+  ra: "20h 19m 36.95s"
+  dec: "-46° 25' 41.18\""
+  app_mag: "8.71"
+  abs_mag: "7.46"
+  stellar_class: "K5.5V"
+  distance: "60.35"
+  parallax: "54.0441 [0.0287]"
+  links:
+    wikipedia: ~
+    simbad: "HD 192961"
+    stellar_catalog: "hd-192961"
+
+- id: 434
+  name: "HD 194640"
+  ra: "20h 27m 44.249s"
+  dec: "-30° 52' 04.37\""
+  app_mag: "6.62"
+  abs_mag: "5.17"
+  stellar_class: "G8V"
+  distance: "62.97"
+  parallax: "51.7989 [0.0192]"
+  links:
+    wikipedia: ~
+    simbad: "HD 194640"
+    stellar_catalog: "hd-194640"
+
+- id: 435
+  name: "HD 196795"
+  ra: "20h 39m 37.751s"
+  dec: "04° 58' 19.35\""
+  app_mag: "8.18"
+  abs_mag: "6.83"
+  stellar_class: "K5V"
+  distance: "54.54"
+  parallax: "59.80 [3.42]"
+  links:
+    wikipedia: ~
+    simbad: "HD 196795"
+    stellar_catalog: "hd-196795"
+
+- id: 436
+  name: "HD 200560"
+  ra: "21h 02m 40.759s"
+  dec: "45° 53' 05.55\""
+  app_mag: "7.71"
+  abs_mag: "6.25"
+  stellar_class: "K2.5V"
+  distance: "63.46"
+  parallax: "51.3935 [0.0180]"
+  links:
+    wikipedia: ~
+    simbad: "HD 200560"
+    stellar_catalog: "hd-200560"
+
+- id: 437
+  name: "HD 200779"
+  ra: "21h 05m 19.72s"
+  dec: "07° 04' 08.5\""
+  app_mag: "8.27"
+  abs_mag: "7.42"
+  stellar_class: "K6V"
+  distance: "49.07"
+  parallax: "66.4626 [0.0225]"
+  links:
+    wikipedia: "HD_200779"
+    simbad: "HD 200779"
+    stellar_catalog: "hd-200779"
+
+- id: 438
+  name: "HD 200968"
+  ra: "21h 07m 10.477s"
+  dec: "-13° 55' 22.71\""
+  app_mag: "7.15"
+  abs_mag: "5.92"
+  stellar_class: "K1IV"
+  distance: "56.7"
+  parallax: "57.5240 [0.0209]"
+  links:
+    wikipedia: ~
+    simbad: "HD 200968"
+    stellar_catalog: "hd-200968a"
+
+- id: 439
+  name: "Delta Equulei"
+  ra: "21h 14m 28.774s"
+  dec: "10° 00' 24.9\""
+  app_mag: "5.11"
+  abs_mag: "3.78"
+  stellar_class: "F7V"
+  distance: "60.3"
+  parallax: "54.09 [0.66]"
+  links:
+    wikipedia: "Delta_Equulei"
+    simbad: "* del Equ"
+    stellar_catalog: "delta-equulei-a"
+
+- id: 440
+  name: "HD 202575"
+  ra: "21h 16m 32.462s"
+  dec: "09° 23' 37.55\""
+  app_mag: "7.92"
+  abs_mag: "6.87"
+  stellar_class: "K3V"
+  distance: "52.74"
+  parallax: "61.838 [0.023]"
+  links:
+    wikipedia: ~
+    simbad: "HD 202575"
+    stellar_catalog: "hd-202575"
+
+- id: 441
+  name: "Alpha Cephei"
+  ra: "21h 18m 34.769s"
+  dec: "62° 35' 08.08\""
+  app_mag: "2.46"
+  abs_mag: "1.58"
+  stellar_class: "A8Vn"
+  distance: "49.05"
+  parallax: "66.50 [0.11]"
+  links:
+    wikipedia: "Alpha_Cephei"
+    simbad: "* alf Cep"
+    stellar_catalog: "alpha-cephei"
+
+- id: 442
+  name: "HD 202940"
+  ra: "21h 19m 45.524s"
+  dec: "-26° 21' 11.99\""
+  app_mag: "6.63"
+  abs_mag: "5.27"
+  stellar_class: "G5V"
+  distance: "60.37"
+  parallax: "54.0288 [0.2927]"
+  links:
+    wikipedia: ~
+    simbad: "HD 202940"
+    stellar_catalog: "hd-202940"
+
+- id: 443
+  name: "HD 203040"
+  ra: "21h 20m 13.835s"
+  dec: "-19° 51' 08.42\""
+  app_mag: "9.09"
+  abs_mag: "8.03"
+  stellar_class: "K6.5Vk"
+  distance: "51.46"
+  parallax: "63.3864 [0.0243]"
+  links:
+    wikipedia: ~
+    simbad: "HD 203040"
+    stellar_catalog: "hd-203040"
+
+- id: 444
+  name: "HD 204587"
+  ra: "21h 30m 02.74s"
+  dec: "-12° 30' 36.34\""
+  app_mag: "9.11"
+  abs_mag: "7.82"
+  stellar_class: "K7Vk:"
+  distance: "57.8"
+  parallax: "56.4265 [0.0236]"
+  links:
+    wikipedia: ~
+    simbad: "HD 204587"
+    stellar_catalog: "hd-204587"
+
+- id: 445
+  name: "Nu Octantis"
+  ra: "21h 41m 28.47s"
+  dec: "-77° 23' 22.1\""
+  app_mag: "3.73"
+  abs_mag: "2.1"
+  stellar_class: "K1III"
+  distance: "63.31"
+  parallax: "51.5172 [0.6525]"
+  links:
+    wikipedia: "Nu_Octantis"
+    simbad: "* nu. Oct"
+    stellar_catalog: "nu-octantis"
+
+- id: 446
+  name: "BD+40 4631"
+  ra: "21h 44m 30.01s"
+  dec: "41° 35' 50.5\""
+  app_mag: "9.67"
+  abs_mag: "8.17"
+  stellar_class: "K8V"
+  distance: "64.7"
+  parallax: "50.4101 [0.0137]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B40 4631"
+    stellar_catalog: "bd-40-4631"
+
+- id: 447
+  name: "HN Pegasi"
+  ra: "21h 44m 31.336s"
+  dec: "14° 46' 18.8\""
+  app_mag: "5.95"
+  abs_mag: "4.62"
+  stellar_class: "G0V+"
+  distance: "59.14"
+  parallax: "55.148 [0.0348]"
+  links:
+    wikipedia: "HN_Pegasi"
+    simbad: "V* HN Peg"
+    stellar_catalog: "hn-pegasi-a"
+
+- id: 448
+  name: "HD 206804"
+  ra: "21h 46m 35.807s"
+  dec: "-57° 42' 12.15\""
+  app_mag: "9.47"
+  abs_mag: "8.07"
+  stellar_class: "K6.5Vk"
+  distance: "60.76"
+  parallax: "53.68 [1.40]"
+  links:
+    wikipedia: ~
+    simbad: "HD 206804"
+    stellar_catalog: "hd-206804"
+
+- id: 449
+  name: "HD 207129"
+  ra: "21h 48m 15.758s"
+  dec: "-47° 18' 13.18\""
+  app_mag: "5.58"
+  abs_mag: "4.61"
+  stellar_class: "G2V"
+  distance: "50.75"
+  parallax: "64.2717 [0.0430]"
+  links:
+    wikipedia: "HD_207129"
+    simbad: "HD 207129"
+    stellar_catalog: "hd-207129"
+
+- id: 450
+  name: "Tau Piscis Austrini"
+  ra: "22h 10m 08.777s"
+  dec: "-32° 32' 54.05\""
+  app_mag: "4.92"
+  abs_mag: "3.56"
+  stellar_class: "F6V"
+  distance: "60.2"
+  parallax: "54.1773 [0.0940]"
+  links:
+    wikipedia: "Tau_Piscis_Austrini"
+    simbad: "* tau PsA"
+    stellar_catalog: "tau-piscis-austrini"
