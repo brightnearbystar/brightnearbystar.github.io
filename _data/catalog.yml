@@ -6297,3 +6297,353 @@
     wikipedia: "Tau_Piscis_Austrini"
     simbad: "* tau PsA"
     stellar_catalog: "tau-piscis-austrini"
+
+- id: 451
+  name: "53 Aquarii"
+  ra: "22h 26m 34.15s"
+  dec: "-16° 44' 31.7\""
+  app_mag: "5.55"
+  abs_mag: "4.04"
+  stellar_class: "G2V"
+  distance: "63.32"
+  parallax: "51.5079 [0.1296]"
+  links:
+    wikipedia: "53_Aquarii"
+    simbad: "* 53 Aqr"
+    stellar_catalog: "53-aquarii"
+
+- id: 452
+  name: "HD 213042"
+  ra: "22h 29m 15.266s"
+  dec: "-30° 01' 06.98\""
+  app_mag: "7.65"
+  abs_mag: "6.69"
+  stellar_class: "K4V"
+  distance: "51.24"
+  parallax: "63.6519 [0.0266]"
+  links:
+    wikipedia: ~
+    simbad: "HD 213042"
+    stellar_catalog: "hd-213042"
+
+- id: 453
+  name: "Xi Pegasi"
+  ra: "22h 46m 41.59s"
+  dec: "12° 10' 22.39\""
+  app_mag: "4.2"
+  abs_mag: "3.14"
+  stellar_class: "F6V"
+  distance: "53.54"
+  parallax: "60.9161 [0.1739]"
+  links:
+    wikipedia: "Xi_Pegasi"
+    simbad: "* ksi Peg"
+    stellar_catalog: "ksi-pegasi"
+
+- id: 454
+  name: "HD 216520"
+  ra: "22h 47m 32.68s"
+  dec: "83° 41' 48.3\""
+  app_mag: "7.53"
+  abs_mag: "6.06"
+  stellar_class: "K0V"
+  distance: "63.76"
+  parallax: "51.1561 [0.0184]"
+  links:
+    wikipedia: ~
+    simbad: "HD 216520"
+    stellar_catalog: "hd-216520"
+
+- id: 455
+  name: "51 Pegasi"
+  ra: "22h 57m 27.965s"
+  dec: "20° 46' 07.1\""
+  app_mag: "5.49"
+  abs_mag: "4.54"
+  stellar_class: "G2IV"
+  distance: "50.64"
+  parallax: "64.4048 [0.0771]"
+  links:
+    wikipedia: "51_Pegasi"
+    simbad: "* 51 Peg"
+    stellar_catalog: "51-pegasi"
+
+- id: 456
+  name: "HD 217486"
+  ra: "23h 01m 37.74s"
+  dec: "-44° 59' 19.0\""
+  app_mag: "8.96"
+  abs_mag: "7.7"
+  stellar_class: "K3+V"
+  distance: "58.53"
+  parallax: "55.7205 [0.4377]"
+  links:
+    wikipedia: ~
+    simbad: "HD 217486"
+    stellar_catalog: "hd-217486"
+
+- id: 457
+  name: "HD 217580"
+  ra: "23h 01m 51.562s"
+  dec: "-03° 50' 55.32\""
+  app_mag: "7.48"
+  abs_mag: "6.33"
+  stellar_class: "K3V"
+  distance: "52.75"
+  parallax: "61.8341 [0.4863]"
+  links:
+    wikipedia: ~
+    simbad: "HD 217580"
+    stellar_catalog: "hd-217580"
+
+- id: 458
+  name: "HD 219764"
+  ra: "23h 19m 05.468s"
+  dec: "-60° 31' 14.17\""
+  app_mag: "8.93"
+  abs_mag: "7.53"
+  stellar_class: "K5Vk:"
+  distance: "64.43"
+  parallax: "50.6228 [0.0182]"
+  links:
+    wikipedia: ~
+    simbad: "HD 219764"
+    stellar_catalog: "hd-219764"
+
+- id: 459
+  name: "HD 220140"
+  ra: "23h 19m 26.02s"
+  dec: "79° 00' 12.0\""
+  app_mag: "7.53"
+  abs_mag: "6.11"
+  stellar_class: "G9V"
+  distance: "61.79"
+  parallax: "52.7838 [0.0137]"
+  links:
+    wikipedia: ~
+    simbad: "HD 220140"
+    stellar_catalog: "hd-220140"
+
+- id: 460
+  name: "HD 220339"
+  ra: "23h 23m 04.892s"
+  dec: "-10° 45' 51.07\""
+  app_mag: "7.8"
+  abs_mag: "6.35"
+  stellar_class: "K2V"
+  distance: "62.53"
+  parallax: "52.1643 [0.0275]"
+  links:
+    wikipedia: ~
+    simbad: "HD 220339"
+    stellar_catalog: "hd-220339"
+
+- id: 461
+  name: "HD 221354"
+  ra: "23h 31m 22.198s"
+  dec: "59° 09' 55.39\""
+  app_mag: "6.77"
+  abs_mag: "5.63"
+  stellar_class: "K0V"
+  distance: "54.94"
+  parallax: "59.3670 [0.0169]"
+  links:
+    wikipedia: ~
+    simbad: "HD 221354"
+    stellar_catalog: "hd-221354"
+
+- id: 462
+  name: "HD 222335"
+  ra: "23h 39m 51.259s"
+  dec: "-32° 44' 36.71\""
+  app_mag: "7.18"
+  abs_mag: "5.82"
+  stellar_class: "G9.5V"
+  distance: "59.61"
+  parallax: "54.7193 [0.0254]"
+  links:
+    wikipedia: ~
+    simbad: "HD 222335"
+    stellar_catalog: "hd-222335"
+
+- id: 463
+  name: "BD+82 733"
+  ra: "23h 40m 57.94s"
+  dec: "82° 52' 19.31\""
+  app_mag: "8.35"
+  abs_mag: "6.9"
+  stellar_class: "K2"
+  distance: "64.57"
+  parallax: "50.5133 [0.2364]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B82 733"
+    stellar_catalog: "bd-82-733"
+
+- id: 464
+  name: "G 130-9"
+  ra: "23h 45m 49.484s"
+  dec: "36° 15' 18.27\""
+  app_mag: "9.89"
+  abs_mag: "8.42"
+  stellar_class: "K4V"
+  distance: "64.72"
+  parallax: "50.3962 [0.0158]"
+  links:
+    wikipedia: ~
+    simbad: "G 130-9"
+    stellar_catalog: "g-130-9"
+
+- id: 465
+  name: "BD+28 4660"
+  ra: "23h 53m 08.64s"
+  dec: "29° 01' 04.9\""
+  app_mag: "9.83"
+  abs_mag: "8.3"
+  stellar_class: "K6V"
+  distance: "64.94"
+  parallax: "50.2282 [0.0153]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B28 4660"
+    stellar_catalog: "bd-28-4660"
+
+- id: 466
+  name: "HD 123"
+  ra: "00h 06m 15.81s"
+  dec: "58° 26' 12.11\""
+  app_mag: "6.42"
+  abs_mag: "4.83"
+  stellar_class: "G3V"
+  distance: "67.8"
+  parallax: "48.1027 [0.0398]"
+  links:
+    wikipedia: "HD_123"
+    simbad: "HD 123"
+    stellar_catalog: "hd-123"
+
+- id: 467
+  name: "Theta Sculptoris"
+  ra: "00h 11m 44.02s"
+  dec: "-35° 07' 59.21\""
+  app_mag: "5.24"
+  abs_mag: "3.56"
+  stellar_class: "F5V"
+  distance: "70.84"
+  parallax: "46.0425 [0.0961]"
+  links:
+    wikipedia: "Theta_Sculptoris"
+    simbad: "* tet Scl"
+    stellar_catalog: "-tet-scl"
+
+- id: 468
+  name: "HD 870"
+  ra: "00h 12m 50.25s"
+  dec: "-57° 54' 45.39\""
+  app_mag: "7.23"
+  abs_mag: "5.66"
+  stellar_class: "K0V"
+  distance: "67.35"
+  parallax: "48.4289 [0.0177]"
+  links:
+    wikipedia: ~
+    simbad: "HD 870"
+    stellar_catalog: "hd-870"
+
+- id: 469
+  name: "HD 1461"
+  ra: "00h 18m 41.87s"
+  dec: "-08° 03' 10.80\""
+  app_mag: "6.46"
+  abs_mag: "4.61"
+  stellar_class: "G3VFe0.5"
+  distance: "76.33"
+  parallax: "42.7308 [0.0299]"
+  links:
+    wikipedia: "HD_1461"
+    simbad: "HD 1461"
+    stellar_catalog: "hd-1461"
+
+- id: 470
+  name: "TOI-260"
+  ra: "00h 19m 05.56s"
+  dec: "-09° 57' 53.47\""
+  app_mag: "9.9"
+  abs_mag: "8.37"
+  stellar_class: "M0V"
+  distance: "65.92"
+  parallax: "49.4757 [0.0178]"
+  links:
+    wikipedia: ~
+    simbad: "BD-10 47"
+    stellar_catalog: "toi-260"
+
+- id: 471
+  name: "HD 1562"
+  ra: "00h 20m 00.41s"
+  dec: "38° 13' 38.63\""
+  app_mag: "6.98"
+  abs_mag: "5.01"
+  stellar_class: "G1V"
+  distance: "80.65"
+  parallax: "40.4392 [0.0181]"
+  links:
+    wikipedia: ~
+    simbad: "HD 1562"
+    stellar_catalog: "hd-1562"
+
+- id: 472
+  name: "HD 1815"
+  ra: "00h 22m 23.56s"
+  dec: "-27° 01' 57.05\""
+  app_mag: "8.32"
+  abs_mag: "6.63"
+  stellar_class: "K2Vk:"
+  distance: "70.98"
+  parallax: "45.9535 [0.3435]"
+  links:
+    wikipedia: ~
+    simbad: "HD 1815"
+    stellar_catalog: "hd-1815"
+
+- id: 473
+  name: "9 Ceti"
+  ra: "00h 22m 51.79s"
+  dec: "-12° 12' 33.97\""
+  app_mag: "6.39"
+  abs_mag: "4.74"
+  stellar_class: "G2.5V"
+  distance: "69.58"
+  parallax: "46.8742 [0.0270]"
+  links:
+    wikipedia: "9_Ceti"
+    simbad: "* 9 Cet"
+    stellar_catalog: "-9-cet"
+
+- id: 474
+  name: "HD 1910"
+  ra: "00h 23m 15.96s"
+  dec: "-33° 10' 03.09\""
+  app_mag: "8.76"
+  abs_mag: "7.03"
+  stellar_class: "K4Vk:"
+  distance: "72.25"
+  parallax: "45.1443 [0.02]"
+  links:
+    wikipedia: ~
+    simbad: "HD 1910"
+    stellar_catalog: "hd-1910"
+
+- id: 475
+  name: "Kappa Phoenicis"
+  ra: "00h 26m 12.20s"
+  dec: "-43° 40' 47.39\""
+  app_mag: "3.94"
+  abs_mag: "2.04"
+  stellar_class: "A5IVn"
+  distance: "78.17"
+  parallax: "41.7228 [0.1358]"
+  links:
+    wikipedia: "Kappa_Phoenicis"
+    simbad: "* kap Phe"
+    stellar_catalog: "-kap-phe"
