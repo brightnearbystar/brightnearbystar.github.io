@@ -5376,13 +5376,13 @@
 
 - id: 385
   name: "HD 153557 / 153525"
-  ra: "16h 57m 53.166s"
-  dec: "47° 22' 00.55\""
-  app_mag: "7.83"
-  abs_mag: "6.61"
+  ra: "16h 57m 53.18s"
+  dec: "47° 22' 00.06\""
+  app_mag: "7.82"
+  abs_mag: "6.55"
   stellar_class: "K3V"
   distance: "58.5"
-  parallax: "55.7183 [0.0159]"
+  parallax: "55.7508 [0.0164]"
   links:
     wikipedia: ~
     simbad: "HD 153557"
