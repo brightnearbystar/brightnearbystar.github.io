@@ -6997,3 +6997,703 @@
     wikipedia: ~
     simbad: "BD%2B14 251"
     stellar_catalog: "gaia-edr3-2589107273595379584"
+
+- id: 501
+  name: "HD 10853"
+  ra: "01h 46m 38.72s"
+  dec: "12° 24' 42.38\""
+  app_mag: "8.89"
+  abs_mag: "6.99"
+  stellar_class: "K3.5V"
+  distance: "78.32"
+  parallax: "41.646 [0.0224]"
+  links:
+    wikipedia: ~
+    simbad: "HD 10853"
+    stellar_catalog: "hd-10853"
+
+- id: 502
+  name: "Chi Ceti"
+  ra: "01h 49m 35.10s"
+  dec: "-10° 41' 11.07\""
+  app_mag: "4.68"
+  abs_mag: "2.83"
+  stellar_class: "F0V"
+  distance: "76.59"
+  parallax: "42.5848 [0.1249]"
+  links:
+    wikipedia: "Chi_Ceti"
+    simbad: "* chi Cet"
+    stellar_catalog: "-chi-cet"
+
+- id: 503
+  name: "HD 11373"
+  ra: "01h 54m 06.12s"
+  dec: "66° 10' 34.29\""
+  app_mag: "8.48"
+  abs_mag: "6.72"
+  stellar_class: "K3Vk"
+  distance: "73.34"
+  parallax: "44.4745 [0.0162]"
+  links:
+    wikipedia: ~
+    simbad: "HD 11373"
+    stellar_catalog: "hd-11373"
+
+- id: 504
+  name: "HD 12058"
+  ra: "01h 56m 32.49s"
+  dec: "-60° 13' 35.90\""
+  app_mag: "8.61"
+  abs_mag: "7.09"
+  stellar_class: "K4.5Vk:"
+  distance: "65.61"
+  parallax: "49.7123 [0.0192]"
+  links:
+    wikipedia: ~
+    simbad: "HD 12058"
+    stellar_catalog: "hd-12058"
+
+- id: 505
+  name: "HD 12051"
+  ra: "01h 59m 06.63s"
+  dec: "33° 12' 34.86\""
+  app_mag: "7.14"
+  abs_mag: "5.17"
+  stellar_class: "G9V"
+  distance: "80.65"
+  parallax: "40.4424 [0.0257]"
+  links:
+    wikipedia: ~
+    simbad: "HD 12051"
+    stellar_catalog: "hd-12051"
+
+- id: 506
+  name: "HD 12846"
+  ra: "02h 06m 30.24s"
+  dec: "24° 20' 02.37\""
+  app_mag: "6.89"
+  abs_mag: "5.01"
+  stellar_class: "G2V"
+  distance: "77.45"
+  parallax: "42.1141 [0.0205]"
+  links:
+    wikipedia: ~
+    simbad: "HD 12846"
+    stellar_catalog: "hd-12846"
+
+- id: 507
+  name: "Alpha Arietis"
+  ra: "02h 07m 10.41s"
+  dec: "23° 27' 44.70\""
+  app_mag: "2.01"
+  abs_mag: "0.49"
+  stellar_class: "K2-IIIbCa-1"
+  distance: "65.81"
+  parallax: "49.56 [0.25]"
+  links:
+    wikipedia: "Hamal"
+    simbad: "* alf Ari"
+    stellar_catalog: "alpha-arietis"
+
+- id: 508
+  name: "HD 13513"
+  ra: "02h 11m 02.21s"
+  dec: "-35° 40' 14.76\""
+  app_mag: "10.21"
+  abs_mag: "8.46"
+  stellar_class: "M0.0"
+  distance: "72.98"
+  parallax: "44.6896 [0.0141]"
+  links:
+    wikipedia: ~
+    simbad: "HD 13513A"
+    stellar_catalog: "hd-13513"
+
+- id: 509
+  name: "BD-21 397"
+  ra: "02h 13m 12.16s"
+  dec: "-21° 11' 47.24\""
+  app_mag: "9.83"
+  abs_mag: "7.95"
+  stellar_class: "K7V"
+  distance: "77.43"
+  parallax: "42.1225 [0.0167]"
+  links:
+    wikipedia: ~
+    simbad: "BD-21 397"
+    stellar_catalog: "bd-21-397"
+
+- id: 510
+  name: "HD 13789"
+  ra: "02h 14m 13.57s"
+  dec: "-03° 38' 06.73\""
+  app_mag: "8.54"
+  abs_mag: "6.76"
+  stellar_class: "K3/4V"
+  distance: "74.17"
+  parallax: "43.9772 [0.0421]"
+  links:
+    wikipedia: ~
+    simbad: "HD 13789"
+    stellar_catalog: "hd-13789"
+
+- id: 511
+  name: "HD 14001"
+  ra: "02h 15m 46.14s"
+  dec: "-18° 14' 17.31\""
+  app_mag: "8.49"
+  abs_mag: "6.68"
+  stellar_class: "K4V"
+  distance: "75.01"
+  parallax: "43.4814 [0.0264]"
+  links:
+    wikipedia: ~
+    simbad: "HD 14001"
+    stellar_catalog: "hd-14001a"
+
+- id: 512
+  name: "HD 14214"
+  ra: "02h 18m 01.44s"
+  dec: "01° 45' 28.12\""
+  app_mag: "5.6"
+  abs_mag: "3.85"
+  stellar_class: "G1V"
+  distance: "73.14"
+  parallax: "44.5963 [0.3470]"
+  links:
+    wikipedia: "HD_14214"
+    simbad: "HD 14214"
+    stellar_catalog: "gaia-edr3-2513664248895784192"
+
+- id: 513
+  name: "Kappa Fornacis"
+  ra: "02h 22m 32.59s"
+  dec: "-23° 49' 00.48\""
+  app_mag: "5.2"
+  abs_mag: "3.36"
+  stellar_class: "G0V"
+  distance: "76.01"
+  parallax: "42.9117 [0.4166]"
+  links:
+    wikipedia: "Kappa_Fornacis"
+    simbad: "* kap For"
+    stellar_catalog: "-kap-for"
+
+- id: 514
+  name: "Sigma Ceti"
+  ra: "02h 32m 05.19s"
+  dec: "-15° 14' 41.65\""
+  app_mag: "4.75"
+  abs_mag: "2.94"
+  stellar_class: "F5V"
+  distance: "75.19"
+  parallax: "43.3776 [0.5588]"
+  links:
+    wikipedia: "Sigma_Ceti"
+    simbad: "* sig Cet"
+    stellar_catalog: "gaia-edr3-5145955421492456960"
+
+- id: 515
+  name: "HD 16348"
+  ra: "02h 32m 58.93s"
+  dec: "-72° 41' 14.75\""
+  app_mag: "8.82"
+  abs_mag: "7"
+  stellar_class: "K3.5Vk:"
+  distance: "75.31"
+  parallax: "43.3064 [0.0134]"
+  links:
+    wikipedia: ~
+    simbad: "HD 16348"
+    stellar_catalog: "hd-16348"
+
+- id: 516
+  name: "HD 16270"
+  ra: "02h 36m 00.78s"
+  dec: "-23° 31' 16.77\""
+  app_mag: "8.33"
+  abs_mag: "6.69"
+  stellar_class: "K3.5Vk:"
+  distance: "69.26"
+  parallax: "47.0903 [0.0223]"
+  links:
+    wikipedia: ~
+    simbad: "HD 16270"
+    stellar_catalog: "hd-16270"
+
+- id: 517
+  name: "FT Ceti"
+  ra: "02h 36m 41.76s"
+  dec: "-03° 09' 22.09\""
+  app_mag: "8.1"
+  abs_mag: "6.16"
+  stellar_class: "K1V"
+  distance: "79.64"
+  parallax: "40.9518 [0.0386]"
+  links:
+    wikipedia: ~
+    simbad: "V* FT Cet"
+    stellar_catalog: "v-ft-cet"
+
+- id: 518
+  name: "Epsilon Ceti"
+  ra: "02h 39m 33.80s"
+  dec: "-11° 52' 19.55\""
+  app_mag: "4.87"
+  abs_mag: "3.01"
+  stellar_class: "F5V"
+  distance: "76.77"
+  parallax: "42.4864 [0.7591]"
+  links:
+    wikipedia: "Epsilon_Ceti"
+    simbad: "* eps Cet"
+    stellar_catalog: "-eps-cet"
+
+- id: 519
+  name: "HD 16673"
+  ra: "02h 40m 12.42s"
+  dec: "-09° 27' 10.34\""
+  app_mag: "5.79"
+  abs_mag: "4.1"
+  stellar_class: "F8VFe-0.4"
+  distance: "71.03"
+  parallax: "45.9160 [0.1537]"
+  links:
+    wikipedia: ~
+    simbad: "HD 16673"
+    stellar_catalog: "hd-16673"
+
+- id: 520
+  name: "TOI 2443"
+  ra: "02h 40m 42.87s"
+  dec: "01° 11' 55.24\""
+  app_mag: "9.51"
+  abs_mag: "7.62"
+  stellar_class: "K7V"
+  distance: "77.99"
+  parallax: "41.8223 [0.0208]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B00 444"
+    stellar_catalog: "toi-2443"
+
+- id: 521
+  name: "84 Ceti"
+  ra: "02h 41m 14.00s"
+  dec: "-00° 41' 44.35\""
+  app_mag: "5.77"
+  abs_mag: "4.03"
+  stellar_class: "F7V"
+  distance: "72.69"
+  parallax: "44.8694 [0.041]"
+  links:
+    wikipedia: "84_Ceti"
+    simbad: "* 84 Cet"
+    stellar_catalog: "-84-cet-a"
+
+- id: 522
+  name: "12 Persei"
+  ra: "02h 42m 14.91s"
+  dec: "40° 11' 38.22\""
+  app_mag: "4.92"
+  abs_mag: "3.03"
+  stellar_class: "F9V"
+  distance: "78.04"
+  parallax: "41.7962 [0.2956]"
+  links:
+    wikipedia: "12_Persei"
+    simbad: "* 12 Per"
+    stellar_catalog: "-12-per"
+
+- id: 523
+  name: "Gamma Ceti"
+  ra: "02h 43m 18.04s"
+  dec: "03° 14' 08.97\""
+  app_mag: "3.54"
+  abs_mag: "1.74"
+  stellar_class: "A2Vn"
+  distance: "74.81"
+  parallax: "43.5957 [0.8190]"
+  links:
+    wikipedia: "Gamma_Ceti"
+    simbad: "* gam Cet"
+    stellar_catalog: "-gam-cet-a"
+
+- id: 524
+  name: "CD-23 1056"
+  ra: "02h 46m 42.89s"
+  dec: "-23° 05' 11.80\""
+  app_mag: "10.24"
+  abs_mag: "8.39"
+  stellar_class: "K5V"
+  distance: "76.4"
+  parallax: "42.6929 [0.0141]"
+  links:
+    wikipedia: ~
+    simbad: "CD-23 1056"
+    stellar_catalog: "cd-23-1056"
+
+- id: 525
+  name: "HD 17382"
+  ra: "02h 48m 09.15s"
+  dec: "27° 04' 07.11\""
+  app_mag: "7.56"
+  abs_mag: "5.76"
+  stellar_class: "K2"
+  distance: "74.86"
+  parallax: "43.5704 [0.0541]"
+  links:
+    wikipedia: ~
+    simbad: "HD 17382"
+    stellar_catalog: "hd-17382"
+
+- id: 526
+  name: "HD 17660"
+  ra: "02h 50m 36.89s"
+  dec: "15° 42' 35.69\""
+  app_mag: "8.87"
+  abs_mag: "7.03"
+  stellar_class: "K4.5V"
+  distance: "76.13"
+  parallax: "42.8445 [0.0252]"
+  links:
+    wikipedia: ~
+    simbad: "HD 17660"
+    stellar_catalog: "hd-17660"
+
+- id: 527
+  name: "HD 18143"
+  ra: "02h 55m 39.06s"
+  dec: "26° 52' 23.57\""
+  app_mag: "7.68"
+  abs_mag: "5.92"
+  stellar_class: "K2IV"
+  distance: "73.41"
+  parallax: "44.4324 [0.0206]"
+  links:
+    wikipedia: ~
+    simbad: "HD 18143A"
+    stellar_catalog: "hd-18143-a"
+
+- id: 528
+  name: "HD 18445"
+  ra: "02h 57m 13.19s"
+  dec: "-24° 58' 30.41\""
+  app_mag: "7.86"
+  abs_mag: "5.92"
+  stellar_class: "K2V"
+  distance: "79.58"
+  parallax: "40.9861 [0.4288]"
+  links:
+    wikipedia: ~
+    simbad: "HD 18445"
+    stellar_catalog: "hd-18445"
+
+- id: 529
+  name: "BZ Ceti"
+  ra: "03h 00m 02.81s"
+  dec: "07° 44' 59.12\""
+  app_mag: "7.96"
+  abs_mag: "6.08"
+  stellar_class: "K2.5Vk"
+  distance: "77.51"
+  parallax: "42.0781 [0.0278]"
+  links:
+    wikipedia: ~
+    simbad: "V* BZ Cet"
+    stellar_catalog: "v-bz-cet"
+
+- id: 530
+  name: "51 Arietis"
+  ra: "03h 02m 26.03s"
+  dec: "26° 36' 33.26\""
+  app_mag: "6.67"
+  abs_mag: "5.04"
+  stellar_class: "G8V"
+  distance: "69.13"
+  parallax: "47.181 [0.0219]"
+  links:
+    wikipedia: "51_Arietis"
+    simbad: "* 51 Ari"
+    stellar_catalog: "51-arietis"
+
+- id: 531
+  name: "BD+19 451"
+  ra: "03h 03m 49.06s"
+  dec: "20° 06' 39.12\""
+  app_mag: "8.63"
+  abs_mag: "6.98"
+  stellar_class: "K5"
+  distance: "69.75"
+  parallax: "46.7601 [0.0233]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B19 451"
+    stellar_catalog: "bd-19-451"
+
+- id: 532
+  name: "HD 18757"
+  ra: "03h 04m 09.63s"
+  dec: "61° 42' 20.96\""
+  app_mag: "6.64"
+  abs_mag: "4.78"
+  stellar_class: "G1.5V"
+  distance: "76.82"
+  parallax: "42.4587 [0.0202]"
+  links:
+    wikipedia: ~
+    simbad: "HD 18757"
+    stellar_catalog: "gaia-edr3-466294295706341760"
+
+- id: 533
+  name: "HD 19071"
+  ra: "03h 05m 34.18s"
+  dec: "42° 11' 50.21\""
+  app_mag: "8.12"
+  abs_mag: "6.39"
+  stellar_class: "K0"
+  distance: "72.34"
+  parallax: "45.0845 [0.027]"
+  links:
+    wikipedia: ~
+    simbad: "HD 19071"
+    stellar_catalog: "hd-19071"
+
+- id: 534
+  name: "HD 19819"
+  ra: "03h 08m 22.43s"
+  dec: "-60° 10' 21.18\""
+  app_mag: "9.26"
+  abs_mag: "7.55"
+  stellar_class: "K5Vk:"
+  distance: "71.64"
+  parallax: "45.5286 [0.0126]"
+  links:
+    wikipedia: ~
+    simbad: "HD 19819"
+    stellar_catalog: "hd-19819"
+
+- id: 535
+  name: "G 245-65"
+  ra: "03h 09m 04.48s"
+  dec: "76° 02' 28.19\""
+  app_mag: "9.82"
+  abs_mag: "8.2"
+  stellar_class: "M0V"
+  distance: "68.65"
+  parallax: "47.5129 [0.0112]"
+  links:
+    wikipedia: ~
+    simbad: "G 245-65"
+    stellar_catalog: "g-245-65"
+
+- id: 536
+  name: "94 Ceti"
+  ra: "03h 12m 46.44s"
+  dec: "-01° 11' 45.96\""
+  app_mag: "5.07"
+  abs_mag: "3.27"
+  stellar_class: "F8.5V"
+  distance: "74.63"
+  parallax: "43.7027 [0.1325]"
+  links:
+    wikipedia: "94_Ceti"
+    simbad: "* 94 Cet"
+    stellar_catalog: "94-ceti-a"
+
+- id: 537
+  name: "HD 20165"
+  ra: "03h 14m 47.23s"
+  dec: "08° 58' 50.86\""
+  app_mag: "7.8"
+  abs_mag: "5.98"
+  stellar_class: "K1V"
+  distance: "75.39"
+  parallax: "43.2649 [0.0252]"
+  links:
+    wikipedia: ~
+    simbad: "HD 20165"
+    stellar_catalog: "hd-20165"
+
+- id: 538
+  name: "HD 20407"
+  ra: "03h 15m 06.39s"
+  dec: "-45° 39' 53.36\""
+  app_mag: "6.76"
+  abs_mag: "4.81"
+  stellar_class: "G5VFe-1.2CH-1"
+  distance: "79.99"
+  parallax: "40.7774 [0.016]"
+  links:
+    wikipedia: ~
+    simbad: "HD 20407"
+    stellar_catalog: "hd-20407"
+
+- id: 539
+  name: "HD 20619"
+  ra: "03h 19m 01.89s"
+  dec: "-02° 50' 35.49\""
+  app_mag: "7.04"
+  abs_mag: "5.14"
+  stellar_class: "G1.5V"
+  distance: "78.27"
+  parallax: "41.671 [0.0219]"
+  links:
+    wikipedia: ~
+    simbad: "HD 20619"
+    stellar_catalog: "hd-20619"
+
+- id: 540
+  name: "HD 232781"
+  ra: "03h 21m 54.76s"
+  dec: "52° 19' 53.48\""
+  app_mag: "9.05"
+  abs_mag: "7.16"
+  stellar_class: "K3.5V"
+  distance: "77.98"
+  parallax: "41.8285 [0.0192]"
+  links:
+    wikipedia: ~
+    simbad: "HD 232781"
+    stellar_catalog: "hd-232781"
+
+- id: 541
+  name: "BD-12 662"
+  ra: "03h 29m 19.79s"
+  dec: "-11° 40' 42.13\""
+  app_mag: "9.99"
+  abs_mag: "8.38"
+  stellar_class: "dK7"
+  distance: "68.59"
+  parallax: "47.5505 [0.0141]"
+  links:
+    wikipedia: ~
+    simbad: "BD-12 662"
+    stellar_catalog: "bd-12-662"
+
+- id: 542
+  name: "Kappa Reticuli"
+  ra: "03h 29m 22.68s"
+  dec: "-62° 56' 15.10\""
+  app_mag: "4.71"
+  abs_mag: "3.02"
+  stellar_class: "F3IV/V"
+  distance: "71.04"
+  parallax: "45.9103 [0.0934]"
+  links:
+    wikipedia: "Kappa_Reticuli"
+    simbad: "* kap Ret"
+    stellar_catalog: "-kap-ret"
+
+- id: 543
+  name: "HD 23052"
+  ra: "03h 42m 36.86s"
+  dec: "17° 17' 36.71\""
+  app_mag: "7.08"
+  abs_mag: "5.51"
+  stellar_class: "G4V"
+  distance: "67.08"
+  parallax: "48.6202 [0.3181]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23052"
+    stellar_catalog: "hd-23052"
+
+- id: 544
+  name: "HD 23040"
+  ra: "03h 42m 59.36s"
+  dec: "31° 39' 09.53\""
+  app_mag: "9.1"
+  abs_mag: "7.23"
+  stellar_class: "K2"
+  distance: "77.09"
+  parallax: "42.3086 [0.0268]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23040"
+    stellar_catalog: "hd-23040"
+
+- id: 545
+  name: "HD 23140"
+  ra: "03h 44m 48.83s"
+  dec: "46° 02' 08.87\""
+  app_mag: "7.7"
+  abs_mag: "5.73"
+  stellar_class: "K0V"
+  distance: "80.88"
+  parallax: "40.3275 [0.2522]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23140"
+    stellar_catalog: "gaia-edr3-244808226728958848"
+
+- id: 546
+  name: "BD+11 514"
+  ra: "03h 44m 51.13s"
+  dec: "11° 55' 12.01\""
+  app_mag: "9.08"
+  abs_mag: "7.38"
+  stellar_class: "K4/5V"
+  distance: "71.49"
+  parallax: "45.6261 [0.0234]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B11 514"
+    stellar_catalog: "bd-11-514"
+
+- id: 547
+  name: "HD 23588"
+  ra: "03h 45m 24.13s"
+  dec: "-27° 51' 44.93\""
+  app_mag: "8.39"
+  abs_mag: "6.82"
+  stellar_class: "K5V"
+  distance: "67.26"
+  parallax: "48.4931 [0.0285]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23588A"
+    stellar_catalog: "hd-23588"
+
+- id: 548
+  name: "HD 23439"
+  ra: "03h 47m 02.11s"
+  dec: "41° 25' 38.10\""
+  app_mag: "8.12"
+  abs_mag: "6.23"
+  stellar_class: "K2:V_Fe-1.3"
+  distance: "77.84"
+  parallax: "41.9035 [0.0237]"
+  links:
+    wikipedia: ~
+    simbad: "HD 23439A"
+    stellar_catalog: "gaia-edr3-231113736385994624"
+
+- id: 549
+  name: "HD 24496"
+  ra: "03h 54m 28.03s"
+  dec: "16° 36' 57.79\""
+  app_mag: "6.81"
+  abs_mag: "5.25"
+  stellar_class: "G7V"
+  distance: "66.77"
+  parallax: "48.849 [0.0207]"
+  links:
+    wikipedia: "HD_24496"
+    simbad: "HD 24496"
+    stellar_catalog: "hd-24496"
+
+- id: 550
+  name: "HD 24238"
+  ra: "03h 55m 03.84s"
+  dec: "61° 10' 00.51\""
+  app_mag: "7.86"
+  abs_mag: "6.25"
+  stellar_class: "K2V"
+  distance: "68.38"
+  parallax: "47.6976 [0.0181]"
+  links:
+    wikipedia: ~
+    simbad: "HD 24238"
+    stellar_catalog: "hd-24238"
