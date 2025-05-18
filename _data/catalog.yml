@@ -9038,7 +9038,7 @@
   distance: "72.11"
   parallax: "45.2317 [0.0205]"
   links:
-    wikipedia: ""
+    wikipedia: ~
     simbad: "BD%2B03 2316"
     stellar_catalog: "bd-03-2316"
 
@@ -9097,3 +9097,703 @@
     wikipedia: ~
     simbad: "MCC 124"
     stellar_catalog: "mcc-124"
+
+- id: 651
+  name: "39 Leonis"
+  ra: "10h 17m 14.54s"
+  dec: "23° 06' 22.38\""
+  app_mag: "5.82"
+  abs_mag: "4.08"
+  stellar_class: "F6V"
+  distance: "72.64"
+  parallax: "44.9008 [0.0699]"
+  links:
+    wikipedia: "39_Leonis"
+    simbad: "* 39 Leo"
+    stellar_catalog: "-39-leo"
+
+- id: 652
+  name: "HD 89269"
+  ra: "10h 18m 51.95s"
+  dec: "44° 02' 53.95\""
+  app_mag: "6.63"
+  abs_mag: "5.1"
+  stellar_class: "G4V"
+  distance: "65.84"
+  parallax: "49.5415 [0.0234]"
+  links:
+    wikipedia: ~
+    simbad: "HD 89269"
+    stellar_catalog: "hd-89269"
+
+- id: 653
+  name: "40 Leonis"
+  ra: "10h 19m 44.17s"
+  dec: "19° 28' 15.29\""
+  app_mag: "4.79"
+  abs_mag: "3.16"
+  stellar_class: "F6IV-V"
+  distance: "69.21"
+  parallax: "47.1255 [0.1679]"
+  links:
+    wikipedia: "40_Leonis"
+    simbad: "* 40 Leo"
+    stellar_catalog: "40-leonis"
+
+- id: 654
+  name: "Gamma Antliae"
+  ra: "10h 23m 55.27s"
+  dec: "-29° 38' 43.91\""
+  app_mag: "6.92"
+  abs_mag: "5.21"
+  stellar_class: "G5V"
+  distance: "71.58"
+  parallax: "45.5628 [0.0214]"
+  links:
+    wikipedia: "HD_90156"
+    simbad: "HD 90156"
+    stellar_catalog: "gamma-antliae"
+
+- id: 655
+  name: "HD 90508"
+  ra: "10h 28m 03.88s"
+  dec: "48° 47' 05.66\""
+  app_mag: "6.5"
+  abs_mag: "4.69"
+  stellar_class: "F9-V"
+  distance: "74.99"
+  parallax: "43.4944 [0.0386]"
+  links:
+    wikipedia: "HR_4098"
+    simbad: "HD 90508"
+    stellar_catalog: "hd-90508"
+
+- id: 656
+  name: "HD 90884"
+  ra: "10h 28m 23.55s"
+  dec: "-51° 42' 18.95\""
+  app_mag: "8.98"
+  abs_mag: "7.1"
+  stellar_class: "K3.5Vk:"
+  distance: "77.42"
+  parallax: "42.1312 [0.0133]"
+  links:
+    wikipedia: ~
+    simbad: "HD 90884"
+    stellar_catalog: "hd-90884"
+
+- id: 657
+  name: "HD 90875"
+  ra: "10h 30m 46.99s"
+  dec: "59° 45' 03.94\""
+  app_mag: "8.75"
+  abs_mag: "6.89"
+  stellar_class: "K4/5V"
+  distance: "76.68"
+  parallax: "42.5344 [0.0166]"
+  links:
+    wikipedia: ~
+    simbad: "HD 90875"
+    stellar_catalog: "hd-90875"
+
+- id: 658
+  name: "HD 90089"
+  ra: "10h 31m 04.71s"
+  dec: "82° 33' 31.15\""
+  app_mag: "5.25"
+  abs_mag: "3.44"
+  stellar_class: "F4VkF2mF2"
+  distance: "75.09"
+  parallax: "43.4367 [0.5983]"
+  links:
+    wikipedia: "HD_90089"
+    simbad: "HD 90089"
+    stellar_catalog: "hd-90089-a"
+
+- id: 659
+  name: "Y Velorum"
+  ra: "10h 31m 21.82s"
+  dec: "-53° 42' 55.74\""
+  app_mag: "4.89"
+  abs_mag: "3.17"
+  stellar_class: "F9VFe-0.8CH-0.7"
+  distance: "71.96"
+  parallax: "45.3276 [0.0662]"
+  links:
+    wikipedia: ~
+    simbad: "* Y Vel"
+    stellar_catalog: "y-velorum"
+
+- id: 660
+  name: "HD 90343"
+  ra: "10h 35m 11.27s"
+  dec: "84° 23' 57.56\""
+  app_mag: "7.29"
+  abs_mag: "5.67"
+  stellar_class: "K0"
+  distance: "68.83"
+  parallax: "47.3879 [0.0138]"
+  links:
+    wikipedia: ~
+    simbad: "HD 90343"
+    stellar_catalog: "hd-90343"
+
+- id: 661
+  name: "HD 91889"
+  ra: "10h 36m 32.38s"
+  dec: "-12° 13' 48.44\""
+  app_mag: "5.71"
+  abs_mag: "3.74"
+  stellar_class: "F8V"
+  distance: "80.74"
+  parallax: "40.3975 [0.1087]"
+  links:
+    wikipedia: ~
+    simbad: "HD 91889"
+    stellar_catalog: "hd-91889"
+
+- id: 662
+  name: "HD 91949"
+  ra: "10h 37m 33.89s"
+  dec: "34° 45' 31.75\""
+  app_mag: "9.18"
+  abs_mag: "7.36"
+  stellar_class: "F0"
+  distance: "75.44"
+  parallax: "43.2347 [1.1337]"
+  links:
+    wikipedia: ~
+    simbad: "HD 91949"
+    stellar_catalog: "hd-91949"
+
+- id: 663
+  name: "HD 92719"
+  ra: "10h 42m 13.32s"
+  dec: "-13° 47' 15.77\""
+  app_mag: "6.77"
+  abs_mag: "4.88"
+  stellar_class: "G1.5V"
+  distance: "77.83"
+  parallax: "41.9082 [0.0293]"
+  links:
+    wikipedia: ~
+    simbad: "HD 92719"
+    stellar_catalog: "gaia-edr3-3750995604764854400"
+
+- id: 664
+  name: "V* V419 Hya"
+  ra: "10h 43m 28.27s"
+  dec: "-29° 03' 51.43\""
+  app_mag: "7.72"
+  abs_mag: "6.06"
+  stellar_class: "K1V"
+  distance: "70.15"
+  parallax: "46.4931 [0.0198]"
+  links:
+    wikipedia: "HD_92945"
+    simbad: "V* V419 Hya"
+    stellar_catalog: "v-v419-hya"
+
+- id: 665
+  name: "HD 93380"
+  ra: "10h 46m 36.90s"
+  dec: "-24° 35' 07.74\""
+  app_mag: "9.37"
+  abs_mag: "7.73"
+  stellar_class: "K5Vk:"
+  distance: "69.44"
+  parallax: "46.9703 [0.0197]"
+  links:
+    wikipedia: ~
+    simbad: "HD 93380"
+    stellar_catalog: "hd-93380"
+
+- id: 666
+  name: "BD+76 404"
+  ra: "10h 54m 26.51s"
+  dec: "76° 03' 56.71\""
+  app_mag: "9.5"
+  abs_mag: "7.7"
+  stellar_class: "K6V"
+  distance: "74.84"
+  parallax: "43.5804 [0.0124]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B76 404"
+    stellar_catalog: "bd-76-404"
+
+- id: 667
+  name: "BD+70 639"
+  ra: "10h 57m 38.09s"
+  dec: "69° 35' 47.82\""
+  app_mag: "10.23"
+  abs_mag: "8.38"
+  stellar_class: "M2V"
+  distance: "76.44"
+  parallax: "42.6684 [0.0121]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B70 639"
+    stellar_catalog: "bd-70-639"
+
+- id: 668
+  name: "HD 95174"
+  ra: "10h 59m 38.31s"
+  dec: "25° 26' 15.48\""
+  app_mag: "8.46"
+  abs_mag: "6.82"
+  stellar_class: "K4V"
+  distance: "69.45"
+  parallax: "46.9655 [0.0222]"
+  links:
+    wikipedia: ~
+    simbad: "HD 95174A"
+    stellar_catalog: "hd-95174a"
+
+- id: 669
+  name: "HD 96612"
+  ra: "11h 08m 14.01s"
+  dec: "38° 25' 35.87\""
+  app_mag: "8.3"
+  abs_mag: "6.51"
+  stellar_class: "K3-V"
+  distance: "74.43"
+  parallax: "43.8237 [0.0258]"
+  links:
+    wikipedia: ~
+    simbad: "HD 96612"
+    stellar_catalog: "hd-96612"
+
+- id: 670
+  name: "HD 97343"
+  ra: "11h 12m 01.19s"
+  dec: "-26° 08' 12.01\""
+  app_mag: "7.04"
+  abs_mag: "5.32"
+  stellar_class: "G8.5V"
+  distance: "72.08"
+  parallax: "45.2482 [0.0228]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97343"
+    stellar_catalog: "hd-97343"
+
+- id: 671
+  name: "HD 97334"
+  ra: "11h 12m 32.35s"
+  dec: "35° 48' 50.69\""
+  app_mag: "6.4"
+  abs_mag: "4.62"
+  stellar_class: "G2"
+  distance: "74.03"
+  parallax: "44.0583 [0.0232]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97334"
+    stellar_catalog: "hd-97334"
+
+- id: 672
+  name: "HD 97658"
+  ra: "11h 14m 33.16s"
+  dec: "25° 42' 37.39\""
+  app_mag: "7.71"
+  abs_mag: "6.04"
+  stellar_class: "K1V"
+  distance: "70.33"
+  parallax: "46.3763 [0.0221]"
+  links:
+    wikipedia: "HD_97658"
+    simbad: "HD 97658"
+    stellar_catalog: "hd-97658"
+
+- id: 673
+  name: "HD 97782"
+  ra: "11h 14m 48.17s"
+  dec: "-23° 06' 17.73\""
+  app_mag: "9.01"
+  abs_mag: "7.19"
+  stellar_class: "K5V"
+  distance: "75.29"
+  parallax: "43.3222 [0.0171]"
+  links:
+    wikipedia: ~
+    simbad: "HD 97782"
+    stellar_catalog: "hd-97782-a"
+
+- id: 674
+  name: "BD-17 3337"
+  ra: "11h 15m 20.74s"
+  dec: "-18° 08' 37.46\""
+  app_mag: "10.03"
+  abs_mag: "8.23"
+  stellar_class: "K5V"
+  distance: "74.71"
+  parallax: "43.6578 [0.0155]"
+  links:
+    wikipedia: ~
+    simbad: "BD-17 3337"
+    stellar_catalog: "gaia-edr3-3558078971047964800"
+
+- id: 675
+  name: "HIP 55052"
+  ra: "11h 16m 06.79s"
+  dec: "-30° 10' 41.40\""
+  app_mag: "10.38"
+  abs_mag: "8.5"
+  stellar_class: "K7Vk"
+  distance: "77.36"
+  parallax: "42.1618 [0.0240]"
+  links:
+    wikipedia: ~
+    simbad: "HIP 55052"
+    stellar_catalog: "hip-55052"
+
+- id: 676
+  name: "HD 98281"
+  ra: "11h 18m 22.01s"
+  dec: "-05° 04' 02.29\""
+  app_mag: "7.23"
+  abs_mag: "5.5"
+  stellar_class: "G8V"
+  distance: "72.19"
+  parallax: "45.1803 [0.0240]"
+  links:
+    wikipedia: ~
+    simbad: "HD 98281"
+    stellar_catalog: "hd-98281"
+
+- id: 677
+  name: "Iota Leonis"
+  ra: "11h 23m 55.45s"
+  dec: "10° 31' 46.22\""
+  app_mag: "4.01"
+  abs_mag: "2.14"
+  stellar_class: "F1IV"
+  distance: "77.01"
+  parallax: "42.3548 [0.3984]"
+  links:
+    wikipedia: "Iota_Leonis"
+    simbad: "* iot Leo"
+    stellar_catalog: "-iot-leo-a"
+
+- id: 678
+  name: "MCC 39"
+  ra: "11h 24m 59.78s"
+  dec: "40° 00' 12.67\""
+  app_mag: "10.17"
+  abs_mag: "8.32"
+  stellar_class: "K4V"
+  distance: "76.52"
+  parallax: "42.6234 [0.0164]"
+  links:
+    wikipedia: ~
+    simbad: "MCC 39"
+    stellar_catalog: "mcc-39"
+
+- id: 679
+  name: "HD 304391"
+  ra: "11h 30m 35.02s"
+  dec: "-57° 08' 01.95\""
+  app_mag: "8.33"
+  abs_mag: "6.57"
+  stellar_class: "K3.5V(k)"
+  distance: "73.24"
+  parallax: "44.5337 [0.0188]"
+  links:
+    wikipedia: ~
+    simbad: "HD 304391"
+    stellar_catalog: "hd-304391"
+
+- id: 680
+  name: "BD+63 965"
+  ra: "11h 31m 13.09s"
+  dec: "63° 09' 27.12\""
+  app_mag: "9.93"
+  abs_mag: "8.12"
+  stellar_class: "K7V"
+  distance: "74.93"
+  parallax: "43.5261 [0.0137]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B63 965"
+    stellar_catalog: "bd-63-965"
+
+- id: 681
+  name: "88 Leonis"
+  ra: "11h 31m 44.94s"
+  dec: "14° 21' 52.21\""
+  app_mag: "6.27"
+  abs_mag: "4.42"
+  stellar_class: "F9.5V"
+  distance: "76.47"
+  parallax: "42.6536 [0.0726]"
+  links:
+    wikipedia: "88_Leonis"
+    simbad: "* 88 Leo"
+    stellar_catalog: "gaia-edr3-3966121308211393920"
+
+- id: 682
+  name: "BD+40 2442"
+  ra: "11h 36m 40.89s"
+  dec: "39° 11' 26.25\""
+  app_mag: "9.99"
+  abs_mag: "8.07"
+  stellar_class: "K5V"
+  distance: "78.88"
+  parallax: "41.3473 [0.0145]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B40 2442"
+    stellar_catalog: "bd-40-2442"
+
+- id: 683
+  name: "HD 101177"
+  ra: "11h 38m 44.90s"
+  dec: "45° 06' 30.30\""
+  app_mag: "6.47"
+  abs_mag: "4.63"
+  stellar_class: "G0V"
+  distance: "75.96"
+  parallax: "42.9391 [0.0231]"
+  links:
+    wikipedia: ~
+    simbad: "HD 101177A"
+    stellar_catalog: "hd-101177-a"
+
+- id: 684
+  name: "BD+51 1697"
+  ra: "11h 47m 03.50s"
+  dec: "50° 58' 18.50\""
+  app_mag: "9.53"
+  abs_mag: "7.67"
+  stellar_class: "K4V"
+  distance: "76.81"
+  parallax: "42.4658 [0.0127]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B51 1697"
+    stellar_catalog: "bd-51-1697"
+
+- id: 685
+  name: "HD 104067"
+  ra: "11h 59m 10.01s"
+  dec: "-20° 21' 13.61\""
+  app_mag: "7.92"
+  abs_mag: "6.38"
+  stellar_class: "K2V"
+  distance: "66.36"
+  parallax: "49.1470 [0.0235]"
+  links:
+    wikipedia: "HD_104067"
+    simbad: "HD 104067"
+    stellar_catalog: "hd-104067"
+
+- id: 686
+  name: "HD 104731"
+  ra: "12h 03m 39.57s"
+  dec: "-42° 26' 02.61\""
+  app_mag: "5.15"
+  abs_mag: "3.18"
+  stellar_class: "F5V"
+  distance: "80.66"
+  parallax: "40.4345 [0.0884]"
+  links:
+    wikipedia: ~
+    simbad: "HD 104731"
+    stellar_catalog: "hd-104731"
+
+- id: 687
+  name: "HD 105065"
+  ra: "12h 05m 50.66s"
+  dec: "-18° 52' 30.93\""
+  app_mag: "10.02"
+  abs_mag: "8.21"
+  stellar_class: "K5V"
+  distance: "75.21"
+  parallax: "43.3654 [0.0918]"
+  links:
+    wikipedia: ~
+    simbad: "HD 105065"
+    stellar_catalog: "hd-105065"
+
+- id: 688
+  name: "HD 105590"
+  ra: "12h 09m 28.53s"
+  dec: "-11° 51' 25.46\""
+  app_mag: "6.84"
+  abs_mag: "4.87"
+  stellar_class: "G4"
+  distance: "80.86"
+  parallax: "40.3351 [0.0318]"
+  links:
+    wikipedia: ~
+    simbad: "HD 105590A"
+    stellar_catalog: "hd-105590"
+
+- id: 689
+  name: "HD 106516"
+  ra: "12h 15m 10.56s"
+  dec: "-10° 18' 44.64\""
+  app_mag: "6.11"
+  abs_mag: "4.36"
+  stellar_class: "F9VFe-1.7CH-0.7"
+  distance: "72.9"
+  parallax: "44.74 [0.81]"
+  links:
+    wikipedia: ~
+    simbad: "HD 106516"
+    stellar_catalog: "hd-106516"
+
+- id: 690
+  name: "Delta Ursae Majoris"
+  ra: "12h 15m 25.56s"
+  dec: "57° 01' 57.42\""
+  app_mag: "3.32"
+  abs_mag: "1.35"
+  stellar_class: "A2Vn"
+  distance: "80.88"
+  parallax: "40.3279 [0.1945]"
+  links:
+    wikipedia: "Megrez"
+    simbad: "* del UMa"
+    stellar_catalog: "-del-uma"
+
+- id: 691
+  name: "HD 106549"
+  ra: "12h 15m 27.05s"
+  dec: "-31° 05' 38.48\""
+  app_mag: "9.81"
+  abs_mag: "7.98"
+  stellar_class: "K7Vk:"
+  distance: "75.8"
+  parallax: "43.0280 [0.2434]"
+  links:
+    wikipedia: ~
+    simbad: "HD 106549A"
+    stellar_catalog: "gaia-edr3-3472485972258777088"
+
+- id: 692
+  name: "HD 107576"
+  ra: "12h 21m 59.85s"
+  dec: "-41° 03' 33.27\""
+  app_mag: "8.51"
+  abs_mag: "6.57"
+  stellar_class: "K3.5V"
+  distance: "79.57"
+  parallax: "40.9891 [0.0242]"
+  links:
+    wikipedia: ~
+    simbad: "HD 107576"
+    stellar_catalog: "hd-107576"
+
+- id: 693
+  name: "HD 108581"
+  ra: "12h 28m 31.59s"
+  dec: "-18° 17' 50.24\""
+  app_mag: "9.23"
+  abs_mag: "7.35"
+  stellar_class: "K5Vk:"
+  distance: "77.52"
+  parallax: "42.0768 [0.0187]"
+  links:
+    wikipedia: ~
+    simbad: "HD 108581"
+    stellar_catalog: "hd-108581"
+
+- id: 694
+  name: "HD 108799"
+  ra: "12h 30m 04.77s"
+  dec: "-13° 23' 35.48\""
+  app_mag: "6.49"
+  abs_mag: "4.56"
+  stellar_class: "G0.1"
+  distance: "79.24"
+  parallax: "41.1595 [0.0252]"
+  links:
+    wikipedia: ~
+    simbad: "HD 108799A"
+    stellar_catalog: "hd-108799a"
+
+- id: 695
+  name: "HD 108954"
+  ra: "12h 30m 50.14s"
+  dec: "53° 04' 35.78\""
+  app_mag: "6.2"
+  abs_mag: "4.46"
+  stellar_class: "F9V"
+  distance: "72.76"
+  parallax: "44.8247 [0.0187]"
+  links:
+    wikipedia: ~
+    simbad: "HD 108954"
+    stellar_catalog: "hd-108954"
+
+- id: 696
+  name: "HD 109524"
+  ra: "12h 35m 33.55s"
+  dec: "-34° 52' 54.90\""
+  app_mag: "7.84"
+  abs_mag: "6.17"
+  stellar_class: "K3.5Vk:"
+  distance: "70.48"
+  parallax: "46.2778 [0.0373]"
+  links:
+    wikipedia: ~
+    simbad: "HD 109524"
+    stellar_catalog: "hd-109524"
+
+- id: 697
+  name: "HD 110463"
+  ra: "12h 41m 44.52s"
+  dec: "55° 43' 28.82\""
+  app_mag: "8.27"
+  abs_mag: "6.49"
+  stellar_class: "K3Ve"
+  distance: "74.11"
+  parallax: "44.01 [0.0218]"
+  links:
+    wikipedia: ~
+    simbad: "HD 110463"
+    stellar_catalog: "gaia-edr3-1571411233756646656"
+
+- id: 698
+  name: "HD 112758"
+  ra: "12h 59m 01.56s"
+  dec: "-09° 50' 02.68\""
+  app_mag: "7.59"
+  abs_mag: "6.08"
+  stellar_class: "G9V"
+  distance: "65.46"
+  parallax: "49.8263 [0.3896]"
+  links:
+    wikipedia: ~
+    simbad: "HD 112758"
+    stellar_catalog: "hd-112758"
+
+- id: 699
+  name: "HD 112914"
+  ra: "12h 59m 32.78s"
+  dec: "41° 59' 12.36\""
+  app_mag: "8.61"
+  abs_mag: "6.75"
+  stellar_class: "K3V"
+  distance: "76.77"
+  parallax: "42.4878 [0.7573]"
+  links:
+    wikipedia: ~
+    simbad: "HD 112914"
+    stellar_catalog: "hd-112914"
+
+- id: 700
+  name: "V* PX Vir"
+  ra: "13h 03m 49.65s"
+  dec: "-05° 09' 42.52\""
+  app_mag: "7.68"
+  abs_mag: "6"
+  stellar_class: "K1V"
+  distance: "70.75"
+  parallax: "46.10 [0.81]"
+  links:
+    wikipedia: ~
+    simbad: "V* PX Vir"
+    stellar_catalog: "v-px-vir"
