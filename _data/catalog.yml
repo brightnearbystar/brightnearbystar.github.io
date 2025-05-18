@@ -8397,3 +8397,703 @@
     wikipedia: ~
     simbad: "* 22 Lyn"
     stellar_catalog: "-22-lyn"
+
+- id: 601
+  name: "G 112-24"
+  ra: "07h 30m 17.51s"
+  dec: "-03° 40' 24.47\""
+  app_mag: "10.32"
+  abs_mag: "8.37"
+  stellar_class: "M0"
+  distance: "79.88"
+  parallax: "40.832 [0.0179]"
+  links:
+    wikipedia: ~
+    simbad: "G 112-24"
+    stellar_catalog: "g-112-24"
+
+- id: 602
+  name: "CD-44 3484"
+  ra: "07h 30m 39.31s"
+  dec: "-44° 24' 00.57\""
+  app_mag: "10.18"
+  abs_mag: "8.47"
+  stellar_class: "M0"
+  distance: "71.8"
+  parallax: "45.4235 [0.0107]"
+  links:
+    wikipedia: ~
+    simbad: "CD-44 3484"
+    stellar_catalog: "cd-44-3484"
+
+- id: 603
+  name: "HD 59967"
+  ra: "07h 30m 42.51s"
+  dec: "-37° 20' 21.71\""
+  app_mag: "6.64"
+  abs_mag: "4.95"
+  stellar_class: "G3V"
+  distance: "70.94"
+  parallax: "45.9738 [0.0172]"
+  links:
+    wikipedia: ~
+    simbad: "HD 59967"
+    stellar_catalog: "hd-59967"
+
+- id: 604
+  name: "HD 59582"
+  ra: "07h 31m 07.71s"
+  dec: "14° 36' 50.92\""
+  app_mag: "8.93"
+  abs_mag: "7.35"
+  stellar_class: "K5"
+  distance: "67.66"
+  parallax: "48.2028 [0.0178]"
+  links:
+    wikipedia: ~
+    simbad: "HD 59582"
+    stellar_catalog: "hd-59582"
+
+- id: 605
+  name: "HD 59747"
+  ra: "07h 33m 00.58s"
+  dec: "37° 01' 47.45\""
+  app_mag: "7.7"
+  abs_mag: "6.12"
+  stellar_class: "K1V(k)"
+  distance: "67.45"
+  parallax: "48.3563 [0.0209]"
+  links:
+    wikipedia: ~
+    simbad: "HD 59747"
+    stellar_catalog: "hd-59747"
+
+- id: 606
+  name: "HD 60491"
+  ra: "07h 34m 26.17s"
+  dec: "-06° 53' 48.04\""
+  app_mag: "8.14"
+  abs_mag: "6.29"
+  stellar_class: "K1V"
+  distance: "76.5"
+  parallax: "42.6341 [0.0253]"
+  links:
+    wikipedia: ~
+    simbad: "HD 60491"
+    stellar_catalog: "hd-60491"
+
+- id: 607
+  name: "HD 62644"
+  ra: "07h 42m 57.09s"
+  dec: "-45° 10' 23.22\""
+  app_mag: "5.04"
+  abs_mag: "3.2"
+  stellar_class: "G8IV-V"
+  distance: "76.17"
+  parallax: "42.8213 [0.3775]"
+  links:
+    wikipedia: ~
+    simbad: "HD 62644"
+    stellar_catalog: "hd-62644"
+
+- id: 608
+  name: "HD 63433"
+  ra: "07h 49m 55.06s"
+  dec: "27° 21' 47.46\""
+  app_mag: "6.91"
+  abs_mag: "5.16"
+  stellar_class: "G5V"
+  distance: "72.99"
+  parallax: "44.6848 [0.0228]"
+  links:
+    wikipedia: "HD_63433"
+    simbad: "HD 63433"
+    stellar_catalog: "hd-63433"
+
+- id: 609
+  name: "HD 63991"
+  ra: "07h 52m 47.43s"
+  dec: "25° 55' 35.34\""
+  app_mag: "8.6"
+  abs_mag: "6.91"
+  stellar_class: "K4"
+  distance: "71.18"
+  parallax: "45.8199 [0.0192]"
+  links:
+    wikipedia: ~
+    simbad: "HD 63991"
+    stellar_catalog: "hd-63991"
+
+- id: 610
+  name: "HD 64468"
+  ra: "07h 54m 54.07s"
+  dec: "19° 14' 10.84\""
+  app_mag: "7.73"
+  abs_mag: "6.19"
+  stellar_class: "K2.5V"
+  distance: "66.23"
+  parallax: "49.2443 [0.2878]"
+  links:
+    wikipedia: ~
+    simbad: "HD 64468"
+    stellar_catalog: "hd-64468"
+
+- id: 611
+  name: "HD 65430"
+  ra: "07h 59m 33.94s"
+  dec: "20° 50' 38.14\""
+  app_mag: "7.65"
+  abs_mag: "5.75"
+  stellar_class: "K0V"
+  distance: "78.24"
+  parallax: "41.6870 [0.1877]"
+  links:
+    wikipedia: ~
+    simbad: "HD 65430"
+    stellar_catalog: "hd-65430"
+
+- id: 612
+  name: "HD 66020"
+  ra: "08h 00m 02.15s"
+  dec: "-40° 02' 21.90\""
+  app_mag: "9.62"
+  abs_mag: "7.99"
+  stellar_class: "K7V"
+  distance: "69.01"
+  parallax: "47.2630 [0.0103]"
+  links:
+    wikipedia: ~
+    simbad: "HD 66020"
+    stellar_catalog: "hd-66020"
+
+- id: 613
+  name: "Mu2 Cancri"
+  ra: "08h 07m 45.86s"
+  dec: "21° 34' 54.53\""
+  app_mag: "5.3"
+  abs_mag: "3.42"
+  stellar_class: "G1IVb"
+  distance: "77.67"
+  parallax: "41.9916 [0.0841]"
+  links:
+    wikipedia: "Mu2_Cancri"
+    simbad: "* mu.02 Cnc"
+    stellar_catalog: "-mu02-cnc"
+
+- id: 614
+  name: "FP Cancri"
+  ra: "08h 08m 56.34s"
+  dec: "32° 49' 11.57\""
+  app_mag: "9.99"
+  abs_mag: "8.09"
+  stellar_class: "K6V"
+  distance: "78.16"
+  parallax: "41.7312 [0.9262]"
+  links:
+    wikipedia: ~
+    simbad: "V* FP Cnc"
+    stellar_catalog: "gaia-edr3-902175202130167936"
+
+- id: 615
+  name: "18 Puppis"
+  ra: "08h 10m 39.83s"
+  dec: "-13° 47' 57.14\""
+  app_mag: "5.54"
+  abs_mag: "3.77"
+  stellar_class: "F6.5V"
+  distance: "73.56"
+  parallax: "44.3395 [0.0531]"
+  links:
+    wikipedia: ~
+    simbad: "* 18 Pup"
+    stellar_catalog: "18-puppis"
+
+- id: 616
+  name: "HD 68017"
+  ra: "08h 11m 38.65s"
+  dec: "32° 27' 25.79\""
+  app_mag: "6.83"
+  abs_mag: "5.16"
+  stellar_class: "G3V"
+  distance: "70.38"
+  parallax: "46.3415 [0.0609]"
+  links:
+    wikipedia: ~
+    simbad: "HD 68017"
+    stellar_catalog: "hd-68017"
+
+- id: 617
+  name: "Zeta Cancri"
+  ra: "08h 12m 13.20s"
+  dec: "17° 38' 54.57\""
+  app_mag: "5.79"
+  abs_mag: "3.86"
+  stellar_class: "G0IV-V"
+  distance: "79.25"
+  parallax: "41.1543 [0.5756]"
+  links:
+    wikipedia: "Zeta_Cancri"
+    simbad: "* zet Cnc"
+    stellar_catalog: "-zet01-cnc-a"
+
+- id: 618
+  name: "BD+31 1781"
+  ra: "08h 18m 10.78s"
+  dec: "30° 36' 02.94\""
+  app_mag: "8.85"
+  abs_mag: "7.05"
+  stellar_class: "K4.5V"
+  distance: "74.56"
+  parallax: "43.7446 [0.0199]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B31 1781"
+    stellar_catalog: "bd-31-1781"
+
+- id: 619
+  name: "BD+01 2063"
+  ra: "08h 19m 19.05s"
+  dec: "01° 20' 19.91\""
+  app_mag: "8.35"
+  abs_mag: "6.6"
+  stellar_class: "K1V"
+  distance: "73.01"
+  parallax: "44.6757 [0.0233]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B01 2063"
+    stellar_catalog: "bd-01-2063"
+
+- id: 620
+  name: "BD+14 1876"
+  ra: "08h 20m 55.33s"
+  dec: "14° 04' 16.80\""
+  app_mag: "9.75"
+  abs_mag: "7.97"
+  stellar_class: "M0V"
+  distance: "74.16"
+  parallax: "43.9792 [0.0183]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B14 1876"
+    stellar_catalog: "bd-14-1876"
+
+- id: 621
+  name: "HD 71148"
+  ra: "08h 27m 36.78s"
+  dec: "45° 39' 10.75\""
+  app_mag: "6.33"
+  abs_mag: "4.62"
+  stellar_class: "G1V"
+  distance: "71.55"
+  parallax: "45.5826 [0.0208]"
+  links:
+    wikipedia: ~
+    simbad: "HD 71148"
+    stellar_catalog: "hd-71148"
+
+- id: 622
+  name: "HD 72760"
+  ra: "08h 34m 31.65s"
+  dec: "-00° 43' 33.83\""
+  app_mag: "7.33"
+  abs_mag: "5.7"
+  stellar_class: "K0V"
+  distance: "69.02"
+  parallax: "47.258 [0.0223]"
+  links:
+    wikipedia: ~
+    simbad: "HD 72760"
+    stellar_catalog: "hd-72760"
+
+- id: 623
+  name: "V401 Hydra"
+  ra: "08h 37m 50.29s"
+  dec: "-06° 48' 24.78\""
+  app_mag: "6.73"
+  abs_mag: "4.8"
+  stellar_class: "G8/K0(IV)"
+  distance: "79.43"
+  parallax: "41.0649 [0.0228]"
+  links:
+    wikipedia: ~
+    simbad: "V* V401 Hya"
+    stellar_catalog: "v-v401-hya"
+
+- id: 624
+  name: "HD 74385"
+  ra: "08h 42m 07.52s"
+  dec: "-42° 55' 45.98\""
+  app_mag: "8.11"
+  abs_mag: "6.37"
+  stellar_class: "K2+V"
+  distance: "72.77"
+  parallax: "44.8234 [0.0148]"
+  links:
+    wikipedia: ~
+    simbad: "HD 74385"
+    stellar_catalog: "hd-74385"
+
+- id: 625
+  name: "Delta Velorum"
+  ra: "08h 44m 42.23s"
+  dec: "-54° 42' 31.76\""
+  app_mag: "1.95"
+  abs_mag: "-0.01"
+  stellar_class: "A2IV+A4V"
+  distance: "80.55"
+  parallax: "40.49 [0.39]"
+  links:
+    wikipedia: "Delta_Velorum"
+    simbad: "* del01 Vel"
+    stellar_catalog: "-del-vel"
+
+- id: 626
+  name: "HD 74377"
+  ra: "08h 45m 10.40s"
+  dec: "41° 40' 18.61\""
+  app_mag: "8.55"
+  abs_mag: "6.57"
+  stellar_class: "K3V"
+  distance: "81.31"
+  parallax: "40.1144 [0.0285]"
+  links:
+    wikipedia: ~
+    simbad: "HD 74377"
+    stellar_catalog: "hd-74377"
+
+- id: 627
+  name: "HD 75767"
+  ra: "08h 52m 16.39s"
+  dec: "08° 03' 46.50\""
+  app_mag: "6.58"
+  abs_mag: "4.77"
+  stellar_class: "G1.5V"
+  distance: "74.9"
+  parallax: "43.5436 [0.0467]"
+  links:
+    wikipedia: ~
+    simbad: "HD 75767"
+    stellar_catalog: "hd-75767-a"
+
+- id: 628
+  name: "Gliese 328"
+  ra: "08h 55m 07.62s"
+  dec: "01° 32' 47.42\""
+  app_mag: "10"
+  abs_mag: "8.44"
+  stellar_class: "M0V"
+  distance: "66.92"
+  parallax: "48.7404 [0.0184]"
+  links:
+    wikipedia: "Gliese_328"
+    simbad: "BD%2B02 2098"
+    stellar_catalog: "gliese-328"
+
+- id: 629
+  name: "BD+21 1949"
+  ra: "08h 58m 38.18s"
+  dec: "20° 32' 48.30\""
+  app_mag: "9.21"
+  abs_mag: "7.6"
+  stellar_class: "M0"
+  distance: "68.59"
+  parallax: "47.5501 [0.0193]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B21 1949"
+    stellar_catalog: "bd-21-1949"
+
+- id: 630
+  name: "HD 76932"
+  ra: "08h 58m 43.93s"
+  dec: "-16° 07' 57.82\""
+  app_mag: "5.86"
+  abs_mag: "4.21"
+  stellar_class: "G2VFe-1.8CH-1"
+  distance: "69.86"
+  parallax: "46.6872 [0.0423]"
+  links:
+    wikipedia: ~
+    simbad: "HD 76932"
+    stellar_catalog: "hd-76932"
+
+- id: 631
+  name: "CD-34 5622"
+  ra: "09h 08m 52.11s"
+  dec: "34° 50' 33.74\""
+  app_mag: "10.31"
+  abs_mag: "8.43"
+  stellar_class: "K7Vk:"
+  distance: "77.38"
+  parallax: "42.1477 [0.0121]"
+  links:
+    wikipedia: ~
+    simbad: "CD-34 5622"
+    stellar_catalog: "cd-34-5622"
+
+- id: 632
+  name: "Sigma2 Ursae Majoris"
+  ra: "09h 10m 23.55s"
+  dec: "67° 08' 02.46\""
+  app_mag: "4.81"
+  abs_mag: "3.25"
+  stellar_class: "F6IV-V"
+  distance: "66.92"
+  parallax: "48.7404 [0.0763]"
+  links:
+    wikipedia: "Sigma2_Ursae_Majoris"
+    simbad: "* sig02 UMa"
+    stellar_catalog: "-sig02-uma"
+
+- id: 633
+  name: "81 Cancri"
+  ra: "09h 12m 17.55s"
+  dec: "14° 59' 45.78\""
+  app_mag: "6.51"
+  abs_mag: "4.97"
+  stellar_class: "G9V"
+  distance: "66.36"
+  parallax: "49.1493 [0.3467]"
+  links:
+    wikipedia: "81_Cancri"
+    simbad: "* pi.01 Cnc"
+    stellar_catalog: "81-cancri"
+
+- id: 634
+  name: "c Ursae Majoris"
+  ra: "09h 14m 20.54s"
+  dec: "61° 25' 23.94\""
+  app_mag: "5.2"
+  abs_mag: "3.67"
+  stellar_class: "G0V"
+  distance: "66"
+  parallax: "49.4145 [0.1544]"
+  links:
+    wikipedia: "C_Ursae_Majoris"
+    simbad: "* c UMa"
+    stellar_catalog: "c-ursae-majoris"
+
+- id: 635
+  name: "HD 80545"
+  ra: "09h 18m 08.88s"
+  dec: "-57° 46' 07.95\""
+  app_mag: "9.53"
+  abs_mag: "7.69"
+  stellar_class: "K6.5Vk:"
+  distance: "76.07"
+  parallax: "42.8736 [0.0114]"
+  links:
+    wikipedia: ~
+    simbad: "HD 80545"
+    stellar_catalog: "hd-80545-a"
+
+- id: 636
+  name: "BD+27 1739"
+  ra: "09h 18m 21.52s"
+  dec: "27° 18' 41.64\""
+  app_mag: "9.55"
+  abs_mag: "7.94"
+  stellar_class: "K5V"
+  distance: "68.35"
+  parallax: "47.718 [0.0217]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B27 1739"
+    stellar_catalog: "bd-27-1739"
+
+- id: 637
+  name: "HD 80632"
+  ra: "09h 20m 44.32s"
+  dec: "-05° 45' 14.30\""
+  app_mag: "9.08"
+  abs_mag: "7.17"
+  stellar_class: "K4V"
+  distance: "78.75"
+  parallax: "41.4146 [0.0184]"
+  links:
+    wikipedia: ~
+    simbad: "HD 80632"
+    stellar_catalog: "hd-80632"
+
+- id: 638
+  name: "V* BF Lyn"
+  ra: "09h 22m 25.94s"
+  dec: "40° 12' 03.80\""
+  app_mag: "7.68"
+  abs_mag: "5.83"
+  stellar_class: "K2.5Vke"
+  distance: "76.44"
+  parallax: "42.6689 [0.0198]"
+  links:
+    wikipedia: ~
+    simbad: "V* BF Lyn"
+    stellar_catalog: "v-bf-lyn"
+
+- id: 639
+  name: "HD 80768"
+  ra: "09h 26m 53.13s"
+  dec: "75° 56' 03.34\""
+  app_mag: "9.04"
+  abs_mag: "7.44"
+  stellar_class: "K7V"
+  distance: "68.18"
+  parallax: "47.8351 [0.0147]"
+  links:
+    wikipedia: ~
+    simbad: "HD 80768"
+    stellar_catalog: "hd-80768"
+
+- id: 640
+  name: "BD+81 297"
+  ra: "09h 27m 56.18s"
+  dec: "80° 34' 48.81\""
+  app_mag: "9.3"
+  abs_mag: "7.48"
+  stellar_class: "K7V"
+  distance: "75.31"
+  parallax: "43.3068 [0.0160]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B81 297"
+    stellar_catalog: "bd-81-297"
+
+- id: 641
+  name: "BD-04 2639"
+  ra: "09h 29m 35.05s"
+  dec: "-05° 22' 21.74\""
+  app_mag: "9.74"
+  abs_mag: "7.83"
+  stellar_class: "K7V"
+  distance: "78.69"
+  parallax: "41.4480 [0.0169]"
+  links:
+    wikipedia: ~
+    simbad: "BD-04 2639"
+    stellar_catalog: "bd-04-2639"
+
+- id: 642
+  name: "23 Ursae Majoris"
+  ra: "09h 31m 31.71s"
+  dec: "63° 03' 42.70\""
+  app_mag: "3.67"
+  abs_mag: "1.79"
+  stellar_class: "F0V"
+  distance: "77.49"
+  parallax: "42.0904 [0.1616]"
+  links:
+    wikipedia: "23_Ursae_Majoris"
+    simbad: "* h UMa"
+    stellar_catalog: "gaia-edr3-1064092789129355136"
+
+- id: 643
+  name: "BD+23 2121"
+  ra: "09h 37m 11.34s"
+  dec: "22° 41' 38.91\""
+  app_mag: "9.41"
+  abs_mag: "7.64"
+  stellar_class: "K5V"
+  distance: "73.61"
+  parallax: "44.3085 [0.0169]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B23 2121"
+    stellar_catalog: "bd-23-2121"
+
+- id: 644
+  name: "HD 85488"
+  ra: "09h 52m 11.36s"
+  dec: "03° 13' 18.63\""
+  app_mag: "8.84"
+  abs_mag: "7.28"
+  stellar_class: "K5V"
+  distance: "66.94"
+  parallax: "48.7236 [0.0276]"
+  links:
+    wikipedia: ~
+    simbad: "HD 85488"
+    stellar_catalog: "hd-85488"
+
+- id: 645
+  name: "HD 87424"
+  ra: "10h 04m 37.66s"
+  dec: "-11° 43' 46.92\""
+  app_mag: "8.15"
+  abs_mag: "6.32"
+  stellar_class: "K2Vk:"
+  distance: "75.93"
+  parallax: "42.9562 [0.0244]"
+  links:
+    wikipedia: ~
+    simbad: "HD 87424"
+    stellar_catalog: "hd-87424"
+
+- id: 646
+  name: "BD+03 2316"
+  ra: "10h 06m 56.86s"
+  dec: "02° 57' 51.90\""
+  app_mag: "10.01"
+  abs_mag: "8.29"
+  stellar_class: "K7.5V"
+  distance: "72.11"
+  parallax: "45.2317 [0.0205]"
+  links:
+    wikipedia: ""
+    simbad: "BD%2B03 2316"
+    stellar_catalog: "bd-03-2316"
+
+- id: 647
+  name: "Alpha Leonis"
+  ra: "10h 08m 22.31s"
+  dec: "11° 58' 01.95\""
+  app_mag: "1.4"
+  abs_mag: "-0.53"
+  stellar_class: "B8IVn"
+  distance: "79.3"
+  parallax: "41.13 [0.35]"
+  links:
+    wikipedia: "Regulus"
+    simbad: "* alf Leo"
+    stellar_catalog: "alf-leo"
+
+- id: 648
+  name: "HD 88742"
+  ra: "10h 13m 24.73s"
+  dec: "-33° 01' 54.19\""
+  app_mag: "6.38"
+  abs_mag: "4.63"
+  stellar_class: "G0V"
+  distance: "73.16"
+  parallax: "44.5792 [0.0200]"
+  links:
+    wikipedia: ~
+    simbad: "HD 88742"
+    stellar_catalog: "hd-88742"
+
+- id: 649
+  name: "HD 233719"
+  ra: "10h 13m 57.38s"
+  dec: "52° 30' 24.22\""
+  app_mag: "9.54"
+  abs_mag: "7.73"
+  stellar_class: "K6V"
+  distance: "74.9"
+  parallax: "43.5453 [0.0161]"
+  links:
+    wikipedia: ~
+    simbad: "HD 233719"
+    stellar_catalog: "hd-233719"
+
+- id: 650
+  name: "MCC 124"
+  ra: "10h 14m 19.16s"
+  dec: "21° 04' 29.82\""
+  app_mag: "10.08"
+  abs_mag: "8.23"
+  stellar_class: "M0.7V"
+  distance: "76.31"
+  parallax: "42.7417 [0.1892]"
+  links:
+    wikipedia: ~
+    simbad: "MCC 124"
+    stellar_catalog: "mcc-124"
