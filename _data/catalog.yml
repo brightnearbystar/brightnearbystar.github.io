@@ -10497,3 +10497,703 @@
     wikipedia: ~
     simbad: "HD 139341A"
     stellar_catalog: "hd-139341"
+
+- id: 751
+  name: "Alpha Serpentis"
+  ra: "15h 44m 16.07s"
+  dec: "06° 25' 32.27\""
+  app_mag: "2.63"
+  abs_mag: "0.84"
+  stellar_class: "K2IIIbCN1"
+  distance: "74.22"
+  parallax: "43.9450 [0.4676]"
+  links:
+    wikipedia: "Alpha_Serpentis"
+    simbad: "* alf Ser"
+    stellar_catalog: "-alf-ser"
+
+- id: 752
+  name: "HD 141272"
+  ra: "15h 48m 09.46s"
+  dec: "01° 34' 18.27\""
+  app_mag: "7.42"
+  abs_mag: "5.74"
+  stellar_class: "K0V"
+  distance: "70.66"
+  parallax: "46.1575 [0.0175]"
+  links:
+    wikipedia: ~
+    simbad: "HD 141272"
+    stellar_catalog: "hd-141272"
+
+- id: 753
+  name: "Epsilon Serpentis"
+  ra: "15h 50m 48.97s"
+  dec: "04° 28' 39.83\""
+  app_mag: "3.69"
+  abs_mag: "1.97"
+  stellar_class: "kA2hA5mA7V"
+  distance: "71.95"
+  parallax: "45.3293 [0.2499]"
+  links:
+    wikipedia: "Epsilon_Serpentis"
+    simbad: "* eps Ser"
+    stellar_catalog: "-eps-ser"
+
+- id: 754
+  name: "BD+11 2874"
+  ra: "15h 52m 08.24s"
+  dec: "10° 52' 28.08\""
+  app_mag: "9.36"
+  abs_mag: "7.74"
+  stellar_class: "K5V"
+  distance: "68.77"
+  parallax: "47.4303 [0.1461]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B11 2874"
+    stellar_catalog: "bd-11-2874"
+
+- id: 755
+  name: "HD 142288"
+  ra: "15h 54m 38.43s"
+  dec: "-26° 00' 15.05\""
+  app_mag: "9.22"
+  abs_mag: "7.34"
+  stellar_class: "K5V"
+  distance: "77.41"
+  parallax: "42.1347 [0.018]"
+  links:
+    wikipedia: ~
+    simbad: "HD 142288"
+    stellar_catalog: "hd-142288"
+
+- id: 756
+  name: "Theta Draconis"
+  ra: "16h 01m 53.34s"
+  dec: "58° 33' 54.90\""
+  app_mag: "4"
+  abs_mag: "2.34"
+  stellar_class: "F9V"
+  distance: "70.19"
+  parallax: "46.4665 [0.1360]"
+  links:
+    wikipedia: "Theta_Draconis"
+    simbad: "* tet Dra"
+    stellar_catalog: "theta-draconis-a"
+
+- id: 757
+  name: "HD 144287"
+  ra: "16h 04m 03.64s"
+  dec: "25° 15' 17.25\""
+  app_mag: "7.1"
+  abs_mag: "5.42"
+  stellar_class: "G8+V"
+  distance: "70.55"
+  parallax: "46.2311 [0.1832]"
+  links:
+    wikipedia: ~
+    simbad: "HD 144287"
+    stellar_catalog: "hd-144287"
+
+- id: 758
+  name: "CD-32 11389"
+  ra: "16h 04m 23.15s"
+  dec: "-33° 03' 39.69\""
+  app_mag: "10.08"
+  abs_mag: "8.37"
+  stellar_class: "K8Vk"
+  distance: "71.83"
+  parallax: "45.4054 [0.5333]"
+  links:
+    wikipedia: ~
+    simbad: "CD-32 11389"
+    stellar_catalog: "cd-32-11389"
+
+- id: 759
+  name: "AT Coronae Borealis"
+  ra: "16h 06m 29.60s"
+  dec: "38° 37' 56.07\""
+  app_mag: "8.6"
+  abs_mag: "6.77"
+  stellar_class: "K3V"
+  distance: "75.82"
+  parallax: "43.0188 [0.0164]"
+  links:
+    wikipedia: ~
+    simbad: "V* AT CrB"
+    stellar_catalog: "v-at-crb"
+
+- id: 760
+  name: "49 Serpentis"
+  ra: "16h 13m 18.45s"
+  dec: "13° 31' 36.85\""
+  app_mag: "7.34"
+  abs_mag: "5.41"
+  stellar_class: "G9V"
+  distance: "79.3"
+  parallax: "41.1287 [0.0197]"
+  links:
+    wikipedia: ~
+    simbad: "* 49 Ser A"
+    stellar_catalog: "-49-ser"
+
+- id: 761
+  name: "HD 145825"
+  ra: "16h 14m 11.91s"
+  dec: "-31° 39' 49.15\""
+  app_mag: "6.54"
+  abs_mag: "4.79"
+  stellar_class: "G3V"
+  distance: "72.86"
+  parallax: "44.7674 [0.1538]"
+  links:
+    wikipedia: ~
+    simbad: "HD 145825"
+    stellar_catalog: "hd-145825"
+
+- id: 762
+  name: "Sigma Coronae Borealis"
+  ra: "16h 14m 40.85s"
+  dec: "33° 51' 31.01\""
+  app_mag: "5.55"
+  abs_mag: "3.77"
+  stellar_class: "F6V"
+  distance: "74.03"
+  parallax: "44.0575 [0.0459]"
+  links:
+    wikipedia: "Sigma_Coronae_Borealis"
+    simbad: "* sig CrB A"
+    stellar_catalog: "-sig-crb"
+
+- id: 763
+  name: "BD+55 1823"
+  ra: "16h 17m 05.35s"
+  dec: "55° 16' 08.77\""
+  app_mag: "9.46"
+  abs_mag: "7.94"
+  stellar_class: "M1.5Ve"
+  distance: "65.72"
+  parallax: "49.6303 [0.4245]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B55 1823"
+    stellar_catalog: "bd-55-1823"
+
+- id: 764
+  name: "V* V2578 Oph"
+  ra: "16h 24m 19.81s"
+  dec: "-13° 38' 29.98\""
+  app_mag: "8.38"
+  abs_mag: "6.73"
+  stellar_class: "K2V"
+  distance: "69.59"
+  parallax: "46.8687 [0.0276]"
+  links:
+    wikipedia: ~
+    simbad: "V* V2578 Oph"
+    stellar_catalog: "v-v2578-oph"
+
+- id: 765
+  name: "HD 148704"
+  ra: "16h 31m 30.03s"
+  dec: "-39° 00' 44.15\""
+  app_mag: "7.24"
+  abs_mag: "5.47"
+  stellar_class: "K1V"
+  distance: "73.56"
+  parallax: "44.3415 [0.0488]"
+  links:
+    wikipedia: ~
+    simbad: "HD 148704"
+    stellar_catalog: "hd-148704"
+
+- id: 766
+  name: "HD 149192"
+  ra: "16h 35m 50.37s"
+  dec: "-53° 45' 25.38\""
+  app_mag: "8.78"
+  abs_mag: "6.97"
+  stellar_class: "K4Vk:"
+  distance: "74.91"
+  parallax: "43.5379 [0.0297]"
+  links:
+    wikipedia: ~
+    simbad: "HD 149192"
+    stellar_catalog: "hd-149192-a"
+
+- id: 767
+  name: "HD 149806"
+  ra: "16h 37m 08.43s"
+  dec: "00° 15' 15.63\""
+  app_mag: "7.07"
+  abs_mag: "5.53"
+  stellar_class: "K0V"
+  distance: "66.29"
+  parallax: "49.2036 [0.0222]"
+  links:
+    wikipedia: ~
+    simbad: "HD 149806"
+    stellar_catalog: "hd-149806"
+
+- id: 768
+  name: "HD 149612"
+  ra: "16h 39m 04.14s"
+  dec: "-58° 15' 29.53\""
+  app_mag: "7.03"
+  abs_mag: "5.21"
+  stellar_class: "G5VFe-1.2CH-0.9"
+  distance: "75.37"
+  parallax: "43.2721 [0.0223]"
+  links:
+    wikipedia: ~
+    simbad: "HD 149612"
+    stellar_catalog: "hd-149612"
+
+- id: 769
+  name: "HD 151541"
+  ra: "16h 42m 38.58s"
+  dec: "68° 06' 07.79\""
+  app_mag: "7.56"
+  abs_mag: "5.64"
+  stellar_class: "K1"
+  distance: "78.85"
+  parallax: "41.3671 [0.0139]"
+  links:
+    wikipedia: ~
+    simbad: "HD 151541"
+    stellar_catalog: "hd-151541"
+
+- id: 770
+  name: "BD+39 3048"
+  ra: "16h 49m 24.70s"
+  dec: "39° 16' 34.48\""
+  app_mag: "9.67"
+  abs_mag: "7.92"
+  stellar_class: "K4V"
+  distance: "72.97"
+  parallax: "44.6995 [0.0098]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B39 3048"
+    stellar_catalog: "bd-39-3048"
+
+- id: 771
+  name: "V2213 Ophiuchi"
+  ra: "17h 05m 16.82s"
+  dec: "00° 42' 09.22\""
+  app_mag: "6"
+  abs_mag: "4.43"
+  stellar_class: "F8.5IV-V"
+  distance: "67.16"
+  parallax: "48.5672 [0.0385]"
+  links:
+    wikipedia: ~
+    simbad: "V* V2213 Oph"
+    stellar_catalog: "v2213-ophiuchi"
+
+- id: 772
+  name: "HD 154590"
+  ra: "17h 08m 07.31s"
+  dec: "-41° 43' 26.29\""
+  app_mag: "8.31"
+  abs_mag: "6.73"
+  stellar_class: "K4V"
+  distance: "67.59"
+  parallax: "48.2540 [0.5568]"
+  links:
+    wikipedia: ~
+    simbad: "HD 154590"
+    stellar_catalog: "hd-154590-a"
+
+- id: 773
+  name: "HD 155674"
+  ra: "17h 10m 10.51s"
+  dec: "54° 29' 39.76\""
+  app_mag: "8.85"
+  abs_mag: "7.21"
+  stellar_class: "K6V"
+  distance: "69.27"
+  parallax: "47.0874 [0.0139]"
+  links:
+    wikipedia: ~
+    simbad: "HD 155674"
+    stellar_catalog: "hd-155674"
+
+- id: 774
+  name: "Eta Scorpii"
+  ra: "17h 12m 09.19s"
+  dec: "-43° 14' 21.08\""
+  app_mag: "3.33"
+  abs_mag: "1.58"
+  stellar_class: "F5IV"
+  distance: "73.18"
+  parallax: "44.5711 [0.2362]"
+  links:
+    wikipedia: "Eta_Scorpii"
+    simbad: "* eta Sco"
+    stellar_catalog: "eta-scorpii"
+
+- id: 775
+  name: "HD 155712"
+  ra: "17h 12m 37.62s"
+  dec: "18° 21' 04.30\""
+  app_mag: "7.95"
+  abs_mag: "6.36"
+  stellar_class: "K2.5V"
+  distance: "67.88"
+  parallax: "48.0464 [0.0191]"
+  links:
+    wikipedia: ~
+    simbad: "HD 155712"
+    stellar_catalog: "hd-155712"
+
+- id: 776
+  name: "BD+42 2810"
+  ra: "17h 12m 55.09s"
+  dec: "42° 19' 54.60\""
+  app_mag: "10.13"
+  abs_mag: "8.23"
+  stellar_class: "K7V"
+  distance: "78.37"
+  parallax: "41.6183 [0.0941]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B42 2810"
+    stellar_catalog: "bd-42-2810"
+
+- id: 777
+  name: "Delta Herculis"
+  ra: "17h 15m 01.91s"
+  dec: "24° 50' 21.15\""
+  app_mag: "3.13"
+  abs_mag: "1.32"
+  stellar_class: "A1IVn"
+  distance: "75.13"
+  parallax: "43.41 [0.15]"
+  links:
+    wikipedia: "Delta_Herculis"
+    simbad: "* del Her"
+    stellar_catalog: "-del-her"
+
+- id: 778
+  name: "HD 156668"
+  ra: "17h 17m 40.49s"
+  dec: "29° 13' 38.02\""
+  app_mag: "8.42"
+  abs_mag: "6.49"
+  stellar_class: "K3V"
+  distance: "79.34"
+  parallax: "41.1103 [0.0169]"
+  links:
+    wikipedia: "HD_156668"
+    simbad: "HD 156668"
+    stellar_catalog: "hd-156668"
+
+- id: 779
+  name: "b Ophiuchi"
+  ra: "17h 26m 22.22s"
+  dec: "-24° 10' 31.11\""
+  app_mag: "4.15"
+  abs_mag: "2.16"
+  stellar_class: "kA5hA9mF1III"
+  distance: "81.48"
+  parallax: "40.0272 [0.2712]"
+  links:
+    wikipedia: "44_Ophiuchi"
+    simbad: "* b Oph"
+    stellar_catalog: "gaia-edr3-4111251723554095104"
+
+- id: 780
+  name: "BD+29 3029"
+  ra: "17h 29m 20.08s"
+  dec: "29° 23' 31.01\""
+  app_mag: "9.58"
+  abs_mag: "7.7"
+  stellar_class: "K3"
+  distance: "77.49"
+  parallax: "42.09 [2.50]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B29 3029"
+    stellar_catalog: "bd-29-3029"
+
+- id: 781
+  name: "HD 159062"
+  ra: "17h 30m 16.43s"
+  dec: "47° 24' 07.90\""
+  app_mag: "7.3"
+  abs_mag: "5.62"
+  stellar_class: "G9V_Fe-0.8"
+  distance: "70.62"
+  parallax: "46.1856 [0.0147]"
+  links:
+    wikipedia: "HD_159062"
+    simbad: "HD 159062"
+    stellar_catalog: "hd-159062"
+
+- id: 782
+  name: "HD 159222"
+  ra: "17h 32m 00.99s"
+  dec: "34° 16' 16.13\""
+  app_mag: "6.56"
+  abs_mag: "4.64"
+  stellar_class: "G1V"
+  distance: "78.94"
+  parallax: "41.318 [0.0151]"
+  links:
+    wikipedia: ~
+    simbad: "HD 159222"
+    stellar_catalog: "hd-159222"
+
+- id: 783
+  name: "Omega Draconis"
+  ra: "17h 36m 57.09s"
+  dec: "68° 45' 28.68\""
+  app_mag: "4.8"
+  abs_mag: "2.92"
+  stellar_class: "F4V"
+  distance: "77.48"
+  parallax: "42.0939 [0.1425]"
+  links:
+    wikipedia: "Omega_Draconis"
+    simbad: "* ome Dra"
+    stellar_catalog: "-ome-dra"
+
+- id: 784
+  name: "BD+23 3151"
+  ra: "17h 37m 48.70s"
+  dec: "22° 57' 20.09\""
+  app_mag: "9.93"
+  abs_mag: "8.14"
+  stellar_class: "M0.5V"
+  distance: "74.36"
+  parallax: "43.8639 [0.0146]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B23 3151A"
+    stellar_catalog: "bd-23-3151"
+
+- id: 785
+  name: "BD+71 851"
+  ra: "17h 38m 34.10s"
+  dec: "71° 19' 56.33\""
+  app_mag: "9.17"
+  abs_mag: "7.26"
+  stellar_class: "K5"
+  distance: "78.78"
+  parallax: "41.4032 [0.0136]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B71 851"
+    stellar_catalog: "bd-71-851"
+
+- id: 786
+  name: "Lambda Arae"
+  ra: "17h 40m 23.83s"
+  dec: "-49° 24' 56.10\""
+  app_mag: "4.77"
+  abs_mag: "3.16"
+  stellar_class: "F4V"
+  distance: "68.37"
+  parallax: "47.7045 [0.1368]"
+  links:
+    wikipedia: "Lambda_Arae"
+    simbad: "* lam Ara"
+    stellar_catalog: "lambda-arae"
+
+- id: 787
+  name: "Psi1 Draconis"
+  ra: "17h 41m 56.06s"
+  dec: "72° 08' 55.93\""
+  app_mag: "4.55"
+  abs_mag: "2.76"
+  stellar_class: "F5IV-V"
+  distance: "74.21"
+  parallax: "43.9500 [0.8625]"
+  links:
+    wikipedia: "Psi1_Draconis"
+    simbad: "* psi01 Dra A"
+    stellar_catalog: "psi1-draconis-a"
+
+- id: 788
+  name: "HD 161198"
+  ra: "17h 43m 15.68s"
+  dec: "21° 36' 33.13\""
+  app_mag: "7.49"
+  abs_mag: "5.79"
+  stellar_class: "G9V"
+  distance: "71.3"
+  parallax: "45.7443 [0.4304]"
+  links:
+    wikipedia: ~
+    simbad: "HD 161198"
+    stellar_catalog: "gaia-edr3-"
+
+- id: 789
+  name: "HD 162283"
+  ra: "17h 50m 34.03s"
+  dec: "-06° 03' 01.04\""
+  app_mag: "10.15"
+  abs_mag: "8.42"
+  stellar_class: "K7V"
+  distance: "72.45"
+  parallax: "45.0168 [0.0151]"
+  links:
+    wikipedia: ~
+    simbad: "HD 162283"
+    stellar_catalog: "hd-162283"
+
+- id: 790
+  name: "BD+21 3245"
+  ra: "17h 53m 29.94s"
+  dec: "21° 19' 31.05\""
+  app_mag: "8.49"
+  abs_mag: "6.54"
+  stellar_class: "K2.5V"
+  distance: "79.98"
+  parallax: "40.7788 [0.0176]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B21 3245"
+    stellar_catalog: "bd-21-3245"
+
+- id: 791
+  name: "BD+18 3497"
+  ra: "17h 55m 44.90s"
+  dec: "18° 30' 01.39\""
+  app_mag: "9.15"
+  abs_mag: "7.39"
+  stellar_class: "K5V"
+  distance: "73.41"
+  parallax: "44.4306 [0.0133]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B18 3497"
+    stellar_catalog: "bd-18-3497"
+
+- id: 792
+  name: "Zeta Serpentis"
+  ra: "18h 00m 29.01s"
+  dec: "-03° 41' 24.98\""
+  app_mag: "4.62"
+  abs_mag: "2.81"
+  stellar_class: "F2V"
+  distance: "75.01"
+  parallax: "43.4823 [0.1324]"
+  links:
+    wikipedia: "Zeta_Serpentis"
+    simbad: "* zet Ser"
+    stellar_catalog: "zeta-serpentis"
+
+- id: 793
+  name: "HD 164922"
+  ra: "18h 02m 30.86s"
+  dec: "26° 18' 46.81\""
+  app_mag: "7.01"
+  abs_mag: "5.3"
+  stellar_class: "G9V"
+  distance: "71.69"
+  parallax: "45.4954 [0.0167]"
+  links:
+    wikipedia: "HD_164922"
+    simbad: "HD 164922"
+    stellar_catalog: "hd-164922"
+
+- id: 794
+  name: "BD+35 3145"
+  ra: "18h 04m 17.59s"
+  dec: "35° 57' 25.76\""
+  app_mag: "10"
+  abs_mag: "8.33"
+  stellar_class: "M0V"
+  distance: "70.52"
+  parallax: "46.2491 [0.0127]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B35 3145"
+    stellar_catalog: "bd-35-3145"
+
+- id: 795
+  name: "HD 165401"
+  ra: "18h 05m 37.45s"
+  dec: "04° 39' 25.80\""
+  app_mag: "6.79"
+  abs_mag: "4.88"
+  stellar_class: "G2V"
+  distance: "78.64"
+  parallax: "41.4741 [0.0211]"
+  links:
+    wikipedia: ~
+    simbad: "HD 165401"
+    stellar_catalog: "hd-165401"
+
+- id: 796
+  name: "TOI 2134"
+  ra: "18h 07m 44.45s"
+  dec: "39° 04' 26.92\""
+  app_mag: "8.94"
+  abs_mag: "7.16"
+  stellar_class: "K5V"
+  distance: "73.94"
+  parallax: "44.1087 [0.0144]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B39 3325"
+    stellar_catalog: "toi-2134"
+
+- id: 797
+  name: "HD 166435"
+  ra: "18h 09m 21.38s"
+  dec: "29° 57' 06.17\""
+  app_mag: "6.83"
+  abs_mag: "4.89"
+  stellar_class: "G1IV"
+  distance: "79.62"
+  parallax: "40.9645 [0.0167]"
+  links:
+    wikipedia: ~
+    simbad: "HD 166435"
+    stellar_catalog: "hd-166435"
+
+- id: 798
+  name: "36 Draconis"
+  ra: "18h 13m 53.83s"
+  dec: "64° 23' 50.23\""
+  app_mag: "4.99"
+  abs_mag: "3.17"
+  stellar_class: "F5V"
+  distance: "75.53"
+  parallax: "43.1837 [0.0940]"
+  links:
+    wikipedia: "36_Draconis"
+    simbad: "* 36 Dra"
+    stellar_catalog: "-36-dra"
+
+- id: 799
+  name: "HD 168009"
+  ra: "18h 15m 32.46s"
+  dec: "45° 12' 33.54\""
+  app_mag: "6.3"
+  abs_mag: "4.46"
+  stellar_class: "G1V"
+  distance: "75.97"
+  parallax: "42.9348 [0.0158]"
+  links:
+    wikipedia: "HD_168009"
+    simbad: "HD 168009"
+    stellar_catalog: "hd-168009"
+
+- id: 800
+  name: "HD 167425"
+  ra: "18h 19m 40.13s"
+  dec: "-63° 53' 11.62\""
+  app_mag: "6.25"
+  abs_mag: "4.4"
+  stellar_class: "F9.5V"
+  distance: "76.58"
+  parallax: "42.5918 [0.0274]"
+  links:
+    wikipedia: ~
+    simbad: "HD 167425"
+    stellar_catalog: "hd-167425"
