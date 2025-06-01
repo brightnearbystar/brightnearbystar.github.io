@@ -12597,3 +12597,101 @@
     wikipedia: ~
     simbad: "HD 221851"
     stellar_catalog: "hd-221851"
+
+- id: 901
+  name: "HD 222143"
+  ra: "23h 37m 58.49s"
+  dec: "46° 11' 57.96\""
+  app_mag: "6.58"
+  abs_mag: "4.79"
+  stellar_class: "G2"
+  distance: "74.39"
+  parallax: "43.8426 [0.0179]]"
+  links:
+    wikipedia: ~
+    simbad: "HD 222143"
+    stellar_catalog: "hd-222143"
+
+- id: 902
+  name: "BD-03 5691"
+  ra: "23h 42m 10.64s"
+  dec: "-02° 34' 36.18\""
+  app_mag: "10.29"
+  abs_mag: "8.32"
+  stellar_class: "K7V"
+  distance: "80.94"
+  parallax: "40.2969 [0.1707]"
+  links:
+    wikipedia: ~
+    simbad: "BD-03 5691"
+    stellar_catalog: "bd-03-5691"
+
+- id: 903
+  name: "BD+29 5007"
+  ra: "23h 50m 27.86s"
+  dec: "30° 21' 11.73\""
+  app_mag: "9.34"
+  abs_mag: "7.47"
+  stellar_class: "K5V"
+  distance: "77.12"
+  parallax: "42.2919 [0.0166]"
+  links:
+    wikipedia: "BD%2B29_5007"
+    simbad: "BD%2B29 5007"
+    stellar_catalog: "bd-29-5007"
+
+- id: 904
+  name: "HD 224228"
+  ra: "23h 56m 10.67s"
+  dec: "-39° 03' 08.41\""
+  app_mag: "8.23"
+  abs_mag: "6.52"
+  stellar_class: "K2V"
+  distance: "71.61"
+  parallax: "45.5495 [0.0233]"
+  links:
+    wikipedia: ~
+    simbad: "HD 224228"
+    stellar_catalog: "hd-224228"
+
+- id: 905
+  name: "HD 224465"
+  ra: "23h 58m 06.81s"
+  dec: "50° 26' 51.63\""
+  app_mag: "6.73"
+  abs_mag: "4.78"
+  stellar_class: "G4V"
+  distance: "80.07"
+  parallax: "40.7348 [0.0558]"
+  links:
+    wikipedia: ~
+    simbad: "HD 224465"
+    stellar_catalog: "hd-224465"
+
+- id: 906
+  name: "HD 224607"
+  ra: "23h 59m 13.70s"
+  dec: "-26° 02' 55.49\""
+  app_mag: "8.7"
+  abs_mag: "6.91"
+  stellar_class: "K4Vk:"
+  distance: "74.34"
+  parallax: "43.8729 [0.0207]"
+  links:
+    wikipedia: ~
+    simbad: "HD 224607"
+    stellar_catalog: "hd-224607"
+
+- id: 907
+  name: "HD 224660"
+  ra: "23h 59m 47.79s"
+  dec: "06° 39' 50.96\""
+  app_mag: "8.94"
+  abs_mag: "7.13"
+  stellar_class: "K4V"
+  distance: "75.09"
+  parallax: "43.4347 [0.0247]"
+  links:
+    wikipedia: ~
+    simbad: "HD 224660"
+    stellar_catalog: "hd-224660a"
