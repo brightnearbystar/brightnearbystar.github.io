@@ -11197,3 +11197,703 @@
     wikipedia: ~
     simbad: "HD 167425"
     stellar_catalog: "hd-167425"
+
+- id: 801
+  name: "Lambda Sagittarii"
+  ra: "18h 27m 58.24s"
+  dec: "-25° 25' 18.11\""
+  app_mag: "2.81"
+  abs_mag: "0.97"
+  stellar_class: "K1IIIb"
+  distance: "75.99"
+  parallax: "42.9198 [0.2128]"
+  links:
+    wikipedia: "Lambda_Sagittarii"
+    simbad: "* lam Sgr"
+    stellar_catalog: "lambda-sagittarii"
+
+- id: 802
+  name: "HD 171314"
+  ra: "18h 33m 17.76s"
+  dec: "22° 18' 51.31\""
+  app_mag: "8.87"
+  abs_mag: "7.02"
+  stellar_class: "K4V"
+  distance: "76.34"
+  parallax: "42.7251 [0.0142]"
+  links:
+    wikipedia: ~
+    simbad: "HD 171314"
+    stellar_catalog: "hd-171314"
+
+- id: 803
+  name: "BD+31 3330"
+  ra: "18h 40m 54.88s"
+  dec: "31° 31' 59.09\""
+  app_mag: "8.58"
+  abs_mag: "6.68"
+  stellar_class: "K2.5V"
+  distance: "78.13"
+  parallax: "41.7451 [0.0165]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B31 3330"
+    stellar_catalog: "bd-31-3330"
+
+- id: 804
+  name: "HD 175742"
+  ra: "18h 55m 53.23s"
+  dec: "23° 33' 23.93\""
+  app_mag: "8.02"
+  abs_mag: "6.38"
+  stellar_class: "K0V"
+  distance: "69.57"
+  parallax: "46.8828 [0.0308]"
+  links:
+    wikipedia: ~
+    simbad: "HD 175742"
+    stellar_catalog: "hd-175742"
+
+- id: 805
+  name: "HD 176377"
+  ra: "18h 58m 51.00s"
+  dec: "30° 10' 50.32\""
+  app_mag: "6.8"
+  abs_mag: "4.9"
+  stellar_class: "G1V"
+  distance: "78.19"
+  parallax: "41.7143 [0.0146]"
+  links:
+    wikipedia: ~
+    simbad: "HD 176377"
+    stellar_catalog: "hd-176377"
+
+- id: 806
+  name: "HD 178126"
+  ra: "19h 07m 02.04s"
+  dec: "07° 36' 57.15\""
+  app_mag: "9.22"
+  abs_mag: "7.28"
+  stellar_class: "K5V"
+  distance: "79.66"
+  parallax: "40.9448 [0.0207]"
+  links:
+    wikipedia: ~
+    simbad: "HD 178126"
+    stellar_catalog: "hd-178126"
+
+- id: 807
+  name: "HD 178428"
+  ra: "19h 07m 57.32s"
+  dec: "16° 51' 12.17\""
+  app_mag: "6.09"
+  abs_mag: "4.47"
+  stellar_class: "G4.5V"
+  distance: "68.91"
+  parallax: "47.3289 [0.0894]"
+  links:
+    wikipedia: ~
+    simbad: "HD 178428"
+    stellar_catalog: "hd-178428"
+
+- id: 808
+  name: "HD 178445"
+  ra: "19h 10m 52.27s"
+  dec: "-47° 09' 31.04\""
+  app_mag: "9.34"
+  abs_mag: "7.78"
+  stellar_class: "K6.5V"
+  distance: "66.81"
+  parallax: "48.8217 [0.1339]"
+  links:
+    wikipedia: ~
+    simbad: "HD 178445"
+    stellar_catalog: "hd-178445"
+
+- id: 809
+  name: "HD 180161"
+  ra: "19h 12m 11.36s"
+  dec: "57° 40' 19.13\""
+  app_mag: "7.04"
+  abs_mag: "5.51"
+  stellar_class: "K0"
+  distance: "65.93"
+  parallax: "49.4679 [0.0164]"
+  links:
+    wikipedia: ~
+    simbad: "HD 180161"
+    stellar_catalog: "hd-180161"
+
+- id: 810
+  name: "HD 183255"
+  ra: "19h 26m 25.98s"
+  dec: "49° 27' 55.10\""
+  app_mag: "8.04"
+  abs_mag: "6.11"
+  stellar_class: "K2.5V"
+  distance: "79.33"
+  parallax: "41.1132 [0.2139]"
+  links:
+    wikipedia: ~
+    simbad: "HD 183255"
+    stellar_catalog: "hd-183255"
+
+- id: 811
+  name: "HD 183783"
+  ra: "19h 32m 30.27s"
+  dec: "-35° 27' 06.21\""
+  app_mag: "8.65"
+  abs_mag: "7.02"
+  stellar_class: "K4+V"
+  distance: "68.94"
+  parallax: "47.3123 [0.0272]"
+  links:
+    wikipedia: ~
+    simbad: "HD 183783"
+    stellar_catalog: "hd-183783"
+
+- id: 812
+  name: "HD 184385"
+  ra: "19h 33m 25.55s"
+  dec: "21° 50' 25.18\""
+  app_mag: "6.88"
+  abs_mag: "5.28"
+  stellar_class: "G8V"
+  distance: "67.99"
+  parallax: "47.9716 [0.0172]"
+  links:
+    wikipedia: ~
+    simbad: "HD 184385"
+    stellar_catalog: "hd-184385"
+
+- id: 813
+  name: "HD 185414"
+  ra: "19h 35m 55.59s"
+  dec: "56° 59' 02.08\""
+  app_mag: "6.74"
+  abs_mag: "4.84"
+  stellar_class: "G0"
+  distance: "78.11"
+  parallax: "41.759 [0.0247]"
+  links:
+    wikipedia: ~
+    simbad: "HD 185414"
+    stellar_catalog: "hd-185414"
+
+- id: 814
+  name: "16 Cygni"
+  ra: "19h 41m 48.95s"
+  dec: "50° 31' 30.22\""
+  app_mag: "5.95"
+  abs_mag: "4.33"
+  stellar_class: "G1.5Vb"
+  distance: "68.92"
+  parallax: "47.3239 [0.0197]"
+  links:
+    wikipedia: "16_Cygni"
+    simbad: "* 16 Cyg A"
+    stellar_catalog: "16-cygni"
+
+- id: 815
+  name: "CD-45 13383"
+  ra: "19h 42m 52.77s"
+  dec: "-45° 04' 53.52\""
+  app_mag: "10.03"
+  abs_mag: "8.07"
+  stellar_class: "M1V"
+  distance: "80.59"
+  parallax: "40.4729 [0.0348]"
+  links:
+    wikipedia: ~
+    simbad: "CD-45 13383"
+    stellar_catalog: "cd-45-13383"
+
+- id: 816
+  name: "HD 332518"
+  ra: "19h 45m 35.60s"
+  dec: "30° 00' 36.79\""
+  app_mag: "9.15"
+  abs_mag: "7.55"
+  stellar_class: "K7V"
+  distance: "68.18"
+  parallax: "47.8351 [0.0147]"
+  links:
+    wikipedia: ~
+    simbad: "HD 332518"
+    stellar_catalog: "hd-332518"
+
+- id: 817
+  name: "17 Cygni"
+  ra: "19h 46m 25.60s"
+  dec: "33° 43' 39.35\""
+  app_mag: "5"
+  abs_mag: "3.39"
+  stellar_class: "F5.5IV-V"
+  distance: "68.45"
+  parallax: "47.6516 [0.0675]"
+  links:
+    wikipedia: "17_Cygni"
+    simbad: "* 17 Cyg"
+    stellar_catalog: "17-cygni-a"
+
+- id: 818
+  name: "Omega Sagittarii"
+  ra: "19h 55m 50.36s"
+  dec: "-26° 17' 57.69\""
+  app_mag: "4.7"
+  abs_mag: "2.85"
+  stellar_class: "G5IV"
+  distance: "76.36"
+  parallax: "42.7159 [0.5538]"
+  links:
+    wikipedia: "Omega_Sagittarii"
+    simbad: "* ome Sgr"
+    stellar_catalog: "-ome-sgr"
+
+- id: 819
+  name: "HD 187456"
+  ra: "19h 56m 16.15s"
+  dec: "-72° 21' 51.46\""
+  app_mag: "8.48"
+  abs_mag: "6.62"
+  stellar_class: "K3+V"
+  distance: "76.77"
+  parallax: "42.4829 [0.0171]"
+  links:
+    wikipedia: ~
+    simbad: "HD 187456"
+    stellar_catalog: "hd-187456"
+
+- id: 820
+  name: "HD 188559"
+  ra: "19h 58m 32.98s"
+  dec: "-54° 56' 12.81\""
+  app_mag: "8.54"
+  abs_mag: "6.67"
+  stellar_class: "K3+V"
+  distance: "77.04"
+  parallax: "42.3356 [0.022]"
+  links:
+    wikipedia: ~
+    simbad: "HD 188559"
+    stellar_catalog: "hd-188559"
+
+- id: 821
+  name: "HD 189340"
+  ra: "19h 59m 47.28s"
+  dec: "-09° 57' 29.63\""
+  app_mag: "5.87"
+  abs_mag: "4.23"
+  stellar_class: "F9V"
+  distance: "69.5"
+  parallax: "46.9328 [0.9290]"
+  links:
+    wikipedia: ~
+    simbad: "HD 189340"
+    stellar_catalog: "hd-189340"
+
+- id: 822
+  name: "HD 189245"
+  ra: "20h 00m 20.25s"
+  dec: "-33° 42' 12.42\""
+  app_mag: "5.66"
+  abs_mag: "3.93"
+  stellar_class: "F7V"
+  distance: "72.23"
+  parallax: "45.1537 [0.0551]"
+  links:
+    wikipedia: "HD_189245"
+    simbad: "HD 189245"
+    stellar_catalog: "hd-189245"
+
+- id: 823
+  name: "HD 189484"
+  ra: "20h 02m 35.16s"
+  dec: "-50° 03' 09.72\""
+  app_mag: "8.79"
+  abs_mag: "7.19"
+  stellar_class: "K4V"
+  distance: "68.18"
+  parallax: "47.8413 [0.0206]"
+  links:
+    wikipedia: ~
+    simbad: "HD 189484"
+    stellar_catalog: "lhs-3508"
+
+- id: 824
+  name: "HD 190470"
+  ra: "20h 04m 10.05s"
+  dec: "25° 47' 24.82\""
+  app_mag: "7.77"
+  abs_mag: "6.05"
+  stellar_class: "K3V"
+  distance: "72.13"
+  parallax: "45.2187 [0.0174]"
+  links:
+    wikipedia: ~
+    simbad: "HD 190470"
+    stellar_catalog: "hd-190470"
+
+- id: 825
+  name: "27 Cygni"
+  ra: "20h 06m 21.77s"
+  dec: "35° 58' 20.89\""
+  app_mag: "5.36"
+  abs_mag: "3.46"
+  stellar_class: "G8.5IVa"
+  distance: "78.25"
+  parallax: "41.6804 [0.0518]"
+  links:
+    wikipedia: "27_Cygni"
+    simbad: "* b01 Cyg"
+    stellar_catalog: "27-cygni"
+
+- id: 826
+  name: "HD 190422"
+  ra: "20h 07m 35.09s"
+  dec: "-55° 00' 57.65\""
+  app_mag: "6.25"
+  abs_mag: "4.34"
+  stellar_class: "F9VCH-0.4"
+  distance: "78.58"
+  parallax: "41.5069 [0.028]"
+  links:
+    wikipedia: "HD_190422"
+    simbad: "HD 190422"
+    stellar_catalog: "hd-190422"
+
+- id: 827
+  name: "HD 191499"
+  ra: "20h 09m 34.30s"
+  dec: "16° 48' 20.76\""
+  app_mag: "7.68"
+  abs_mag: "5.71"
+  stellar_class: "G9V"
+  distance: "80.88"
+  parallax: "40.3276 [0.0165]"
+  links:
+    wikipedia: ~
+    simbad: "HD 191499"
+    stellar_catalog: "hd-191499"
+
+- id: 828
+  name: "HD 191785"
+  ra: "20h 11m 06.07s"
+  dec: "16° 11' 16.79\""
+  app_mag: "7.32"
+  abs_mag: "5.77"
+  stellar_class: "K0V"
+  distance: "66.66"
+  parallax: "48.9262 [0.0230]"
+  links:
+    wikipedia: ~
+    simbad: "HD 191785"
+    stellar_catalog: "gaia-edr3-1809360187275432832"
+
+- id: 829
+  name: "HD 192020"
+  ra: "20h 11m 25.12s"
+  dec: "38° 24' 00.50\""
+  app_mag: "7.96"
+  abs_mag: "6.02"
+  stellar_class: "G8V"
+  distance: "79.78"
+  parallax: "40.8811 [0.0134]"
+  links:
+    wikipedia: ~
+    simbad: "HD 192020"
+    stellar_catalog: "hd-192020"
+
+- id: 830
+  name: "BD-07 5223"
+  ra: "20h 14m 28.19s"
+  dec: "-07° 16' 55.13\""
+  app_mag: "10.17"
+  abs_mag: "8.49"
+  stellar_class: "M0V"
+  distance: "70.69"
+  parallax: "46.1393 [0.0176]"
+  links:
+    wikipedia: ~
+    simbad: "BD-07 5223"
+    stellar_catalog: "bd-07-5223"
+
+- id: 831
+  name: "HD 195564"
+  ra: "20h 32m 23.69s"
+  dec: "-09° 51' 12.18\""
+  app_mag: "5.65"
+  abs_mag: "3.68"
+  stellar_class: "G2.5IV"
+  distance: "80.68"
+  parallax: "40.4241 [0.0497]"
+  links:
+    wikipedia: "HD_195564"
+    simbad: "HD 195564"
+    stellar_catalog: "hd-195564"
+
+- id: 832
+  name: "HD 195987"
+  ra: "20h 32m 51.64s"
+  dec: "41° 53' 54.55\""
+  app_mag: "7.08"
+  abs_mag: "5.38"
+  stellar_class: "G9V"
+  distance: "71.29"
+  parallax: "45.7485 [0.2012]"
+  links:
+    wikipedia: ~
+    simbad: "HD 195987"
+    stellar_catalog: "hd-195987"
+
+- id: 833
+  name: "Phi2 Pavonis"
+  ra: "20h 40m 02.64s"
+  dec: "-60° 32' 56.02\""
+  app_mag: "5.12"
+  abs_mag: "3.16"
+  stellar_class: "G0VFe-0.8CH-0.5"
+  distance: "80.4"
+  parallax: "40.5683 [0.0895]"
+  links:
+    wikipedia: "Phi2_Pavonis"
+    simbad: "* phi02 Pav"
+    stellar_catalog: "phi2-pavonis"
+
+- id: 834
+  name: "HD 197076"
+  ra: "20h 40m 45.14s"
+  dec: "19° 56' 07.93\""
+  app_mag: "6.44"
+  abs_mag: "4.83"
+  stellar_class: "G5V"
+  distance: "68.31"
+  parallax: "47.7457 [0.0197]"
+  links:
+    wikipedia: ~
+    simbad: "HD 197076"
+    stellar_catalog: "hd-197076"
+
+- id: 835
+  name: "BD+56 2471"
+  ra: "20h 41m 28.16s"
+  dec: "57° 25' 47.27\""
+  app_mag: "10.23"
+  abs_mag: "8.26"
+  stellar_class: "M1V"
+  distance: "80.89"
+  parallax: "40.3214 [0.0119]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B56 2471"
+    stellar_catalog: "bd-56-2471"
+
+- id: 836
+  name: "HD 196998"
+  ra: "20h 41m 42.25s"
+  dec: "-22° 19' 20.51\""
+  app_mag: "9.91"
+  abs_mag: "7.99"
+  stellar_class: "K6Ve"
+  distance: "78.92"
+  parallax: "41.3264 [0.0423]"
+  links:
+    wikipedia: ~
+    simbad: "HD 196998"
+    stellar_catalog: "hd-196998"
+
+- id: 837
+  name: "HD 197396"
+  ra: "20h 42m 49.36s"
+  dec: "20° 50' 40.60\""
+  app_mag: "8.25"
+  abs_mag: "6.28"
+  stellar_class: "K2.5V"
+  distance: "80.7"
+  parallax: "40.4178 [0.0231]"
+  links:
+    wikipedia: ~
+    simbad: "HD 197396"
+    stellar_catalog: "hd-197396"
+
+- id: 838
+  name: "HD 197214"
+  ra: "20h 43m 16.00s"
+  dec: "-29° 25' 26.06\""
+  app_mag: "6.96"
+  abs_mag: "5.28"
+  stellar_class: "G6V"
+  distance: "70.83"
+  parallax: "46.0511 [0.2289]"
+  links:
+    wikipedia: ~
+    simbad: "HD 197214"
+    stellar_catalog: "gaia-edr3-6795261758382370560"
+
+- id: 839
+  name: "Eta Indi"
+  ra: "20h 44m 02.33s"
+  dec: "-51° 55' 15.49\""
+  app_mag: "4.5"
+  abs_mag: "2.58"
+  stellar_class: "A9IV"
+  distance: "78.91"
+  parallax: "41.3357 [0.1157]"
+  links:
+    wikipedia: "Eta_Indi"
+    simbad: "* eta Ind"
+    stellar_catalog: "-eta-ind"
+
+- id: 840
+  name: "Epsilon Cygni"
+  ra: "20h 46m 12.67s"
+  dec: "33° 58' 13.18\""
+  app_mag: "2.48"
+  abs_mag: "0.66"
+  stellar_class: "K0III"
+  distance: "75.54"
+  parallax: "43.1769 [0.9384]"
+  links:
+    wikipedia: "Epsilon_Cygni"
+    simbad: "* eps Cyg"
+    stellar_catalog: "epsilon-cygni"
+
+- id: 841
+  name: "V2431 Cygni"
+  ra: "20h 49m 16.23s"
+  dec: "32° 17' 05.24\""
+  app_mag: "8.26"
+  abs_mag: "6.42"
+  stellar_class: "K2.5V"
+  distance: "76.1"
+  parallax: "42.8598 [0.0180]"
+  links:
+    wikipedia: ~
+    simbad: "V* V2431 Cyg"
+    stellar_catalog: "v-v2431-cyg"
+
+- id: 842
+  name: "HD 198550"
+  ra: "20h 50m 10.56s"
+  dec: "29° 23' 02.75\""
+  app_mag: "8.33"
+  abs_mag: "6.81"
+  stellar_class: "K5V"
+  distance: "65.77"
+  parallax: "49.5944 [0.0282]"
+  links:
+    wikipedia: ~
+    simbad: "HD 198550"
+    stellar_catalog: "hd-198550"
+
+- id: 843
+  name: "BD+52 2815"
+  ra: "20h 50m 33.08s"
+  dec: "52° 53' 58.54\""
+  app_mag: "9.7"
+  abs_mag: "7.91"
+  stellar_class: "K7-V"
+  distance: "74.27"
+  parallax: "43.9162 [0.0134]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B52 2815"
+    stellar_catalog: "bd-52-2815"
+
+- id: 844
+  name: "BD+12 4499"
+  ra: "20h 55m 06.86s"
+  dec: "13° 10' 36.56\""
+  app_mag: "8.77"
+  abs_mag: "6.91"
+  stellar_class: "K4V"
+  distance: "76.98"
+  parallax: "42.3677 [0.0995]"
+  links:
+    wikipedia: ~
+    simbad: "BD%2B12 4499"
+    stellar_catalog: "gaia-edr3-1758463038092175232"
+
+- id: 845
+  name: "HD 199260"
+  ra: "20h 56m 47.33s"
+  dec: "-26° 17' 46.96\""
+  app_mag: "5.7"
+  abs_mag: "4.08"
+  stellar_class: "F6V"
+  distance: "68.83"
+  parallax: "47.3886 [0.0696]"
+  links:
+    wikipedia: ~
+    simbad: "HD 199260"
+    stellar_catalog: "hd-199260"
+
+- id: 846
+  name: "HD 199288"
+  ra: "20h 57m 40.07s"
+  dec: "-44° 07' 45.73\""
+  app_mag: "6.52"
+  abs_mag: "4.86"
+  stellar_class: "G2VFe-1.0"
+  distance: "70.01"
+  parallax: "46.5855 [0.0290]"
+  links:
+    wikipedia: ~
+    simbad: "HD 199288"
+    stellar_catalog: "hd-199288"
+
+- id: 847
+  name: "HD 199981"
+  ra: "21h 01m 39.10s"
+  dec: "-32° 31' 28.12\""
+  app_mag: "9.33"
+  abs_mag: "7.77"
+  stellar_class: "K6Vk:"
+  distance: "66.85"
+  parallax: "48.7902 [0.0225]"
+  links:
+    wikipedia: ~
+    simbad: "HD 199981"
+    stellar_catalog: "hd-199981"
+
+- id: 848
+  name: "HD 358850"
+  ra: "21h 05m 43.46s"
+  dec: "-16° 54' 49.35\""
+  app_mag: "10.2"
+  abs_mag: "8.5"
+  stellar_class: "K7"
+  distance: "71.32"
+  parallax: "45.7291 [0.0747]"
+  links:
+    wikipedia: ~
+    simbad: "HD 358850"
+    stellar_catalog: "hd-358850"
+
+- id: 849
+  name: "HD 199509"
+  ra: "21h 09m 20.73s"
+  dec: "-82° 01' 38.11\""
+  app_mag: "7"
+  abs_mag: "5.07"
+  stellar_class: "G1V"
+  distance: "79.43"
+  parallax: "41.0626 [0.0202]"
+  links:
+    wikipedia: ~
+    simbad: "HD 199509"
+    stellar_catalog: "hd-199509"
+
+- id: 850
+  name: "HD 200525"
+  ra: "21h 09m 22.47s"
+  dec: "-73° 10' 22.14\""
+  app_mag: "5.67"
+  abs_mag: "4.03"
+  stellar_class: "F9.5V"
+  distance: "69.41"
+  parallax: "46.9930 [0.8751]"
+  links:
+    wikipedia: ~
+    simbad: "HD 200525"
+    stellar_catalog: "hd-200525"
