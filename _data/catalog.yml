@@ -2632,8 +2632,8 @@
 
 - id: 189
   name: "HD 55"
-  ra: "00h 05m 17.68s"
-  dec: "-67° 49' 57.59\""
+  ra: "00h 05m 17.69s"
+  dec: "-67° 49' 57.32\""
   app_mag: "8.49"
   abs_mag: "7.47"
   stellar_class: "K4.5V"
@@ -2646,8 +2646,8 @@
 
 - id: 190
   name: "Beta Cassiopeiae"
-  ra: "00h 09m 10.695s"
-  dec: "59° 08' 59.18\""
+  ra: "00h 09m 10.69s"
+  dec: "59° 08' 59.21\""
   app_mag: "2.27"
   abs_mag: "1.15"
   stellar_class: "F2III"
@@ -2660,8 +2660,8 @@
 
 - id: 191
   name: "6 Ceti"
-  ra: "00h 11m 15.862s"
-  dec: "-15° 28' 04.92\""
+  ra: "00h 11m 15.86s"
+  dec: "-15° 28' 04.72\""
   app_mag: "4.89"
   abs_mag: "3.51"
   stellar_class: "F8VFe-0.8CH-0.5"
@@ -2674,8 +2674,8 @@
 
 - id: 192
   name: "HD 1237"
-  ra: "00h 16m 12.547s"
-  dec: "-79° 51' 04.43\""
+  ra: "00h 16m 12.68s"
+  dec: "-79° 51' 04.24\""
   app_mag: "6.58"
   abs_mag: "5.36"
   stellar_class: "G8V"
@@ -2688,8 +2688,8 @@
 
 - id: 193
   name: "HD 2025"
-  ra: "00h 24m 25.969s"
-  dec: "-27° 01' 36.92\""
+  ra: "00h 24m 25.93s"
+  dec: "-27° 01' 36.38\""
   app_mag: "7.92"
   abs_mag: "6.66"
   stellar_class: "K3V"
@@ -2702,11 +2702,11 @@
 
 - id: 194
   name: "HD 3443"
-  ra: "00h 37m 20.716s"
-  dec: "-24° 46' 02.22\""
-  app_mag: "6.23"
-  abs_mag: "5.27"
-  stellar_class: "K1V"
+  ra: "00h 37m 20.73s"
+  dec: "-24° 46' 02.43\""
+  app_mag: "6.6"
+  abs_mag: "5.66"
+  stellar_class: "K1V+G"
   distance: "50.23"
   parallax: "64.93 [1.85]"
   links:
@@ -2716,8 +2716,8 @@
 
 - id: 195
   name: "HD 3765"
-  ra: "00h 40m 49.221s"
-  dec: "40° 11' 14.06\""
+  ra: "00h 40m 49.27s"
+  dec: "40° 11' 13.82\""
   app_mag: "7.36"
   abs_mag: "6.18"
   stellar_class: "K2V"
@@ -2732,7 +2732,7 @@
   name: "HD 4391"
   ra: "00h 45m 45.59s"
   dec: "-47° 33' 07.14\""
-  app_mag: "5.8"
+  app_mag: "5.79"
   abs_mag: "4.93"
   stellar_class: "G3V"
   distance: "49.08"
@@ -2744,9 +2744,9 @@
 
 - id: 197
   name: "HD 4378"
-  ra: "00h 45m 48.44s"
-  dec: "-41° 54' 34.7\""
-  app_mag: "8.41"
+  ra: "00h 45m 48.29s"
+  dec: "-41° 54' 33.10\""
+  app_mag: "8.37"
   abs_mag: "7.39"
   stellar_class: "K5Ve"
   distance: "51.29"
@@ -2758,11 +2758,11 @@
 
 - id: 198
   name: "HD 4747"
-  ra: "00h 49m 26.778s"
-  dec: "-23° 12' 45.61\""
-  app_mag: "7.15"
+  ra: "00h 49m 26.76s"
+  dec: "-23° 12' 44.87\""
+  app_mag: "7.16"
   abs_mag: "5.78"
-  stellar_class: "G8V"
+  stellar_class: "G8/K0V"
   distance: "61.48"
   parallax: "53.0526 [0.0282]"
   links:
@@ -2772,10 +2772,10 @@
 
 - id: 199
   name: "Phi2 Ceti"
-  ra: "00h 50m 07.596s"
-  dec: "-10° 38' 39.54\""
-  app_mag: "5.172"
-  abs_mag: "4.24"
+  ra: "00h 50m 07.59s"
+  dec: "-10° 38' 39.58\""
+  app_mag: "5.19"
+  abs_mag: "4.18"
   stellar_class: "F7V"
   distance: "51.93"
   parallax: "62.8022 [0.0951]"
@@ -2786,8 +2786,8 @@
 
 - id: 200
   name: "HD 4967"
-  ra: "00h 51m 34.05s"
-  dec: "-22° 54' 36.6\""
+  ra: "00h 51m 34.02s"
+  dec: "-22° 54' 36.24\""
   app_mag: "8.95"
   abs_mag: "8.04"
   stellar_class: "K5V"
@@ -2800,10 +2800,10 @@
 
 - id: 201
   name: "HD 5015"
-  ra: "00h 53m 04.14s"
-  dec: "61° 07' 26.7\""
-  app_mag: "4.82"
-  abs_mag: "3.45"
+  ra: "00h 53m 04.20s"
+  dec: "61° 07' 26.30\""
+  app_mag: "4.8"
+  abs_mag: "3.42"
   stellar_class: "F9V"
   distance: "61.65"
   parallax: "52.9017 [0.1037]"
@@ -2814,8 +2814,8 @@
 
 - id: 202
   name: "BD+63 137"
-  ra: "01h 07m 08.17s"
-  dec: "63° 56' 28.99\""
+  ra: "01h 07m 08.20s"
+  dec: "63° 56' 28.78\""
   app_mag: "8.98"
   abs_mag: "8.1"
   stellar_class: "K7V"
@@ -2828,10 +2828,10 @@
 
 - id: 203
   name: "Nu Phoenicis"
-  ra: "01h 15m 11.121s"
+  ra: "01h 15m 11.12s"
   dec: "-45° 31' 53.99\""
-  app_mag: "4.95"
-  abs_mag: "4.07"
+  app_mag: "4.96"
+  abs_mag: "4.06"
   stellar_class: "F9VFe+0.4"
   distance: "49.77"
   parallax: "65.5270 [0.0704]"
@@ -2842,8 +2842,8 @@
 
 - id: 204
   name: "HD 7924"
-  ra: "01h 21m 59.14s"
-  dec: "76° 42' 36.58\""
+  ra: "01h 21m 59.11s"
+  dec: "76° 42' 37.04\""
   app_mag: "7.17"
   abs_mag: "6.02"
   stellar_class: "K0.5V"
@@ -2856,10 +2856,10 @@
 
 - id: 205
   name: "HD 9540"
-  ra: "01h 33m 15.98s"
-  dec: "-24° 10' 40.4\""
-  app_mag: "6.97"
-  abs_mag: "5.52"
+  ra: "01h 33m 15.81s"
+  dec: "-24° 10' 40.65\""
+  app_mag: "6.96"
+  abs_mag: "5.54"
   stellar_class: "K0V"
   distance: "62.84"
   parallax: "51.9067 [0.0214]"
@@ -2870,8 +2870,8 @@
 
 - id: 206
   name: "HD 10647"
-  ra: "01h 42m 29.395s"
-  dec: "-53° 44' 27.13\""
+  ra: "01h 42m 29.31s"
+  dec: "-53° 44' 26.99\""
   app_mag: "5.52"
   abs_mag: "4.34"
   stellar_class: "F9V"
@@ -2884,8 +2884,8 @@
 
 - id: 207
   name: "Alpha Trianguli"
-  ra: "01h 53m 04.905s"
-  dec: "29° 34' 43.82\""
+  ra: "01h 53m 04.91s"
+  dec: "29° 34' 43.75\""
   app_mag: "3.42"
   abs_mag: "1.95"
   stellar_class: "F5III"
@@ -2898,8 +2898,8 @@
 
 - id: 208
   name: "Beta Arietis"
-  ra: "01h 54m 38.401s"
-  dec: "20° 48' 28.82\""
+  ra: "01h 54m 38.41s"
+  dec: "20° 48' 28.91\""
   app_mag: "2.65"
   abs_mag: "1.34"
   stellar_class: "kA4hA5mA5Va"
@@ -2912,10 +2912,10 @@
 
 - id: 209
   name: "Chi Eridani"
-  ra: "01h 55m 57.488s"
-  dec: "-51° 36' 31.99\""
-  app_mag: "3.7"
-  abs_mag: "2.49"
+  ra: "01h 55m 57.46s"
+  dec: "-51° 36' 31.96\""
+  app_mag: "3.71"
+  abs_mag: "2.48"
   stellar_class: "G8IIIbCNIV"
   distance: "57.37"
   parallax: "56.8508 [0.1628]"
@@ -2926,8 +2926,8 @@
 
 - id: 210
   name: "Alpha Hydri"
-  ra: "01h 58m 46.13s"
-  dec: "-61° 34' 11.35\""
+  ra: "01h 58m 46.14s"
+  dec: "-61° 34' 11.36\""
   app_mag: "2.84"
   abs_mag: "1.4"
   stellar_class: "F0IV"
@@ -2940,11 +2940,11 @@
 
 - id: 211
   name: "HD 13579"
-  ra: "02h 15m 41.76s"
-  dec: "67° 40' 23.0\""
-  app_mag: "7.13"
-  abs_mag: "5.78"
-  stellar_class: "K2V"
+  ra: "02h 15m 42.55s"
+  dec: "67° 40' 20.32\""
+  app_mag: "7.2"
+  abs_mag: "5.86"
+  stellar_class: "K2"
   distance: "60.58"
   parallax: "53.8413 [0.0167]"
   links:
@@ -2954,8 +2954,8 @@
 
 - id: 212
   name: "HD 15285"
-  ra: "02h 27m 45.927s"
-  dec: "04° 25' 55.26\""
+  ra: "02h 27m 45.86s"
+  dec: "04° 25' 55.75\""
   app_mag: "8.67"
   abs_mag: "7.59"
   stellar_class: "M2V"
@@ -2968,11 +2968,11 @@
 
 - id: 213
   name: "HD 15468"
-  ra: "02h 29m 01.94s"
-  dec: "-19° 58' 44.3\""
-  app_mag: "8.86"
-  abs_mag: "7.48"
-  stellar_class: "K4.5V"
+  ra: "02h 29m 01.73s"
+  dec: "-19° 58' 45.05\""
+  app_mag: "8.77"
+  abs_mag: "7.33"
+  stellar_class: "K4.5Vk"
   distance: "63.2"
   parallax: "51.6064 [0.1360]"
   links:
@@ -2996,8 +2996,8 @@
 
 - id: 215
   name: "Iota Horologii"
-  ra: "02h 42m 33.499s"
-  dec: "-50° 48' 01.32\""
+  ra: "02h 42m 33.47s"
+  dec: "-50° 48' 01.06\""
   app_mag: "5.4"
   abs_mag: "4.22"
   stellar_class: "F8V"
@@ -3010,10 +3010,10 @@
 
 - id: 216
   name: "HD 16909"
-  ra: "02h 43m 20.924s"
-  dec: "19° 25' 45.59\""
-  app_mag: "8.27"
-  abs_mag: "6.93"
+  ra: "02h 43m 20.89s"
+  dec: "19° 25' 45.03\""
+  app_mag: "8.21"
+  abs_mag: "6.85"
   stellar_class: "K3.5Vk"
   distance: "60.9"
   parallax: "53.5579 [0.1814]"
@@ -3024,8 +3024,8 @@
 
 - id: 217
   name: "HD 17230"
-  ra: "02h 46m 17.295s"
-  dec: "11° 46' 31.03\""
+  ra: "02h 46m 17.28s"
+  dec: "11° 46' 30.86\""
   app_mag: "8.57"
   abs_mag: "7.58"
   stellar_class: "K6V"
@@ -3038,8 +3038,8 @@
 
 - id: 218
   name: "HD 20280"
-  ra: "03h 14m 44.702s"
-  dec: "-26° 26' 46.8\""
+  ra: "03h 14m 44.62s"
+  dec: "-26° 26' 46.50\""
   app_mag: "9.14"
   abs_mag: "7.85"
   stellar_class: "K5.5Vk:"
@@ -3052,8 +3052,8 @@
 
 - id: 219
   name: "HD 21209"
-  ra: "03h 23m 15.66s"
-  dec: "-49° 59' 36.9\""
+  ra: "03h 23m 17.18s"
+  dec: "-49° 59' 30.91\""
   app_mag: "8.59"
   abs_mag: "7.16"
   stellar_class: "K3.5V"
@@ -3066,8 +3066,8 @@
 
 - id: 220
   name: "HD 21175"
-  ra: "03h 23m 35.23s"
-  dec: "-40° 04' 35.4\""
+  ra: "03h 23m 35.26s"
+  dec: "-40° 04' 34.96\""
   app_mag: "6.9"
   abs_mag: "5.74"
   stellar_class: "K0V"
@@ -3080,11 +3080,11 @@
 
 - id: 221
   name: "HD 21197"
-  ra: "03h 24m 059.747s"
-  dec: "-05° 21' 49.55\""
-  app_mag: "7.86"
-  abs_mag: "6.97"
-  stellar_class: "K5V"
+  ra: "03h 24m 59.73s"
+  dec: "-05° 21' 49.52\""
+  app_mag: "7.84"
+  abs_mag: "6.91"
+  stellar_class: "K4V"
   distance: "49.98"
   parallax: "65.2607 [0.0277]"
   links:
@@ -3094,8 +3094,8 @@
 
 - id: 222
   name: "HD 21749"
-  ra: "03h 26m 59.09s"
-  dec: "-63° 29' 55.8\""
+  ra: "03h 26m 59.22s"
+  dec: "-63° 29' 56.76\""
   app_mag: "8.14"
   abs_mag: "7.01"
   stellar_class: "K4.5V"
@@ -3108,10 +3108,10 @@
 
 - id: 223
   name: "HD 23484"
-  ra: "03h 44m 09.216s"
-  dec: "-38° 16' 54.32\""
-  app_mag: "6.99"
-  abs_mag: "5.94"
+  ra: "03h 44m 09.17s"
+  dec: "-38° 16' 54.37\""
+  app_mag: "7"
+  abs_mag: "5.96"
   stellar_class: "K2V"
   distance: "52.74"
   parallax: "61.8444 [0.0154]"
@@ -3122,8 +3122,8 @@
 
 - id: 224
   name: "Tau6 Eridani"
-  ra: "03h 46m 50.889s"
-  dec: "-23° 14' 58.97\""
+  ra: "03h 46m 50.89s"
+  dec: "-23° 14' 59.00\""
   app_mag: "4.2"
   abs_mag: "2.95"
   stellar_class: "F5IV-V"
@@ -3136,11 +3136,11 @@
 
 - id: 225
   name: "HD 23189"
-  ra: "03h 48m 00.83s"
-  dec: "68° 40' 20.2\""
-  app_mag: "9.17"
-  abs_mag: "7.97"
-  stellar_class: "K0V"
+  ra: "03h 48m 01.03s"
+  dec: "68° 40' 22.41\""
+  app_mag: "9.28"
+  abs_mag: "8.01"
+  stellar_class: "K2V"
   distance: "58.42"
   parallax: "55.8254 [0.0135]"
   links:
@@ -3150,11 +3150,11 @@
 
 - id: 226
   name: "BD-07 699"
-  ra: "03h 54m 35.451s"
-  dec: "-06° 49' 34.15\""
+  ra: "03h 54m 35.47s"
+  dec: "-06° 49' 33.65\""
   app_mag: "9.02"
   abs_mag: "8.24"
-  stellar_class: "K7V"
+  stellar_class: "K5V"
   distance: "51.11"
   parallax: "63.8136 [0.0228]"
   links:
@@ -3164,8 +3164,8 @@
 
 - id: 227
   name: "HD 25004"
-  ra: "03h 56m 36.409s"
-  dec: "-41° 20' 36.64\""
+  ra: "03h 56m 36.38s"
+  dec: "-41° 20' 36.85\""
   app_mag: "8.85"
   abs_mag: "7.67"
   stellar_class: "K6Vk:"
@@ -3178,10 +3178,10 @@
 
 - id: 228
   name: "HD 24916"
-  ra: "03h 57m 28.7s"
-  dec: "-01° 09' 34\""
-  app_mag: "8.04"
-  abs_mag: "7.06"
+  ra: "03h 57m 28.70s"
+  dec: "-01° 09' 34.07\""
+  app_mag: "8.01"
+  abs_mag: "7.09"
   stellar_class: "K4V"
   distance: "49.85"
   parallax: "65.4262 [0.0234]"
@@ -3192,11 +3192,11 @@
 
 - id: 229
   name: "HD 24451"
-  ra: "04h 01m 19.6s"
-  dec: "76° 9' 33.79\""
+  ra: "04h 01m 19.62s"
+  dec: "76° 09' 33.74\""
   app_mag: "8.24"
   abs_mag: "7.22"
-  stellar_class: "K4V"
+  stellar_class: "K4"
   distance: "52.9"
   parallax: "61.6525 [0.0165]"
   links:
@@ -3206,8 +3206,8 @@
 
 - id: 230
   name: "HD 25457"
-  ra: "04h 02m 36.719s"
-  dec: "00° 16' 08.03\""
+  ra: "04h 02m 36.74s"
+  dec: "-00° 16' 08.12\""
   app_mag: "5.38"
   abs_mag: "3.95"
   stellar_class: "F7V"
@@ -3220,8 +3220,8 @@
 
 - id: 231
   name: "HD 25329"
-  ra: "04h 03m 13.76s"
-  dec: "35° 16' 35.7\""
+  ra: "04h 03m 15.00s"
+  dec: "35° 16' 23.81\""
   app_mag: "8.5"
   abs_mag: "7.19"
   stellar_class: "K1VbFe-2"
@@ -3234,7 +3234,7 @@
 
 - id: 232
   name: "39 Tauri"
-  ra: "04h 05m 20.23s"
+  ra: "04h 05m 20.26s"
   dec: "22° 00' 32.06\""
   app_mag: "5.9"
   abs_mag: "4.79"
@@ -3262,8 +3262,8 @@
 
 - id: 234
   name: "HD 25665"
-  ra: "04h 09m 35.037s"
-  dec: "69° 32' 28.89\""
+  ra: "04h 09m 35.04s"
+  dec: "69° 32' 29.01\""
   app_mag: "7.71"
   abs_mag: "6.38"
   stellar_class: "K2.5V"
@@ -3276,8 +3276,8 @@
 
 - id: 235
   name: "Epsilon Reticuli"
-  ra: "04h 16m 28.93s"
-  dec: "-59° 18' 07.2\""
+  ra: "04h 16m 29.03s"
+  dec: "-59° 18' 07.76\""
   app_mag: "4.44"
   abs_mag: "3.13"
   stellar_class: "K2III"
@@ -3290,8 +3290,8 @@
 
 - id: 236
   name: "HD 283750"
-  ra: "04h 36m 48.09s"
-  dec: "27° 07' 57.2\""
+  ra: "04h 36m 48.24s"
+  dec: "27° 07' 55.89\""
   app_mag: "8.1"
   abs_mag: "6.83"
   stellar_class: "K2.5Ve"
@@ -3304,10 +3304,10 @@
 
 - id: 237
   name: "HD 30876"
-  ra: "04h 49m 52.35s"
-  dec: "-35° 06' 26.5\""
-  app_mag: "7.49"
-  abs_mag: "6.21"
+  ra: "04h 49m 52.33s"
+  dec: "-35° 06' 27.47\""
+  app_mag: "7.5"
+  abs_mag: "6.26"
   stellar_class: "K2V"
   distance: "57.69"
   parallax: "56.5374 [0.0144]"
@@ -3318,8 +3318,8 @@
 
 - id: 238
   name: "HD 31560"
-  ra: "04h 55m 41.889s"
-  dec: "-28° 33' 50.35\""
+  ra: "04h 55m 41.91s"
+  dec: "-28° 33' 50.08\""
   app_mag: "8.12"
   abs_mag: "6.86"
   stellar_class: "K3.5Vk:"
@@ -3332,11 +3332,11 @@
 
 - id: 239
   name: "m Tauri"
-  ra: "05h 07m 27.012s"
-  dec: "18° 38' 42.43\""
+  ra: "05h 07m 27.01s"
+  dec: "18° 38' 42.18\""
   app_mag: "5.6"
   abs_mag: "4.6"
-  stellar_class: "G4V"
+  stellar_class: "G1V"
   distance: "51.92"
   parallax: "62.8252 [0.1094]"
   links:
@@ -3346,10 +3346,10 @@
 
 - id: 240
   name: "HD 34673"
-  ra: "05h 19m 12.669s"
-  dec: "-03° 04' 26.07\""
-  app_mag: "7.7"
-  abs_mag: "6.56"
+  ra: "05h 19m 12.66s"
+  dec: "-03° 04' 25.74\""
+  app_mag: "7.86"
+  abs_mag: "6.88"
   stellar_class: "K3V"
   distance: "51.25"
   parallax: "63.6435 [0.0225]"
@@ -3360,8 +3360,8 @@
 
 - id: 241
   name: "HD 35112"
-  ra: "05h 22m 37.46s"
-  dec: "02° 36' 12.7\""
+  ra: "05h 22m 37.48s"
+  dec: "02° 36' 11.65\""
   app_mag: "7.75"
   abs_mag: "6.27"
   stellar_class: "K3V"
@@ -3374,8 +3374,8 @@
 
 - id: 242
   name: "HD 35650"
-  ra: "05h 24m 30.14s"
-  dec: "-38° 58' 10.2\""
+  ra: "05h 24m 30.17s"
+  dec: "-38° 58' 10.75\""
   app_mag: "9.05"
   abs_mag: "7.8"
   stellar_class: "K6V"
@@ -3388,8 +3388,8 @@
 
 - id: 243
   name: "HD 35854"
-  ra: "05h 26m 14.772s"
-  dec: "-32° 30' 17.93\""
+  ra: "05h 26m 14.74s"
+  dec: "-32° 30' 17.14\""
   app_mag: "7.71"
   abs_mag: "6.46"
   stellar_class: "K2/3V"
@@ -3402,8 +3402,8 @@
 
 - id: 244
   name: "HD 36435"
-  ra: "05h 27m 39.401s"
-  dec: "-60° 24' 58.4\""
+  ra: "05h 27m 39.35s"
+  dec: "-60° 24' 57.59\""
   app_mag: "6.98"
   abs_mag: "5.53"
   stellar_class: "G5V"
@@ -3416,8 +3416,8 @@
 
 - id: 245
   name: "VZ Columbae"
-  ra: "05h 30m 13.98s"
-  dec: "-42° 41' 49.1\""
+  ra: "05h 30m 14.00s"
+  dec: "-42° 41' 50.38\""
   app_mag: "9.71"
   abs_mag: "8.35"
   stellar_class: "M0V"
@@ -3430,8 +3430,8 @@
 
 - id: 246
   name: "Pi Mensae"
-  ra: "05h 37m 09.841s"
-  dec: "-80° 28' 08.67\""
+  ra: "05h 37m 09.89s"
+  dec: "-80° 28' 08.83\""
   app_mag: "5.67"
   abs_mag: "4.35"
   stellar_class: "G0V"
@@ -3444,8 +3444,8 @@
 
 - id: 247
   name: "Beta Pictoris"
-  ra: "05h 47m 17.089s"
-  dec: "-51° 03' 59.4\""
+  ra: "05h 47m 17.09s"
+  dec: "-51° 03' 59.44\""
   app_mag: "3.86"
   abs_mag: "2.42"
   stellar_class: "A6V"
@@ -3458,11 +3458,11 @@
 
 - id: 248
   name: "HD 38858"
-  ra: "05h 48m 34.937s"
-  dec: "-04° 05' 40.53\""
+  ra: "05h 48m 34.94s"
+  dec: "-04° 05' 40.72\""
   app_mag: "5.97"
   abs_mag: "5"
-  stellar_class: "G4V"
+  stellar_class: "G2V"
   distance: "49.61"
   parallax: "65.7446 [0.0307]"
   links:
@@ -3486,8 +3486,8 @@
 
 - id: 250
   name: "V1386 Orionis"
-  ra: "06h 06m 40.468s"
-  dec: "15° 32' 31.23\""
+  ra: "06h 06m 40.48s"
+  dec: "15° 32' 31.58\""
   app_mag: "6.78"
   abs_mag: "5.83"
   stellar_class: "K0V"
@@ -3500,8 +3500,8 @@
 
 - id: 251
   name: "HD 42807"
-  ra: "06h 13m 12.517s"
-  dec: "10° 37' 37.95\""
+  ra: "06h 13m 12.50s"
+  dec: "10° 37' 37.71\""
   app_mag: "6.44"
   abs_mag: "5.15"
   stellar_class: "G5V"
@@ -3514,9 +3514,9 @@
 
 - id: 252
   name: "HD 43162"
-  ra: "06h 13m 45.29s"
-  dec: "-23° 51' 42.96\""
-  app_mag: "6.38"
+  ra: "06h 13m 45.30s"
+  dec: "-23° 51' 42.97\""
+  app_mag: "6.37"
   abs_mag: "5.26"
   stellar_class: "G6.5V"
   distance: "54.46"
@@ -3528,8 +3528,8 @@
 
 - id: 253
   name: "k Orionis"
-  ra: "06h 16m 26.617s"
-  dec: "12° 16' 19.71\""
+  ra: "06h 16m 26.62s"
+  dec: "12° 16' 19.79\""
   app_mag: "5.04"
   abs_mag: "3.58"
   stellar_class: "F5V"
@@ -3542,8 +3542,8 @@
 
 - id: 254
   name: "HD 43587"
-  ra: "06h 17m 16.2s"
-  dec: "05° 06' 00.2\""
+  ra: "06h 17m 16.13s"
+  dec: "05° 05' 59.90\""
   app_mag: "5.7"
   abs_mag: "4.27"
   stellar_class: "G0V"
@@ -3556,8 +3556,8 @@
 
 - id: 255
   name: "HD 47752"
-  ra: "06h 41m 15.69s"
-  dec: "23° 57' 27.86\""
+  ra: "06h 41m 15.71s"
+  dec: "23° 57' 27.78\""
   app_mag: "8.06"
   abs_mag: "6.89"
   stellar_class: "K3.5V"
@@ -3570,8 +3570,8 @@
 
 - id: 256
   name: "Xi Geminorum"
-  ra: "06h 45m 17.362s"
-  dec: "12° 53' 44.02\""
+  ra: "06h 45m 17.36s"
+  dec: "12° 53' 44.14\""
   app_mag: "3.36"
   abs_mag: "2.14"
   stellar_class: "F5IV-V"
@@ -3584,11 +3584,11 @@
 
 - id: 257
   name: "HD 46588"
-  ra: "06h 46m 14.073s"
-  dec: "79° 33' 53.27\""
+  ra: "06h 46m 14.15s"
+  dec: "79° 33' 53.32\""
   app_mag: "5.45"
   abs_mag: "4.19"
-  stellar_class: "F8V"
+  stellar_class: "F7V"
   distance: "59.37"
   parallax: "54.9380 [0.0595]"
   links:
@@ -3598,8 +3598,8 @@
 
 - id: 258
   name: "Psi5 Aurigae"
-  ra: "06h 46m 44.336s"
-  dec: "43° 34' 38.77\""
+  ra: "06h 46m 44.34s"
+  dec: "43° 34' 38.73\""
   app_mag: "5.25"
   abs_mag: "4.11"
   stellar_class: "F9V"
@@ -3612,8 +3612,8 @@
 
 - id: 259
   name: "HD 48948"
-  ra: "06h 49m 56.867s"
-  dec: "60° 20' 8.21\""
+  ra: "06h 49m 57.03s"
+  dec: "60° 20' 07.96\""
   app_mag: "8.59"
   abs_mag: "7.52"
   stellar_class: "K3V"
@@ -3626,8 +3626,8 @@
 
 - id: 260
   name: "HD 49601"
-  ra: "06h 51m 32.442s"
-  dec: "47° 22' 03.99\""
+  ra: "06h 51m 32.39s"
+  dec: "47° 22' 04.15\""
   app_mag: "8.99"
   abs_mag: "7.61"
   stellar_class: "K6V"
@@ -3640,10 +3640,10 @@
 
 - id: 261
   name: "37 Geminorum"
-  ra: "06h 55m 18.637s"
-  dec: "25° 22' 32.65\""
-  app_mag: "5.73"
-  abs_mag: "4.54"
+  ra: "06h 55m 18.67s"
+  dec: "25° 22' 32.50\""
+  app_mag: "5.75"
+  abs_mag: "4.55"
   stellar_class: "G0V"
   distance: "56.77"
   parallax: "57.4559 [0.0907]"
@@ -3654,8 +3654,8 @@
 
 - id: 262
   name: "HD 266611"
-  ra: "06h 57m 04.688s"
-  dec: "30° 45' 23.98\""
+  ra: "06h 57m 04.69s"
+  dec: "30° 45' 23.38\""
   app_mag: "9.68"
   abs_mag: "8.33"
   stellar_class: "K5V"
@@ -3668,8 +3668,8 @@
 
 - id: 263
   name: "HD 53143"
-  ra: "06h 59m 59.654s"
-  dec: "-61° 20' 11.01\""
+  ra: "06h 59m 59.66s"
+  dec: "-61° 20' 10.25\""
   app_mag: "6.8"
   abs_mag: "5.5"
   stellar_class: "G9V"
@@ -3682,8 +3682,8 @@
 
 - id: 264
   name: "HD 52919"
-  ra: "07h 02m 42.967s"
-  dec: "-06° 47' 56.38\""
+  ra: "07h 02m 42.92s"
+  dec: "-06° 47' 57.21\""
   app_mag: "8.35"
   abs_mag: "7.02"
   stellar_class: "K4V"
@@ -3696,8 +3696,8 @@
 
 - id: 265
   name: "HD 52711"
-  ra: "07h 03m 30.43s"
-  dec: "29° 20' 13.7\""
+  ra: "07h 03m 30.46s"
+  dec: "29° 20' 13.49\""
   app_mag: "5.92"
   abs_mag: "4.52"
   stellar_class: "G0V"
@@ -3711,9 +3711,9 @@
 - id: 266
   name: "HD 53705"
   ra: "07h 03m 57.32s"
-  dec: "-43° 36' 29.3\""
-  app_mag: "5.56"
-  abs_mag: "4.5"
+  dec: "-43° 36' 28.93\""
+  app_mag: "5.28"
+  abs_mag: "4.12"
   stellar_class: "G1.5V"
   distance: "55.64"
   parallax: "58.6192 [0.0477]"
@@ -3724,8 +3724,8 @@
 
 - id: 267
   name: "HD 56533"
-  ra: "07h 13m 07.44s"
-  dec: "-63° 20' 46.9\""
+  ra: "07h 13m 07.09s"
+  dec: "-63° 20' 41.81\""
   app_mag: "9.08"
   abs_mag: "7.63"
   stellar_class: "K6Vk:"
@@ -3738,8 +3738,8 @@
 
 - id: 268
   name: "HD 55575"
-  ra: "07h 15m 50.134s"
-  dec: "47° 14' 24.02\""
+  ra: "07h 15m 50.14s"
+  dec: "47° 14' 23.87\""
   app_mag: "5.57"
   abs_mag: "4.43"
   stellar_class: "F9V"
@@ -3752,7 +3752,7 @@
 
 - id: 269
   name: "Delta Geminorum"
-  ra: "07h 20m 07.367s"
+  ra: "07h 20m 07.37s"
   dec: "21° 58' 56.29\""
   app_mag: "3.53"
   abs_mag: "2.25"
@@ -3766,8 +3766,8 @@
 
 - id: 270
   name: "Rho Geminorum"
-  ra: "07h 29m 06.7s"
-  dec: "31° 47' 03.87\""
+  ra: "07h 29m 06.72s"
+  dec: "31° 47' 04.38\""
   app_mag: "4.18"
   abs_mag: "2.84"
   stellar_class: "F1V"
@@ -3780,11 +3780,11 @@
 
 - id: 271
   name: "Castor"
-  ra: "07h 34m 36s"
-  dec: "31° 53' 18\""
-  app_mag: "1.93"
-  abs_mag: "1.7"
-  stellar_class: "A1V"
+  ra: "07h 34m 35.86s"
+  dec: "31° 53' 17.79\""
+  app_mag: "1.9"
+  abs_mag: "0.93"
+  stellar_class: "A1.5IV+"
   distance: "50.87"
   parallax: "64.12 [3.75]"
   links:
@@ -3794,10 +3794,10 @@
 
 - id: 272
   name: "171 G. Puppis"
-  ra: "07h 45m 35.022s"
-  dec: "-34° 10' 20.51\""
-  app_mag: "5.38"
-  abs_mag: "4.57"
+  ra: "07h 45m 34.92s"
+  dec: "-34° 10' 21.19\""
+  app_mag: "5.36"
+  abs_mag: "4.44"
   stellar_class: "F9V"
   distance: "49.83"
   parallax: "65.4544 [0.2145]"
@@ -3808,8 +3808,8 @@
 
 - id: 273
   name: "9 Puppis"
-  ra: "07h 51m 46.294s"
-  dec: "-13° 53' 52.85\""
+  ra: "07h 51m 46.31s"
+  dec: "-13° 53' 52.84\""
   app_mag: "5.61"
   abs_mag: "4.61"
   stellar_class: "G0V"
@@ -3822,8 +3822,8 @@
 
 - id: 274
   name: "212 G. Puppis"
-  ra: "07h 52m 15.80s"
-  dec: "-34° 42' 21.7\""
+  ra: "07h 52m 15.66s"
+  dec: "-34° 42' 19.58\""
   app_mag: "5.12"
   abs_mag: "3.73"
   stellar_class: "F5V"
@@ -3850,7 +3850,7 @@
 
 - id: 276
   name: "HD 64606"
-  ra: "07h 54m 34.119s"
+  ra: "07h 54m 34.19s"
   dec: "-01° 24' 44.30\""
   app_mag: "7.43"
   abs_mag: "6.01"
@@ -3864,8 +3864,8 @@
 
 - id: 277
   name: "HD 62613"
-  ra: "07h 56m 17.098s"
-  dec: "80° 15' 56.14\""
+  ra: "07h 56m 17.23s"
+  dec: "80° 15' 55.95\""
   app_mag: "6.55"
   abs_mag: "5.4"
   stellar_class: "G9"
@@ -3878,8 +3878,8 @@
 
 - id: 278
   name: "HD 65907"
-  ra: "07h 57m 47.75s"
-  dec: "-60° 18' 10.2\""
+  ra: "07h 57m 46.91s"
+  dec: "-60° 18' 11.06\""
   app_mag: "5.6"
   abs_mag: "4.55"
   stellar_class: "F9.5V"
@@ -3892,8 +3892,8 @@
 
 - id: 279
   name: "CD-33 4354"
-  ra: "07h 57m 48.436s"
-  dec: "-33° 57' 08.22\""
+  ra: "07h 57m 48.52s"
+  dec: "-33° 57' 07.24\""
   app_mag: "8.82"
   abs_mag: "7.53"
   stellar_class: "K4.5Vk:"
@@ -3906,9 +3906,9 @@
 
 - id: 280
   name: "HD 65277"
-  ra: "07h 57m 57.731s"
-  dec: "-00° 48' 52.11\""
-  app_mag: "8.05"
+  ra: "07h 57m 57.78s"
+  dec: "-00° 48' 51.88\""
+  app_mag: "8.08"
   abs_mag: "6.85"
   stellar_class: "K4V"
   distance: "57.58"
@@ -3920,8 +3920,8 @@
 
 - id: 281
   name: "HD 65486"
-  ra: "07h 58m 04.14s"
-  dec: "-25° 37' 33.7\""
+  ra: "07h 58m 04.37s"
+  dec: "-25° 37' 35.86\""
   app_mag: "8.44"
   abs_mag: "7.08"
   stellar_class: "K4-V(k)"
@@ -3934,8 +3934,8 @@
 
 - id: 282
   name: "HD 65583"
-  ra: "08h 00m 32.159s"
-  dec: "29° 12' 44.19\""
+  ra: "08h 00m 32.13s"
+  dec: "29° 12' 44.48\""
   app_mag: "7"
   abs_mag: "5.87"
   stellar_class: "K0V_Fe-1.3"
@@ -3948,10 +3948,10 @@
 
 - id: 283
   name: "HD 67199"
-  ra: "08h 02m 31.41s"
-  dec: "-66° 01' 14.2\""
-  app_mag: "7.18"
-  abs_mag: "5.99"
+  ra: "08h 02m 31.19s"
+  dec: "-66° 01' 15.38\""
+  app_mag: "7.17"
+  abs_mag: "5.98"
   stellar_class: "K2Vk:"
   distance: "56.36"
   parallax: "57.8659 [0.0167]"
@@ -3962,10 +3962,10 @@
 
 - id: 284
   name: "Rho Puppis"
-  ra: "08h 07m 32.556s"
-  dec: "-24° 18' 14.816\""
-  app_mag: "2.78"
-  abs_mag: "1.41"
+  ra: "08h 07m 32.65s"
+  dec: "-24° 18' 15.57\""
+  app_mag: "2.81"
+  abs_mag: "1.36"
   stellar_class: "F5IIkF2IImF5II"
   distance: "63.45"
   parallax: "51.3999 [0.2445]"
@@ -3976,10 +3976,10 @@
 
 - id: 285
   name: "HD 68834"
-  ra: "08h 14m 36.17s"
-  dec: "13° 01' 21.3\""
-  app_mag: "8.79"
-  abs_mag: "7.41"
+  ra: "08h 14m 35.91s"
+  dec: "13° 01' 22.18\""
+  app_mag: "8.8"
+  abs_mag: "7.38"
   stellar_class: "K5V"
   distance: "62.75"
   parallax: "51.9745 [0.0248]"
@@ -3990,10 +3990,10 @@
 
 - id: 286
   name: "Alpha Chamaeleontis"
-  ra: "08h 18m 31.489s"
-  dec: "-76° 55' 10.61\""
-  app_mag: "4.06"
-  abs_mag: "2.62"
+  ra: "08h 18m 31.55s"
+  dec: "-76° 55' 11.01\""
+  app_mag: "4.05"
+  abs_mag: "2.6"
   stellar_class: "F5VFe-0.8"
   distance: "63.56"
   parallax: "51.3172 [0.0981]"
@@ -4004,8 +4004,8 @@
 
 - id: 287
   name: "Chi Cancri"
-  ra: "08h 20m 03.856s"
-  dec: "27° 13' 03.64\""
+  ra: "08h 20m 03.86s"
+  dec: "27° 13' 03.74\""
   app_mag: "5.14"
   abs_mag: "3.83"
   stellar_class: "F6V"
@@ -4018,10 +4018,10 @@
 
 - id: 288
   name: "HD 73752"
-  ra: "08h 39m 08.07s"
-  dec: "-22° 39' 46.5\""
-  app_mag: "5.17"
-  abs_mag: "3.61"
+  ra: "08h 39m 07.94s"
+  dec: "-22° 39' 41.77\""
+  app_mag: "5.37"
+  abs_mag: "3.91"
   stellar_class: "G3V"
   distance: "64"
   parallax: "50.9663 [0.3068]"
@@ -4032,10 +4032,10 @@
 
 - id: 289
   name: "HD 73667"
-  ra: "08h 39m 50.77s"
-  dec: "11° 31' 21.2\""
-  app_mag: "7.63"
-  abs_mag: "6.29"
+  ra: "08h 39m 50.79s"
+  dec: "11° 31' 21.62\""
+  app_mag: "7.58"
+  abs_mag: "6.25"
   stellar_class: "K2V"
   distance: "60.12"
   parallax: "54.2513 [0.0225]"
@@ -4046,11 +4046,11 @@
 
 - id: 290
   name: "BD+08 2131"
-  ra: "08h 50m 42.29s"
-  dec: "07° 51' 52.45\""
+  ra: "08h 50m 42.30s"
+  dec: "07° 51' 52.46\""
   app_mag: "9.76"
   abs_mag: "8.5"
-  stellar_class: "M0Vp"
+  stellar_class: "K5V"
   distance: "58.24"
   parallax: "56.0073 [0.0393]"
   links:
@@ -4060,11 +4060,11 @@
 
 - id: 291
   name: "BD+66 582"
-  ra: "08h 52m 0.416s"
-  dec: "66° 7' 53.63\""
-  app_mag: "9.26"
-  abs_mag: "8.18"
-  stellar_class: "K5"
+  ra: "08h 52m 00.35s"
+  dec: "66° 07' 53.39\""
+  app_mag: "9.28"
+  abs_mag: "8.19"
+  stellar_class: "K5V"
   distance: "53.81"
   parallax: "60.6141 [0.0143]"
   links:
@@ -4074,8 +4074,8 @@
 
 - id: 292
   name: "HD 76151"
-  ra: "08h 54m 17.966s"
-  dec: "-5° 26' 4.33\""
+  ra: "08h 54m 17.95s"
+  dec: "-05° 26' 04.05\""
   app_mag: "6"
   abs_mag: "4.84"
   stellar_class: "G2V"
@@ -4088,8 +4088,8 @@
 
 - id: 293
   name: "HD 76740"
-  ra: "08h 57m 04.05s"
-  dec: "-29° 50' 45.1\""
+  ra: "08h 57m 04.07s"
+  dec: "-29° 50' 45.65\""
   app_mag: "8.38"
   abs_mag: "6.95"
   stellar_class: "F5V"
@@ -4102,11 +4102,11 @@
 
 - id: 294
   name: "10 Ursae Majoris"
-  ra: "09h 00m 38.39s"
-  dec: "41° 46' 57.98\""
+  ra: "09h 00m 38.47s"
+  dec: "41° 46' 58.89\""
   app_mag: "3.96"
   abs_mag: "3.03"
-  stellar_class: "F4V"
+  stellar_class: "F3V"
   distance: "52.41"
   parallax: "62.23 [0.68]"
   links:
@@ -4117,7 +4117,7 @@
 - id: 295
   name: "HD 77175"
   ra: "09h 01m 17.48s"
-  dec: "15° 15' 53.4\""
+  dec: "15° 15' 56.75\""
   app_mag: "9.34"
   abs_mag: "8.11"
   stellar_class: "K6V"
@@ -4130,8 +4130,8 @@
 
 - id: 296
   name: "HD 78366"
-  ra: "09h 08m 51.082s"
-  dec: "33° 52' 55.86\""
+  ra: "09h 08m 51.07s"
+  dec: "33° 52' 55.99\""
   app_mag: "5.96"
   abs_mag: "4.55"
   stellar_class: "G0IV-V"
@@ -4144,7 +4144,7 @@
 
 - id: 297
   name: "HD 79555"
-  ra: "09h 14m 53.69s"
+  ra: "09h 14m 53.65s"
   dec: "04° 26' 34.16\""
   app_mag: "7.93"
   abs_mag: "6.71"
@@ -4158,7 +4158,7 @@
 
 - id: 298
   name: "HD 79969"
-  ra: "09h 17m 53.464s"
+  ra: "09h 17m 53.46s"
   dec: "28° 33' 37.86\""
   app_mag: "7.21"
   abs_mag: "5.98"
@@ -4172,8 +4172,8 @@
 
 - id: 299
   name: "Tau1 Hydrae"
-  ra: "09h 29m 08.91s"
-  dec: "-02° 46' 08.4\""
+  ra: "09h 29m 08.93s"
+  dec: "-02° 46' 08.18\""
   app_mag: "4.6"
   abs_mag: "3.43"
   stellar_class: "F5V"
@@ -4186,8 +4186,8 @@
 
 - id: 300
   name: "HD 82342"
-  ra: "09h 30m 28.051s"
-  dec: "-32° 06' 12.55\""
+  ra: "09h 30m 28.09s"
+  dec: "-32° 06' 12.25\""
   app_mag: "8.32"
   abs_mag: "6.95"
   stellar_class: "K3.5V"
@@ -4200,11 +4200,11 @@
 
 - id: 301
   name: "Psi Velorum"
-  ra: "09h 30m 42.018s"
-  dec: "-40° 28' 00.25\""
+  ra: "09h 30m 41.93s"
+  dec: "-40° 28' 00.59\""
   app_mag: "3.91"
   abs_mag: "2.78"
-  stellar_class: "F3IV"
+  stellar_class: "F3VFe-0.7"
   distance: "59.73"
   parallax: "54.6059 [0.4483]"
   links:
@@ -4214,10 +4214,10 @@
 
 - id: 302
   name: "LQ Hydrae"
-  ra: "09h 32m 25.72s"
-  dec: "-11° 11' 05.0\""
-  app_mag: "7.82"
-  abs_mag: "6.47"
+  ra: "09h 32m 25.57s"
+  dec: "-11° 11' 04.69\""
+  app_mag: "7.89"
+  abs_mag: "6.58"
   stellar_class: "K1Vp"
   distance: "59.59"
   parallax: "54.7362 [0.0244]"
@@ -4228,8 +4228,8 @@
 
 - id: 303
   name: "HD 82443"
-  ra: "09h 32m 43.775s"
-  dec: "26° 59' 18.37\""
+  ra: "09h 32m 43.76s"
+  dec: "26° 59' 18.71\""
   app_mag: "7.01"
   abs_mag: "5.76"
   stellar_class: "G9V(k)"
@@ -4242,8 +4242,8 @@
 
 - id: 304
   name: "HD 84035"
-  ra: "09h 43m 25.635s"
-  dec: "42° 41' 29.17\""
+  ra: "09h 43m 25.66s"
+  dec: "42° 41' 29.62\""
   app_mag: "8.15"
   abs_mag: "6.9"
   stellar_class: "K4V"
@@ -4256,8 +4256,8 @@
 
 - id: 305
   name: "15 Leonis Minoris"
-  ra: "09h 48m 35.379s"
-  dec: "46° 01' 15.62\""
+  ra: "09h 48m 35.37s"
+  dec: "46° 01' 15.63\""
   app_mag: "5.1"
   abs_mag: "3.77"
   stellar_class: "G0.5Va"
@@ -4270,8 +4270,8 @@
 
 - id: 306
   name: "HD 87883"
-  ra: "10h 08m 43.18s"
-  dec: "34° 14' 32.7\""
+  ra: "10h 08m 43.14s"
+  dec: "34° 14' 32.15\""
   app_mag: "7.55"
   abs_mag: "6.26"
   stellar_class: "K0V"
@@ -4284,10 +4284,10 @@
 
 - id: 307
   name: "I Carinae"
-  ra: "10h 24m 23.66s"
-  dec: "-74° 1' 53.81\""
-  app_mag: "3.99"
-  abs_mag: "2.94"
+  ra: "10h 24m 23.71s"
+  dec: "-74° 01' 53.80\""
+  app_mag: "4.01"
+  abs_mag: "2.95"
   stellar_class: "F3V"
   distance: "53.09"
   parallax: "61.4342 [0.1214]"
@@ -4298,10 +4298,10 @@
 
 - id: 308
   name: "BD+46 1635"
-  ra: "10h 31m 24.21s"
-  dec: "45° 31' 33.79\""
-  app_mag: "8.88"
-  abs_mag: "7.9"
+  ra: "10h 31m 24.22s"
+  dec: "45° 31' 33.78\""
+  app_mag: "8.86"
+  abs_mag: "7.84"
   stellar_class: "K7V"
   distance: "52.17"
   parallax: "62.5202 [0.0208]"
@@ -4312,8 +4312,8 @@
 
 - id: 309
   name: "BD+57 1274"
-  ra: "10h 31m 43.099s"
-  dec: "57° 06' 59.87\""
+  ra: "10h 31m 43.22s"
+  dec: "57° 06' 57.11\""
   app_mag: "9.63"
   abs_mag: "8.42"
   stellar_class: "K5V"
@@ -4326,8 +4326,8 @@
 
 - id: 310
   name: "HD 94765"
-  ra: "10h 56m 30.95s"
-  dec: "07° 23' 19.2\""
+  ra: "10h 56m 30.80s"
+  dec: "07° 23' 18.51\""
   app_mag: "7.38"
   abs_mag: "6.15"
   stellar_class: "K0V"
@@ -4340,8 +4340,8 @@
 
 - id: 311
   name: "HD 97214"
-  ra: "11h 11m 11.26s"
-  dec: "-10° 57' 08.4\""
+  ra: "11h 11m 10.70s"
+  dec: "-10° 57' 03.19\""
   app_mag: "9.22"
   abs_mag: "7.63"
   stellar_class: "K5V"
@@ -4354,8 +4354,8 @@
 
 - id: 312
   name: "HD 97233"
-  ra: "11h 11m 32.70s"
-  dec: "-14° 59' 23.8\""
+  ra: "11h 11m 33.15s"
+  dec: "-14° 59' 28.93\""
   app_mag: "9.04"
   abs_mag: "7.39"
   stellar_class: "K5Vk:"
@@ -4368,10 +4368,10 @@
 
 - id: 313
   name: "HD 97503"
-  ra: "11h 13m 13.227s"
-  dec: "04° 28' 55.63\""
-  app_mag: "8.7"
-  abs_mag: "7.43"
+  ra: "11h 13m 13.23s"
+  dec: "04° 28' 56.44\""
+  app_mag: "9.32"
+  abs_mag: "8"
   stellar_class: "K5V"
   distance: "59.84"
   parallax: "54.5058 [0.0211]"
@@ -4382,8 +4382,8 @@
 
 - id: 314
   name: "Delta Leonis"
-  ra: "11h 14m 06.495s"
-  dec: "20° 31' 25.3\""
+  ra: "11h 14m 06.50s"
+  dec: "20° 31' 25.39\""
   app_mag: "2.53"
   abs_mag: "1.32"
   stellar_class: "A5IV(n)"
@@ -4396,10 +4396,10 @@
 
 - id: 315
   name: "83 Leonis"
-  ra: "11h 26m 45.328s"
-  dec: "03° 00' 47.05\""
-  app_mag: "6.49"
-  abs_mag: "5.25"
+  ra: "11h 26m 45.32s"
+  dec: "03° 00' 47.16\""
+  app_mag: "6.46"
+  abs_mag: "5.16"
   stellar_class: "G9IV-V"
   distance: "59.29"
   parallax: "55.0090 [0.0240]"
@@ -4410,8 +4410,8 @@
 
 - id: 316
   name: "MV Ursae Majoris"
-  ra: "11h 38m 59.82s"
-  dec: "42° 19' 39.9\""
+  ra: "11h 38m 59.72s"
+  dec: "42° 19' 43.69\""
   app_mag: "8.22"
   abs_mag: "6.74"
   stellar_class: "K5V"
@@ -4424,8 +4424,8 @@
 
 - id: 317
   name: "HD 102438"
-  ra: "11h 47m 15.815s"
-  dec: "-30° 17' 11.35\""
+  ra: "11h 47m 15.81s"
+  dec: "-30° 17' 11.44\""
   app_mag: "6.48"
   abs_mag: "5.23"
   stellar_class: "G6V"
@@ -4438,8 +4438,8 @@
 
 - id: 318
   name: "Eta Crucis"
-  ra: "12h 06m 52.884s"
-  dec: "-64° 36' 49.48\""
+  ra: "12h 06m 52.90s"
+  dec: "-64° 36' 49.43\""
   app_mag: "4.14"
   abs_mag: "2.67"
   stellar_class: "F2V"
@@ -4452,10 +4452,10 @@
 
 - id: 319
   name: "HD 105671"
-  ra: "12h 09m 55.30s"
-  dec: "-46° 12' 29.5\""
-  app_mag: "8.43"
-  abs_mag: "6.98"
+  ra: "12h 09m 54.98s"
+  dec: "-46° 12' 30.21\""
+  app_mag: "8.44"
+  abs_mag: "6.96"
   stellar_class: "K4Vk:"
   distance: "64.52"
   parallax: "50.5536 [0.0248]"
@@ -4466,11 +4466,11 @@
 
 - id: 320
   name: "HD 107596"
-  ra: "12h 21m 54.027s"
-  dec: "42° 08' 01.8\""
+  ra: "12h 21m 54.07s"
+  dec: "42° 08' 01.99\""
   app_mag: "9.36"
   abs_mag: "8.36"
-  stellar_class: "M0V"
+  stellar_class: "K5V"
   distance: "51.99"
   parallax: "62.7385 [0.0181]"
   links:
@@ -4480,10 +4480,10 @@
 
 - id: 321
   name: "Eta Corvi"
-  ra: "12h 32m 04.223s"
-  dec: "-16° 11' 45.63\""
-  app_mag: "4.31"
-  abs_mag: "3"
+  ra: "12h 32m 04.23s"
+  dec: "-16° 11' 45.62\""
+  app_mag: "4.29"
+  abs_mag: "2.98"
   stellar_class: "F2V"
   distance: "59.5"
   parallax: "54.8135 [0.1562]"
@@ -4494,9 +4494,9 @@
 
 - id: 322
   name: "HD 109200"
-  ra: "12h 33m 31.394s"
-  dec: "-68° 45' 20.75\""
-  app_mag: "7.13"
+  ra: "12h 33m 31.38s"
+  dec: "-68° 45' 20.91\""
+  app_mag: "7.14"
   abs_mag: "6.09"
   stellar_class: "K1V"
   distance: "52.8"
@@ -4508,8 +4508,8 @@
 
 - id: 323
   name: "10 Canum Venaticorum"
-  ra: "12h 44m 59.393s"
-  dec: "39° 16' 44.46\""
+  ra: "12h 44m 59.40s"
+  dec: "39° 16' 44.10\""
   app_mag: "5.95"
   abs_mag: "4.76"
   stellar_class: "F9V_Fe-0.3"
@@ -4522,8 +4522,8 @@
 
 - id: 324
   name: "HD 110810"
-  ra: "12h 45m 14.63s"
-  dec: "-57° 21' 27.7\""
+  ra: "12h 45m 14.41s"
+  dec: "-57° 21' 28.81\""
   app_mag: "7.84"
   abs_mag: "6.3"
   stellar_class: "K4V"
@@ -4536,10 +4536,10 @@
 
 - id: 325
   name: "HD 111261"
-  ra: "12h 48m 10.91s"
-  dec: "-24° 48' 25.2\""
-  app_mag: "8.9"
-  abs_mag: "7.41"
+  ra: "12h 48m 10.71s"
+  dec: "-24° 48' 23.77\""
+  app_mag: "8.88"
+  abs_mag: "7.52"
   stellar_class: "K4V"
   distance: "61.15"
   parallax: "53.3334 [0.0255]"
@@ -4550,8 +4550,8 @@
 
 - id: 326
   name: "HD 111395"
-  ra: "12h 48m 47.035s"
-  dec: "24° 50' 24.61\""
+  ra: "12h 48m 47.05s"
+  dec: "24° 50' 24.82\""
   app_mag: "6.3"
   abs_mag: "5.12"
   stellar_class: "G5V"
@@ -4564,8 +4564,8 @@
 
 - id: 327
   name: "HD 113194"
-  ra: "13h 02m 20.79s"
-  dec: "-26° 47' 11.8\""
+  ra: "13h 02m 20.69s"
+  dec: "-26° 47' 13.60\""
   app_mag: "8.35"
   abs_mag: "7.1"
   stellar_class: "K5Vk:"
@@ -4578,8 +4578,8 @@
 
 - id: 328
   name: "HD 113538"
-  ra: "13h 04m 57.398s"
-  dec: "-52° 26' 35.11\""
+  ra: "13h 04m 57.48s"
+  dec: "-52° 26' 34.53\""
   app_mag: "9.06"
   abs_mag: "8.07"
   stellar_class: "K9Vk:"
@@ -4592,11 +4592,11 @@
 
 - id: 329
   name: "BD+21 2486"
-  ra: "13h 06m 15.355s"
-  dec: "20° 43' 43.5\""
+  ra: "13h 06m 15.40s"
+  dec: "20° 43' 45.30\""
   app_mag: "9.72"
   abs_mag: "8.09"
-  stellar_class: "M0V"
+  stellar_class: "K4V"
   distance: "64.2"
   parallax: "50.8073 [0.0226]"
   links:
@@ -4606,8 +4606,8 @@
 
 - id: 330
   name: "Alpha Comae Berenices"
-  ra: "13h 09m 59.317s"
-  dec: "17° 31' 46.29\""
+  ra: "13h 09m 59.29s"
+  dec: "17° 31' 45.86\""
   app_mag: "4.8"
   abs_mag: "3.55"
   stellar_class: "F5V"
@@ -4620,8 +4620,8 @@
 
 - id: 331
   name: "HD 114837"
-  ra: "13h 14m 15.131s"
-  dec: "-59° 06' 11.75\""
+  ra: "13h 14m 15.14s"
+  dec: "-59° 06' 11.65\""
   app_mag: "4.93"
   abs_mag: "3.63"
   stellar_class: "F6VFe-0.4"
@@ -4635,10 +4635,10 @@
 - id: 332
   name: "59 Virginis"
   ra: "13h 16m 46.51s"
-  dec: "09° 25' 26.6\""
+  dec: "09° 25' 26.96\""
   app_mag: "5.22"
   abs_mag: "3.94"
-  stellar_class: "G0V"
+  stellar_class: "G0IV"
   distance: "57.36"
   parallax: "56.8577 [0.1224]"
   links:
@@ -4648,8 +4648,8 @@
 
 - id: 333
   name: "Iota Centauri"
-  ra: "13h 20m 35.822s"
-  dec: "-36° 42' 44.32\""
+  ra: "13h 20m 35.81s"
+  dec: "-36° 42' 44.30\""
   app_mag: "2.73"
   abs_mag: "1.48"
   stellar_class: "kA1.5hA3mA3Va"
@@ -4662,8 +4662,8 @@
 
 - id: 334
   name: "HD 116495"
-  ra: "13h 23m 33.10s"
-  dec: "29° 14' 12.8\""
+  ra: "13h 23m 32.78s"
+  dec: "29° 14' 14.95\""
   app_mag: "9.44"
   abs_mag: "8.15"
   stellar_class: "K5V"
@@ -4677,7 +4677,7 @@
 - id: 335
   name: "HD 116442"
   ra: "13h 23m 39.15s"
-  dec: "02° 43' 22.2\""
+  dec: "02° 43' 23.98\""
   app_mag: "7.06"
   abs_mag: "6.04"
   stellar_class: "G9V"
@@ -4690,8 +4690,8 @@
 
 - id: 336
   name: "70 Virginis"
-  ra: "13h 28m 25.809s"
-  dec: "13° 46' 43.5\""
+  ra: "13h 28m 25.81s"
+  dec: "13° 46' 43.64\""
   app_mag: "4.97"
   abs_mag: "3.69"
   stellar_class: "G4Va"
@@ -4704,7 +4704,7 @@
 
 - id: 337
   name: "HD 117936"
-  ra: "13h 33m 32.403s"
+  ra: "13h 33m 32.40s"
   dec: "08° 35' 12.35\""
   app_mag: "7.96"
   abs_mag: "6.65"
@@ -4718,11 +4718,11 @@
 
 - id: 338
   name: "HD 118972"
-  ra: "13h 41m 04.162s"
-  dec: "-34° 27' 51.74\""
-  app_mag: "6.93"
-  abs_mag: "5.97"
-  stellar_class: "K1V"
+  ra: "13h 41m 04.17s"
+  dec: "-34° 27' 50.96\""
+  app_mag: "6.92"
+  abs_mag: "5.94"
+  stellar_class: "K0V"
   distance: "51.18"
   parallax: "63.7263 [0.0291]"
   links:
@@ -4732,8 +4732,8 @@
 
 - id: 339
   name: "i Centauri"
-  ra: "13h 45m 40.662s"
-  dec: "-33° 02' 39.725\""
+  ra: "13h 45m 41.24s"
+  dec: "-33° 02' 37.38\""
   app_mag: "4.23"
   abs_mag: "2.8"
   stellar_class: "F2V"
@@ -4747,9 +4747,9 @@
 - id: 340
   name: "Tau Boötis"
   ra: "13h 47m 15.74s"
-  dec: "17° 27' 24.43\""
-  app_mag: "4.5"
-  abs_mag: "3.53"
+  dec: "17° 27' 24.81\""
+  app_mag: "4.49"
+  abs_mag: "3.52"
   stellar_class: "F7IV-V"
   distance: "50.93"
   parallax: "64.0470 [0.1093]"
@@ -4760,8 +4760,8 @@
 
 - id: 341
   name: "HD 120690"
-  ra: "13h 51m 20.70s"
-  dec: "-24° 23' 23.2\""
+  ra: "13h 51m 20.34s"
+  dec: "-24° 23' 25.84\""
   app_mag: "6.43"
   abs_mag: "4.98"
   stellar_class: "G5Va"
@@ -4774,10 +4774,10 @@
 
 - id: 342
   name: "HD 120780"
-  ra: "13h 52m 35.888s"
-  dec: "-50° 55' 18.29\""
-  app_mag: "7.37"
-  abs_mag: "6.29"
+  ra: "13h 52m 35.85s"
+  dec: "-50° 55' 18.15\""
+  app_mag: "7.39"
+  abs_mag: "6.31"
   stellar_class: "K0V"
   distance: "53.62"
   parallax: "60.8277 [0.1364]"
@@ -4788,11 +4788,11 @@
 
 - id: 343
   name: "HD 122742"
-  ra: "14h 03m 32.351s"
-  dec: "10° 47' 12.55\""
-  app_mag: "6.29"
-  abs_mag: "5.19"
-  stellar_class: "G8V"
+  ra: "14h 03m 32.34s"
+  dec: "10° 47' 12.34\""
+  app_mag: "6.27"
+  abs_mag: "5.37"
+  stellar_class: "G6V"
   distance: "49.31"
   parallax: "66.1469 [0.2708]"
   links:
@@ -4802,8 +4802,8 @@
 
 - id: 344
   name: "Theta Centauri"
-  ra: "14h 06m 40.951s"
-  dec: "-36° 22' 12.03\""
+  ra: "14h 06m 40.95s"
+  dec: "-36° 22' 11.84\""
   app_mag: "2.05"
   abs_mag: "0.7"
   stellar_class: "K0-IIIb"
@@ -4816,8 +4816,8 @@
 
 - id: 345
   name: "HD 124642"
-  ra: "14h 13m 57.35s"
-  dec: "30° 13' 00.3\""
+  ra: "14h 13m 57.08s"
+  dec: "30° 13' 01.87\""
   app_mag: "8.03"
   abs_mag: "6.82"
   stellar_class: "K3.5V"
@@ -4830,8 +4830,8 @@
 
 - id: 346
   name: "HD 125276"
-  ra: "14h 19m 00.774s"
-  dec: "-25° 48' 54.58\""
+  ra: "14h 19m 00.90s"
+  dec: "-25° 48' 55.53\""
   app_mag: "5.87"
   abs_mag: "4.62"
   stellar_class: "F9VFe-1.5CH-0.7"
@@ -4844,8 +4844,8 @@
 
 - id: 347
   name: "HD 126053"
-  ra: "14h 23m 15.301s"
-  dec: "01° 14' 29.79\""
+  ra: "14h 23m 15.28s"
+  dec: "01° 14' 29.64\""
   app_mag: "6.27"
   abs_mag: "5.04"
   stellar_class: "G1.5V"
@@ -4858,8 +4858,8 @@
 
 - id: 348
   name: "HD 128642"
-  ra: "14h 29m 22.57s"
-  dec: "80° 48' 36.6\""
+  ra: "14h 29m 22.31s"
+  dec: "80° 48' 35.44\""
   app_mag: "6.88"
   abs_mag: "5.42"
   stellar_class: "G5"
@@ -4872,10 +4872,10 @@
 
 - id: 349
   name: "HD 127339"
-  ra: "14h 30m 47.8s"
-  dec: "-08° 38' 45.8\""
-  app_mag: "9.4"
-  abs_mag: "8.31"
+  ra: "14h 30m 47.72s"
+  dec: "-08° 38' 46.79\""
+  app_mag: "9.39"
+  abs_mag: "8.4"
   stellar_class: "K7V"
   distance: "51.48"
   parallax: "63.3625 [0.0171]"
@@ -4888,8 +4888,8 @@
   name: "Sigma Boötis"
   ra: "14h 34m 40.82s"
   dec: "29° 44' 42.46\""
-  app_mag: "4.46"
-  abs_mag: "3.52"
+  app_mag: "4.47"
+  abs_mag: "3.48"
   stellar_class: "F4VkF2mF1"
   distance: "51.39"
   parallax: "63.4679 [0.1173]"
@@ -4900,8 +4900,8 @@
 
 - id: 351
   name: "HD 128311"
-  ra: "14h 36m 0.551s"
-  dec: "9° 44' 47.53\""
+  ra: "14h 36m 00.56s"
+  dec: "09° 44' 47.45\""
   app_mag: "7.45"
   abs_mag: "6.39"
   stellar_class: "K3V"
@@ -4914,8 +4914,8 @@
 
 - id: 352
   name: "Alpha Circini"
-  ra: "14h 42m 30.408s"
-  dec: "-64° 58' 30.51\""
+  ra: "14h 42m 30.42s"
+  dec: "-64° 58' 30.48\""
   app_mag: "3.19"
   abs_mag: "2.12"
   stellar_class: "A7VpSrCrEu"
@@ -4928,8 +4928,8 @@
 
 - id: 353
   name: "Mu Virginis"
-  ra: "14h 43m 03.629s"
-  dec: "-05° 39' 29.56\""
+  ra: "14h 43m 03.62s"
+  dec: "-05° 39' 29.52\""
   app_mag: "3.88"
   abs_mag: "2.52"
   stellar_class: "F2V"
@@ -4942,8 +4942,8 @@
 
 - id: 354
   name: "HD 130004"
-  ra: "14h 45m 24.32s"
-  dec: "13° 50' 48.7\""
+  ra: "14h 45m 24.18s"
+  dec: "13° 50' 46.73\""
   app_mag: "7.87"
   abs_mag: "6.49"
   stellar_class: "K0V"
@@ -4956,8 +4956,8 @@
 
 - id: 355
   name: "BD+17 2785"
-  ra: "14h 46m 23.261s"
-  dec: "16° 29' 47.86\""
+  ra: "14h 46m 23.28s"
+  dec: "16° 29' 48.11\""
   app_mag: "9.23"
   abs_mag: "8.03"
   stellar_class: "K5V"
@@ -4970,8 +4970,8 @@
 
 - id: 356
   name: "HD 130307"
-  ra: "14h 47m 16.27s"
-  dec: "02° 42' 12.3\""
+  ra: "14h 47m 16.10s"
+  dec: "02° 42' 11.61\""
   app_mag: "7.76"
   abs_mag: "6.32"
   stellar_class: "K1V"
@@ -4985,9 +4985,9 @@
 - id: 357
   name: "HP Boötis"
   ra: "14h 50m 15.81s"
-  dec: "23° 54' 42.57\""
-  app_mag: "5.86"
-  abs_mag: "4.59"
+  dec: "23° 54' 42.63\""
+  app_mag: "5.87"
+  abs_mag: "4.57"
   stellar_class: "F9IV-V"
   distance: "59.36"
   parallax: "54.9502 [0.0343]"
@@ -4998,10 +4998,10 @@
 
 - id: 358
   name: "HD 130992"
-  ra: "14h 51m 40.472s"
-  dec: "-24° 18' 14.48\""
-  app_mag: "7.82"
-  abs_mag: "6.67"
+  ra: "14h 51m 40.47s"
+  dec: "-24° 18' 14.88\""
+  app_mag: "7.81"
+  abs_mag: "6.69"
   stellar_class: "K3.5V"
   distance: "54.69"
   parallax: "59.6388 [0.0275]"
@@ -5012,11 +5012,11 @@
 
 - id: 359
   name: "HD 132683"
-  ra: "15h 00m 43.42s"
-  dec: "-11° 08' 02.3\""
+  ra: "15h 00m 43.41s"
+  dec: "-11° 08' 06.47\""
   app_mag: "9.47"
   abs_mag: "8.06"
-  stellar_class: "K8Vp"
+  stellar_class: "K8Vk"
   distance: "58.17"
   parallax: "56.0678 [0.0258]"
   links:
@@ -5026,10 +5026,10 @@
 
 - id: 360
   name: "BD+06 2986"
-  ra: "15h 04m 53.576s"
-  dec: "05° 38' 17.54\""
-  app_mag: "9.83"
-  abs_mag: "8.41"
+  ra: "15h 04m 53.53s"
+  dec: "05° 38' 17.16\""
+  app_mag: "9.82"
+  abs_mag: "8.42"
   stellar_class: "K8V"
   distance: "62.12"
   parallax: "52.5048 [0.0235]"
@@ -5040,8 +5040,8 @@
 
 - id: 361
   name: "45 Boötis"
-  ra: "15h 07m 18.069s"
-  dec: "24° 52' 08.96\""
+  ra: "15h 07m 18.07s"
+  dec: "24° 52' 09.10\""
   app_mag: "4.93"
   abs_mag: "3.46"
   stellar_class: "F5V"
@@ -5054,10 +5054,10 @@
 
 - id: 362
   name: "HD 135204"
-  ra: "15h 13m 50.886s"
-  dec: "-01° 21' 03.94\""
-  app_mag: "7.35"
-  abs_mag: "6.16"
+  ra: "15h 13m 50.89s"
+  dec: "-01° 21' 05.00\""
+  app_mag: "6.6"
+  abs_mag: "5.41"
   stellar_class: "G9V"
   distance: "56.31"
   parallax: "57.9205 [0.0300]"
@@ -5068,8 +5068,8 @@
 
 - id: 363
   name: "HD 135599"
-  ra: "15h 15m 59.06s"
-  dec: "00° 47' 48.1\""
+  ra: "15h 15m 59.17s"
+  dec: "00° 47' 46.90\""
   app_mag: "6.91"
   abs_mag: "5.96"
   stellar_class: "K0V"
@@ -5082,11 +5082,11 @@
 
 - id: 364
   name: "BD-04 3873"
-  ra: "15h 22m 04.135s"
-  dec: "-04° 46' 38.41\""
-  app_mag: "9.47"
-  abs_mag: "8.09"
-  stellar_class: "K7V"
+  ra: "15h 22m 04.10s"
+  dec: "-04° 46' 38.83\""
+  app_mag: "9.46"
+  abs_mag: "8.05"
+  stellar_class: "K4V"
   distance: "62.47"
   parallax: "52.21 [0.0166]"
   links:
@@ -5096,8 +5096,8 @@
 
 - id: 365
   name: "HD 136923"
-  ra: "15h 22m 46.98s"
-  dec: "18° 55' 07.6\""
+  ra: "15h 22m 46.83s"
+  dec: "18° 55' 08.26\""
   app_mag: "7.12"
   abs_mag: "5.69"
   stellar_class: "G9V"
@@ -5110,10 +5110,10 @@
 
 - id: 366
   name: "Eta Coronae Borealis"
-  ra: "15h 23m 12.347s"
-  dec: "30° 17' 16.24\""
-  app_mag: "5.62"
-  abs_mag: "4.27"
+  ra: "15h 23m 12.23s"
+  dec: "30° 17' 17.56\""
+  app_mag: "5.58"
+  abs_mag: "4.32"
   stellar_class: "G2V"
   distance: "58.26"
   parallax: "55.98 [0.78]"
@@ -5124,10 +5124,10 @@
 
 - id: 367
   name: "HD 137763"
-  ra: "15h 28m 09.57s"
-  dec: "-09° 20' 49.9\""
-  app_mag: "6.89"
-  abs_mag: "5.39"
+  ra: "15h 28m 09.62s"
+  dec: "-09° 20' 52.76\""
+  app_mag: "6.88"
+  abs_mag: "5.42"
   stellar_class: "G9V"
   distance: "63.78"
   parallax: "51.1421 [0.7370]"
@@ -5138,8 +5138,8 @@
 
 - id: 368
   name: "HD 139477"
-  ra: "15h 35m 20.415s"
-  dec: "60° 05' 10.567\""
+  ra: "15h 35m 20.04s"
+  dec: "60° 05' 13.17\""
   app_mag: "8.39"
   abs_mag: "6.98"
   stellar_class: "K3V"
@@ -5152,10 +5152,10 @@
 
 - id: 369
   name: "HD 139763"
-  ra: "15h 40m 34.47s"
-  dec: "-18° 02' 57.3\""
-  app_mag: "8.92"
-  abs_mag: "7.94"
+  ra: "15h 40m 34.57s"
+  dec: "-18° 02' 56.50\""
+  app_mag: "8.91"
+  abs_mag: "7.95"
   stellar_class: "K6Vk"
   distance: "50.82"
   parallax: "64.1825 [0.0236]"
@@ -5166,11 +5166,11 @@
 
 - id: 370
   name: "g Lupi"
-  ra: "15h 41m 11.402s"
-  dec: "-44° 39' 39.79\""
-  app_mag: "4.64"
-  abs_mag: "3.41"
-  stellar_class: "F3/5V"
+  ra: "15h 41m 11.38s"
+  dec: "-44° 39' 40.34\""
+  app_mag: "4.63"
+  abs_mag: "3.43"
+  stellar_class: "F4V"
   distance: "56.75"
   parallax: "57.4759 [0.1312]"
   links:
@@ -5180,8 +5180,8 @@
 
 - id: 371
   name: "HD 140901"
-  ra: "15h 47m 29.18s"
-  dec: "-37° 54' 59.9\""
+  ra: "15h 47m 29.10s"
+  dec: "-37° 54' 58.72\""
   app_mag: "6.01"
   abs_mag: "5.09"
   stellar_class: "G7IV"
@@ -5194,8 +5194,8 @@
 
 - id: 372
   name: "Chi Herculis"
-  ra: "15h 52m 40.542s"
-  dec: "42° 27' 5.64\""
+  ra: "15h 52m 40.54s"
+  dec: "42° 27' 05.46\""
   app_mag: "4.62"
   abs_mag: "3.62"
   stellar_class: "F8VFe-2Hdel-1"
@@ -5208,9 +5208,9 @@
 
 - id: 373
   name: "39 Serpentis"
-  ra: "15h 53m 12.105s"
-  dec: "13° 11' 47.9\""
-  app_mag: "6.09"
+  ra: "15h 53m 12.10s"
+  dec: "13° 11' 47.85\""
+  app_mag: "6.12"
   abs_mag: "4.87"
   stellar_class: "G1VFe-1"
   distance: "57.99"
@@ -5222,8 +5222,8 @@
 
 - id: 374
   name: "Rho Coronae Borealis"
-  ra: "16h 01m 02.72s"
-  dec: "33° 18' 12.9\""
+  ra: "16h 01m 02.66s"
+  dec: "33° 18' 12.64\""
   app_mag: "5.4"
   abs_mag: "4.21"
   stellar_class: "G0+VaFe-1"
@@ -5236,8 +5236,8 @@
 
 - id: 375
   name: "HD 144253"
-  ra: "16h 05m 40.482s"
-  dec: "-20° 27' 00.24\""
+  ra: "16h 05m 40.48s"
+  dec: "-20° 27' 00.11\""
   app_mag: "7.39"
   abs_mag: "6.06"
   stellar_class: "K3V"
@@ -5250,8 +5250,8 @@
 
 - id: 376
   name: "14 Herculis"
-  ra: "16h 10m 24.34s"
-  dec: "43° 49' 03.81\""
+  ra: "16h 10m 24.32s"
+  dec: "43° 49' 03.51\""
   app_mag: "6.67"
   abs_mag: "5.35"
   stellar_class: "K0V"
@@ -5264,8 +5264,8 @@
 
 - id: 377
   name: "BD+41 2695"
-  ra: "16h 20m 52.704s"
-  dec: "40° 57' 41.68\""
+  ra: "16h 20m 52.74s"
+  dec: "40° 57' 41.22\""
   app_mag: "9"
   abs_mag: "7.99"
   stellar_class: "K5V"
@@ -5278,11 +5278,11 @@
 
 - id: 378
   name: "HD 148467"
-  ra: "16h 27m 56.937s"
-  dec: "07° 18' 20.48\""
+  ra: "16h 27m 56.91s"
+  dec: "07° 18' 19.60\""
   app_mag: "8.85"
   abs_mag: "7.59"
-  stellar_class: "K8V"
+  stellar_class: "K6V"
   distance: "57.13"
   parallax: "57.0866 [0.0234]"
   links:
@@ -5292,8 +5292,8 @@
 
 - id: 379
   name: "HD 148653"
-  ra: "16h 28m 52.661s"
-  dec: "18° 24' 50.61\""
+  ra: "16h 28m 52.66s"
+  dec: "18° 24' 50.60\""
   app_mag: "7.59"
   abs_mag: "5.55"
   stellar_class: "K3V"
@@ -5306,8 +5306,8 @@
 
 - id: 380
   name: "Epsilon Scorpii"
-  ra: "16h 50m 10.24s"
-  dec: "-34° 17' 33.4\""
+  ra: "16h 50m 09.81s"
+  dec: "-34° 17' 35.63\""
   app_mag: "2.29"
   abs_mag: "0.84"
   stellar_class: "K1III"
@@ -5320,10 +5320,10 @@
 
 - id: 381
   name: "HD 152391"
-  ra: "16h 52m 58.79s"
-  dec: "00° 01' 35.87\""
-  app_mag: "6.63"
-  abs_mag: "5.49"
+  ra: "16h 52m 58.80s"
+  dec: "-00° 01' 35.12\""
+  app_mag: "6.64"
+  abs_mag: "5.51"
   stellar_class: "G8.5Vk:"
   distance: "54.83"
   parallax: "59.4805 [0.0232]"
@@ -5334,10 +5334,10 @@
 
 - id: 382
   name: "HD 152606"
-  ra: "16h 55m 37.95s"
-  dec: "-32° 04' 00.8\""
-  app_mag: "9.58"
-  abs_mag: "8.27"
+  ra: "16h 55m 38.01s"
+  dec: "-32° 04' 03.73\""
+  app_mag: "9.57"
+  abs_mag: "8.33"
   stellar_class: "K8Vk"
   distance: "57.69"
   parallax: "56.5381 [0.0171]"
@@ -5348,10 +5348,10 @@
 
 - id: 383
   name: "19 Draconis"
-  ra: "16h 56m 01.689s"
-  dec: "65° 08' 05.26\""
-  app_mag: "4.89"
-  abs_mag: "3.98"
+  ra: "16h 56m 01.69s"
+  dec: "65° 08' 05.30\""
+  app_mag: "4.88"
+  abs_mag: "3.96"
   stellar_class: "F8V"
   distance: "49.76"
   parallax: "65.2904 [0.5470]"
@@ -5363,7 +5363,7 @@
 - id: 384
   name: "HD 152705"
   ra: "16h 56m 42.67s"
-  dec: "-39° 08' 12.757\""
+  dec: "-39° 08' 12.75\""
   app_mag: "8.59"
   abs_mag: "7.6"
   stellar_class: "K3/4V"
@@ -5376,7 +5376,7 @@
 
 - id: 385
   name: "HD 153557 / 153525"
-  ra: "16h 57m 53.18s"
+  ra: "16h 57m 53.17s"
   dec: "47° 22' 00.06\""
   app_mag: "7.82"
   abs_mag: "6.55"
@@ -5390,8 +5390,8 @@
 
 - id: 386
   name: "HD 153026"
-  ra: "16h 58m 53.85s"
-  dec: "-39° 33' 32.7\""
+  ra: "16h 58m 54.05s"
+  dec: "-39° 33' 30.77\""
   app_mag: "8.48"
   abs_mag: "6.92"
   stellar_class: "K5"
@@ -5404,8 +5404,8 @@
 
 - id: 387
   name: "HD 154345"
-  ra: "17h 02m 36.394s"
-  dec: "47° 04' 55.84\""
+  ra: "17h 02m 36.40s"
+  dec: "47° 04' 54.76\""
   app_mag: "6.74"
   abs_mag: "5.48"
   stellar_class: "G9"
@@ -5418,8 +5418,8 @@
 
 - id: 388
   name: "HD 154088"
-  ra: "17h 04m 27.885s"
-  dec: "-28° 34' 57.94\""
+  ra: "17h 04m 27.84s"
+  dec: "-28° 34' 57.64\""
   app_mag: "6.58"
   abs_mag: "5.29"
   stellar_class: "K0IV-V"
@@ -5432,8 +5432,8 @@
 
 - id: 389
   name: "HD 156985"
-  ra: "17h 17m 50.41s"
-  dec: "52° 26' 51.3\""
+  ra: "17h 17m 50.42s"
+  dec: "52° 26' 49.61\""
   app_mag: "7.93"
   abs_mag: "6.59"
   stellar_class: "K2"
@@ -5446,8 +5446,8 @@
 
 - id: 390
   name: "Xi Ophiuchi"
-  ra: "17h 21m 00.234s"
-  dec: "-21° 06' 46.26\""
+  ra: "17h 21m 00.37s"
+  dec: "-21° 06' 46.57\""
   app_mag: "4.39"
   abs_mag: "3.21"
   stellar_class: "F2V"
@@ -5460,8 +5460,8 @@
 
 - id: 391
   name: "HD 157347"
-  ra: "17h 22m 51.26s"
-  dec: "-02° 23' 16.5\""
+  ra: "17h 22m 51.29s"
+  dec: "-02° 23' 17.44\""
   app_mag: "6.28"
   abs_mag: "4.83"
   stellar_class: "G3V"
@@ -5474,8 +5474,8 @@
 
 - id: 392
   name: "HD 158233"
-  ra: "17h 29m 06.74s"
-  dec: "-23° 50' 09.4\""
+  ra: "17h 29m 06.56s"
+  dec: "-23° 50' 10.00\""
   app_mag: "9.6"
   abs_mag: "8.23"
   stellar_class: "K5V"
@@ -5488,13 +5488,13 @@
 
 - id: 393
   name: "HD 158614"
-  ra: "17h 30m 23.811s"
-  dec: "-01° 03' 46.33\""
+  ra: "17h 30m 23.80s"
+  dec: "-01° 03' 46.88\""
   app_mag: "5.98"
   abs_mag: "4.9"
   stellar_class: "G9-IV-VHdel1"
-  distance: "53.3"
-  parallax: "61.19 [0.68]"
+  distance: "53.72"
+  parallax: "60.7132 [1.2056]"
   links:
     wikipedia: "HD_158614"
     simbad: "HD 158614"
@@ -5502,8 +5502,8 @@
 
 - id: 394
   name: "HD 160964"
-  ra: "17h 36m 13.19s"
-  dec: "71° 52' 42.4\""
+  ra: "17h 36m 13.36s"
+  dec: "71° 52' 42.08\""
   app_mag: "8.59"
   abs_mag: "7.15"
   stellar_class: "K4V"
@@ -5516,8 +5516,8 @@
 
 - id: 395
   name: "58 Ophiuchi"
-  ra: "17h 43m 25.803s"
-  dec: "-21° 40' 59.51\""
+  ra: "17h 43m 25.79s"
+  dec: "-21° 40' 59.50\""
   app_mag: "4.86"
   abs_mag: "3.66"
   stellar_class: "F5V"
@@ -5530,10 +5530,10 @@
 
 - id: 396
   name: "Mu Arae"
-  ra: "17h 44m 08.703s"
+  ra: "17h 44m 08.70s"
   dec: "-51° 50' 02.59\""
-  app_mag: "5.12"
-  abs_mag: "4.17"
+  app_mag: "5.15"
+  abs_mag: "4.18"
   stellar_class: "G3IV-V"
   distance: "50.89"
   parallax: "64.0853 [0.0904]"
@@ -5544,8 +5544,8 @@
 
 - id: 397
   name: "HD 165185"
-  ra: "18h 06m 23.711s"
-  dec: "-36° 01' 10.68\""
+  ra: "18h 06m 23.72s"
+  dec: "-36° 01' 11.23\""
   app_mag: "5.95"
   abs_mag: "4.7"
   stellar_class: "G1V"
@@ -5558,10 +5558,10 @@
 
 - id: 398
   name: "99 Herculis"
-  ra: "18h 07m 1.582s"
-  dec: "30° 33' 43.28\""
-  app_mag: "5.1"
-  abs_mag: "4.12"
+  ra: "18h 07m 01.59s"
+  dec: "30° 33' 43.58\""
+  app_mag: "5.13"
+  abs_mag: "4.14"
   stellar_class: "F6V"
   distance: "51.45"
   parallax: "63.3943 [0.075]"
@@ -5572,10 +5572,10 @@
 
 - id: 399
   name: "Iota Pavonis"
-  ra: "18h 10m 26.197s"
-  dec: "-62° 00' 08.72\""
-  app_mag: "5.47"
-  abs_mag: "4.23"
+  ra: "18h 10m 26.15s"
+  dec: "-62° 00' 07.99\""
+  app_mag: "5.49"
+  abs_mag: "4.24"
   stellar_class: "G0V"
   distance: "58.04"
   parallax: "56.1961 [0.2674]"
@@ -5586,10 +5586,10 @@
 
 - id: 400
   name: "Gliese 710"
-  ra: "18h 19m 50.79s"
-  dec: "-01° 56' 19.5\""
-  app_mag: "9.69"
-  abs_mag: "8.23"
+  ra: "18h 19m 50.84s"
+  dec: "-01° 56' 19.00\""
+  app_mag: "9.66"
+  abs_mag: "8.26"
   stellar_class: "K7Vk"
   distance: "62.25"
   parallax: "52.3963 [0.0171]"
@@ -5600,8 +5600,8 @@
 
 - id: 401
   name: "Eta Serpentis"
-  ra: "18h 21m 18.601s"
-  dec: "-02° 53' 55.74\""
+  ra: "18h 21m 18.60s"
+  dec: "-02° 53' 55.78\""
   app_mag: "3.25"
   abs_mag: "1.87"
   stellar_class: "K0III-IV"
@@ -5614,10 +5614,10 @@
 
 - id: 402
   name: "Gliese 715"
-  ra: "18h 29m 52.402s"
-  dec: "-01° 49' 05.27\""
-  app_mag: "8.04"
-  abs_mag: "6.67"
+  ra: "18h 29m 52.41s"
+  dec: "-01° 49' 05.17\""
+  app_mag: "8"
+  abs_mag: "6.63"
   stellar_class: "K4V"
   distance: "61.36"
   parallax: "53.1586 [0.0295]"
@@ -5628,9 +5628,9 @@
 
 - id: 403
   name: "HD 170573"
-  ra: "18h 33m 05.20s"
-  dec: "-54° 15' 46.2\""
-  app_mag: "8.5"
+  ra: "18h 33m 05.08s"
+  dec: "-54° 15' 47.48\""
+  app_mag: "8.53"
   abs_mag: "7.12"
   stellar_class: "K4.5Vk:"
   distance: "62.37"
@@ -5642,8 +5642,8 @@
 
 - id: 404
   name: "BY Draconis"
-  ra: "18h 33m 55.808s"
-  dec: "51° 43' 8.62\""
+  ra: "18h 33m 55.77s"
+  dec: "51° 43' 08.90\""
   app_mag: "8.48"
   abs_mag: "7.4"
   stellar_class: "K4Ve"
@@ -5656,8 +5656,8 @@
 
 - id: 405
   name: "110 Herculis"
-  ra: "18h 45m 39.725s"
-  dec: "20° 32' 46.72\""
+  ra: "18h 45m 39.73s"
+  dec: "20° 32' 46.71\""
   app_mag: "4.19"
   abs_mag: "2.79"
   stellar_class: "F5.5IV-V"
@@ -5670,10 +5670,10 @@
 
 - id: 406
   name: "HD 174080"
-  ra: "18h 48m 29.39s"
-  dec: "10° 44' 38.1\""
-  app_mag: "7.97"
-  abs_mag: "6.78"
+  ra: "18h 48m 29.23s"
+  dec: "10° 44' 43.62\""
+  app_mag: "7.91"
+  abs_mag: "6.77"
   stellar_class: "K0"
   distance: "55.06"
   parallax: "59.2345 [0.0192]"
@@ -5684,11 +5684,11 @@
 
 - id: 407
   name: "HD 229590"
-  ra: "18h 48m 51.862s"
-  dec: "17° 26' 19.91\""
-  app_mag: "9.2"
+  ra: "18h 48m 51.87s"
+  dec: "17° 26' 20.21\""
+  app_mag: "9.16"
   abs_mag: "8.04"
-  stellar_class: "K7"
+  stellar_class: "K7V"
   distance: "54.56"
   parallax: "59.7779 [0.0182]"
   links:
@@ -5726,8 +5726,8 @@
 
 - id: 410
   name: "Gamma Coronae Australis"
-  ra: "19h 06m 25.168s"
-  dec: "-37° 03' 48.36\""
+  ra: "19h 06m 25.21s"
+  dec: "-37° 03' 47.79\""
   app_mag: "4.53"
   abs_mag: "3.61"
   stellar_class: "F8V"
@@ -5740,8 +5740,8 @@
 
 - id: 411
   name: "HD 177565"
-  ra: "19h 06m 52.462s"
-  dec: "-37° 48' 37.7\""
+  ra: "19h 06m 52.46s"
+  dec: "-37° 48' 38.37\""
   app_mag: "6.16"
   abs_mag: "4.98"
   stellar_class: "G6V"
@@ -5768,8 +5768,8 @@
 
 - id: 413
   name: "HD 181321"
-  ra: "19h 21m 29.70s"
-  dec: "-34° 58' 59.6\""
+  ra: "19h 21m 29.73s"
+  dec: "-34° 59' 00.36\""
   app_mag: "6.48"
   abs_mag: "5.11"
   stellar_class: "G2V"
@@ -5782,8 +5782,8 @@
 
 - id: 414
   name: "Gliese 758"
-  ra: "19h 23m 34.011s"
-  dec: "33° 13' 19.44\""
+  ra: "19h 23m 34.01s"
+  dec: "33° 13' 19.08\""
   app_mag: "6.36"
   abs_mag: "5.42"
   stellar_class: "K0V"
@@ -5796,11 +5796,11 @@
 
 - id: 415
   name: "Delta Aquilae"
-  ra: "19h 25m 29.904s"
-  dec: "03° 06' 53.17\""
-  app_mag: "3.365"
-  abs_mag: "2.43"
-  stellar_class: "F0IV"
+  ra: "19h 25m 29.90s"
+  dec: "03° 06' 53.21\""
+  app_mag: "3.36"
+  abs_mag: "2.4"
+  stellar_class: "F1IV-V(n)"
   distance: "50.64"
   parallax: "64.41 [1.00]"
   links:
@@ -5810,8 +5810,8 @@
 
 - id: 416
   name: "HD 184467"
-  ra: "19h 31m 07.984s"
-  dec: "58° 35' 09.54\""
+  ra: "19h 31m 07.97s"
+  dec: "58° 35' 09.60\""
   app_mag: "6.6"
   abs_mag: "5.48"
   stellar_class: "K2V"
@@ -5824,8 +5824,8 @@
 
 - id: 417
   name: "HD 183870"
-  ra: "19h 32m 06.707s"
-  dec: "-11° 16' 29.84\""
+  ra: "19h 32m 06.70s"
+  dec: "-11° 16' 29.79\""
   app_mag: "7.57"
   abs_mag: "6.26"
   stellar_class: "K2V"
@@ -5838,8 +5838,8 @@
 
 - id: 418
   name: "Theta Cygni"
-  ra: "19h 36m 26.496s"
-  dec: "50° 13' 15.8\""
+  ra: "19h 36m 26.53s"
+  dec: "50° 13' 15.97\""
   app_mag: "4.48"
   abs_mag: "3.13"
   stellar_class: "F3+V"
@@ -5852,8 +5852,8 @@
 
 - id: 419
   name: "Omicron Aquilae"
-  ra: "19h 51m 01.61s"
-  dec: "10° 24' 57.2\""
+  ra: "19h 51m 01.64s"
+  dec: "10° 24' 56.59\""
   app_mag: "5.11"
   abs_mag: "3.66"
   stellar_class: "F8V"
@@ -5866,8 +5866,8 @@
 
 - id: 420
   name: "HD 188474"
-  ra: "19h 56m 37.079s"
-  dec: "-31° 20' 07.19\""
+  ra: "19h 56m 37.03s"
+  dec: "-31° 20' 07.14\""
   app_mag: "8.44"
   abs_mag: "6.98"
   stellar_class: "K3.5Vk:"
@@ -5880,8 +5880,8 @@
 
 - id: 421
   name: "HD 188807"
-  ra: "19h 57m 19.701s"
-  dec: "-12° 34' 04.25\""
+  ra: "19h 57m 19.64s"
+  dec: "-12° 34' 04.76\""
   app_mag: "9.29"
   abs_mag: "7.93"
   stellar_class: "K7V"
@@ -5894,10 +5894,10 @@
 
 - id: 422
   name: "HD 189733"
-  ra: "20h 00m 43.736s"
-  dec: "22° 42' 39.8\""
-  app_mag: "7.64"
-  abs_mag: "6.08"
+  ra: "20h 00m 43.71s"
+  dec: "22° 42' 39.07\""
+  app_mag: "7.65"
+  abs_mag: "6.17"
   stellar_class: "K2V"
   distance: "64.5"
   parallax: "50.5668 [0.0162]"
@@ -5908,8 +5908,8 @@
 
 - id: 423
   name: "HD 190067"
-  ra: "20h 02m 34.186s"
-  dec: "15° 35' 31.73\""
+  ra: "20h 02m 34.16s"
+  dec: "15° 35' 31.47\""
   app_mag: "7.12"
   abs_mag: "5.73"
   stellar_class: "K0VFe-0.9"
@@ -5922,8 +5922,8 @@
 
 - id: 424
   name: "Gliese 777"
-  ra: "20h 03m 37.416s"
-  dec: "29° 53' 48.35\""
+  ra: "20h 03m 37.41s"
+  dec: "29° 53' 48.49\""
   app_mag: "5.71"
   abs_mag: "4.7"
   stellar_class: "G7IV-V"
@@ -5936,10 +5936,10 @@
 
 - id: 425
   name: "HD 190404"
-  ra: "20h 03m 52.098s"
-  dec: "23° 20' 26.84\""
-  app_mag: "7.28"
-  abs_mag: "6.32"
+  ra: "20h 03m 52.13s"
+  dec: "23° 20' 26.47\""
+  app_mag: "7.27"
+  abs_mag: "6.3"
   stellar_class: "K1V"
   distance: "50.95"
   parallax: "64.0120 [0.0164]"
@@ -5951,7 +5951,7 @@
 - id: 426
   name: "15 Sagittae"
   ra: "20h 04m 06.22s"
-  dec: "17° 04' 13.1\""
+  dec: "17° 04' 12.68\""
   app_mag: "5.79"
   abs_mag: "4.55"
   stellar_class: "G0V"
@@ -5964,8 +5964,8 @@
 
 - id: 427
   name: "HD 190771"
-  ra: "20h 05m 09.89s"
-  dec: "38° 28' 42\""
+  ra: "20h 05m 09.78s"
+  dec: "38° 28' 42.56\""
   app_mag: "6.2"
   abs_mag: "4.82"
   stellar_class: "G2V"
@@ -5978,8 +5978,8 @@
 
 - id: 428
   name: "HD 189567"
-  ra: "20h 05m 32.706s"
-  dec: "-67° 19' 15.47\""
+  ra: "20h 05m 32.77s"
+  dec: "-67° 19' 15.23\""
   app_mag: "6.07"
   abs_mag: "4.84"
   stellar_class: "G2V"
@@ -5992,10 +5992,10 @@
 
 - id: 429
   name: "HD 191391"
-  ra: "20h 10m 19.583s"
-  dec: "-20° 29' 35.77\""
-  app_mag: "8.91"
-  abs_mag: "7.94"
+  ra: "20h 10m 19.57s"
+  dec: "-20° 29' 36.37\""
+  app_mag: "8.9"
+  abs_mag: "7.9"
   stellar_class: "K6Vk"
   distance: "51.6"
   parallax: "63.2074 [0.0347]"
@@ -6006,8 +6006,8 @@
 
 - id: 430
   name: "HD 193202"
-  ra: "20h 10m 52.334s"
-  dec: "77° 14' 20.11\""
+  ra: "20h 10m 52.42s"
+  dec: "77° 14' 20.30\""
   app_mag: "8.88"
   abs_mag: "7.76"
   stellar_class: "K7V"
@@ -6020,8 +6020,8 @@
 
 - id: 431
   name: "HD 192263"
-  ra: "20h 13m 59.88s"
-  dec: "-00° 52' 03.1\""
+  ra: "20h 13m 59.85s"
+  dec: "-00° 52' 00.77\""
   app_mag: "7.77"
   abs_mag: "6.36"
   stellar_class: "K1/2V"
@@ -6034,8 +6034,8 @@
 
 - id: 432
   name: "HD 193664"
-  ra: "20h 17m 31.293s"
-  dec: "66° 51' 13.26\""
+  ra: "20h 17m 31.33s"
+  dec: "66° 51' 13.28\""
   app_mag: "5.92"
   abs_mag: "4.7"
   stellar_class: "G3V"
@@ -6048,8 +6048,8 @@
 
 - id: 433
   name: "HD 192961"
-  ra: "20h 19m 36.95s"
-  dec: "-46° 25' 41.18\""
+  ra: "20h 19m 36.94s"
+  dec: "-46° 25' 41.21\""
   app_mag: "8.71"
   abs_mag: "7.46"
   stellar_class: "K5.5V"
@@ -6062,8 +6062,8 @@
 
 - id: 434
   name: "HD 194640"
-  ra: "20h 27m 44.249s"
-  dec: "-30° 52' 04.37\""
+  ra: "20h 27m 44.24s"
+  dec: "-30° 52' 04.24\""
   app_mag: "6.62"
   abs_mag: "5.17"
   stellar_class: "G8V"
@@ -6076,10 +6076,10 @@
 
 - id: 435
   name: "HD 196795"
-  ra: "20h 39m 37.751s"
+  ra: "20h 39m 37.72s"
   dec: "04° 58' 19.35\""
-  app_mag: "8.18"
-  abs_mag: "6.83"
+  app_mag: "8.16"
+  abs_mag: "7.04"
   stellar_class: "K5V"
   distance: "54.54"
   parallax: "59.80 [3.42]"
@@ -6090,8 +6090,8 @@
 
 - id: 436
   name: "HD 200560"
-  ra: "21h 02m 40.759s"
-  dec: "45° 53' 05.55\""
+  ra: "21h 02m 40.75s"
+  dec: "45° 53' 05.17\""
   app_mag: "7.71"
   abs_mag: "6.25"
   stellar_class: "K2.5V"
@@ -6104,8 +6104,8 @@
 
 - id: 437
   name: "HD 200779"
-  ra: "21h 05m 19.72s"
-  dec: "07° 04' 08.5\""
+  ra: "21h 05m 19.75s"
+  dec: "07° 04' 09.47\""
   app_mag: "8.27"
   abs_mag: "7.42"
   stellar_class: "K6V"
@@ -6118,10 +6118,10 @@
 
 - id: 438
   name: "HD 200968"
-  ra: "21h 07m 10.477s"
-  dec: "-13° 55' 22.71\""
-  app_mag: "7.15"
-  abs_mag: "5.92"
+  ra: "21h 07m 10.38s"
+  dec: "-13° 55' 22.53\""
+  app_mag: "7.19"
+  abs_mag: "5.99"
   stellar_class: "K1IV"
   distance: "56.7"
   parallax: "57.5240 [0.0209]"
@@ -6132,11 +6132,11 @@
 
 - id: 439
   name: "Delta Equulei"
-  ra: "21h 14m 28.774s"
-  dec: "10° 00' 24.9\""
-  app_mag: "5.11"
-  abs_mag: "3.78"
-  stellar_class: "F7V"
+  ra: "21h 14m 28.82s"
+  dec: "10° 00' 25.13\""
+  app_mag: "4.99"
+  abs_mag: "3.66"
+  stellar_class: "F7(V)"
   distance: "60.3"
   parallax: "54.09 [0.66]"
   links:
@@ -6146,10 +6146,10 @@
 
 - id: 440
   name: "HD 202575"
-  ra: "21h 16m 32.462s"
-  dec: "09° 23' 37.55\""
-  app_mag: "7.92"
-  abs_mag: "6.87"
+  ra: "21h 16m 32.47s"
+  dec: "09° 23' 37.78\""
+  app_mag: "7.88"
+  abs_mag: "6.84"
   stellar_class: "K3V"
   distance: "52.74"
   parallax: "61.838 [0.023]"
@@ -6160,8 +6160,8 @@
 
 - id: 441
   name: "Alpha Cephei"
-  ra: "21h 18m 34.769s"
-  dec: "62° 35' 08.08\""
+  ra: "21h 18m 34.77s"
+  dec: "62° 35' 08.07\""
   app_mag: "2.46"
   abs_mag: "1.58"
   stellar_class: "A8Vn"
@@ -6174,11 +6174,11 @@
 
 - id: 442
   name: "HD 202940"
-  ra: "21h 19m 45.524s"
-  dec: "-26° 21' 11.99\""
-  app_mag: "6.63"
-  abs_mag: "5.27"
-  stellar_class: "G5V"
+  ra: "21h 19m 45.63s"
+  dec: "-26° 21' 10.40\""
+  app_mag: "6.65"
+  abs_mag: "5.31"
+  stellar_class: "G7V"
   distance: "60.37"
   parallax: "54.0288 [0.2927]"
   links:
@@ -6188,8 +6188,8 @@
 
 - id: 443
   name: "HD 203040"
-  ra: "21h 20m 13.835s"
-  dec: "-19° 51' 08.42\""
+  ra: "21h 20m 13.82s"
+  dec: "-19° 51' 08.22\""
   app_mag: "9.09"
   abs_mag: "8.03"
   stellar_class: "K6.5Vk"
@@ -6202,10 +6202,10 @@
 
 - id: 444
   name: "HD 204587"
-  ra: "21h 30m 02.74s"
-  dec: "-12° 30' 36.34\""
-  app_mag: "9.11"
-  abs_mag: "7.82"
+  ra: "21h 30m 02.76s"
+  dec: "-12° 30' 36.25\""
+  app_mag: "9.08"
+  abs_mag: "7.84"
   stellar_class: "K7Vk:"
   distance: "57.8"
   parallax: "56.4265 [0.0236]"
@@ -6216,8 +6216,8 @@
 
 - id: 445
   name: "Nu Octantis"
-  ra: "21h 41m 28.47s"
-  dec: "-77° 23' 22.1\""
+  ra: "21h 41m 28.54s"
+  dec: "-77° 23' 24.03\""
   app_mag: "3.73"
   abs_mag: "2.1"
   stellar_class: "K1III"
@@ -6230,8 +6230,8 @@
 
 - id: 446
   name: "BD+40 4631"
-  ra: "21h 44m 30.01s"
-  dec: "41° 35' 50.5\""
+  ra: "21h 44m 29.96s"
+  dec: "41° 35' 50.86\""
   app_mag: "9.67"
   abs_mag: "8.17"
   stellar_class: "K8V"
@@ -6244,8 +6244,8 @@
 
 - id: 447
   name: "HN Pegasi"
-  ra: "21h 44m 31.336s"
-  dec: "14° 46' 18.8\""
+  ra: "21h 44m 31.33s"
+  dec: "14° 46' 18.98\""
   app_mag: "5.95"
   abs_mag: "4.62"
   stellar_class: "G0V+"
@@ -6258,10 +6258,10 @@
 
 - id: 448
   name: "HD 206804"
-  ra: "21h 46m 35.807s"
-  dec: "-57° 42' 12.15\""
-  app_mag: "9.47"
-  abs_mag: "8.07"
+  ra: "21h 46m 35.78s"
+  dec: "-57° 42' 12.18\""
+  app_mag: "9.38"
+  abs_mag: "8.03"
   stellar_class: "K6.5Vk"
   distance: "60.76"
   parallax: "53.68 [1.40]"
@@ -6272,8 +6272,8 @@
 
 - id: 449
   name: "HD 207129"
-  ra: "21h 48m 15.758s"
-  dec: "-47° 18' 13.18\""
+  ra: "21h 48m 15.75s"
+  dec: "-47° 18' 13.02\""
   app_mag: "5.58"
   abs_mag: "4.61"
   stellar_class: "G2V"
@@ -6286,8 +6286,8 @@
 
 - id: 450
   name: "Tau Piscis Austrini"
-  ra: "22h 10m 08.777s"
-  dec: "-32° 32' 54.05\""
+  ra: "22h 10m 08.78s"
+  dec: "-32° 32' 54.27\""
   app_mag: "4.92"
   abs_mag: "3.56"
   stellar_class: "F6V"
@@ -6300,10 +6300,10 @@
 
 - id: 451
   name: "53 Aquarii"
-  ra: "22h 26m 34.15s"
-  dec: "-16° 44' 31.7\""
-  app_mag: "5.55"
-  abs_mag: "4.04"
+  ra: "22h 26m 34.30s"
+  dec: "-16° 44' 31.90\""
+  app_mag: "6.22"
+  abs_mag: "4.78"
   stellar_class: "G2V"
   distance: "63.32"
   parallax: "51.5079 [0.1296]"
@@ -6314,8 +6314,8 @@
 
 - id: 452
   name: "HD 213042"
-  ra: "22h 29m 15.266s"
-  dec: "-30° 01' 06.98\""
+  ra: "22h 29m 15.24s"
+  dec: "-30° 01' 06.26\""
   app_mag: "7.65"
   abs_mag: "6.69"
   stellar_class: "K4V"
@@ -6328,7 +6328,7 @@
 
 - id: 453
   name: "Xi Pegasi"
-  ra: "22h 46m 41.59s"
+  ra: "22h 46m 41.58s"
   dec: "12° 10' 22.39\""
   app_mag: "4.2"
   abs_mag: "3.14"
@@ -6342,8 +6342,8 @@
 
 - id: 454
   name: "HD 216520"
-  ra: "22h 47m 32.68s"
-  dec: "83° 41' 48.3\""
+  ra: "22h 47m 31.88s"
+  dec: "83° 41' 49.30\""
   app_mag: "7.53"
   abs_mag: "6.06"
   stellar_class: "K0V"
@@ -6356,10 +6356,10 @@
 
 - id: 455
   name: "51 Pegasi"
-  ra: "22h 57m 27.965s"
-  dec: "20° 46' 07.1\""
-  app_mag: "5.49"
-  abs_mag: "4.54"
+  ra: "22h 57m 27.98s"
+  dec: "20° 46' 07.80\""
+  app_mag: "5.46"
+  abs_mag: "4.5"
   stellar_class: "G2IV"
   distance: "50.64"
   parallax: "64.4048 [0.0771]"
@@ -6370,8 +6370,8 @@
 
 - id: 456
   name: "HD 217486"
-  ra: "23h 01m 37.74s"
-  dec: "-44° 59' 19.0\""
+  ra: "23h 01m 37.91s"
+  dec: "-44° 59' 18.77\""
   app_mag: "8.96"
   abs_mag: "7.7"
   stellar_class: "K3+V"
@@ -6384,10 +6384,10 @@
 
 - id: 457
   name: "HD 217580"
-  ra: "23h 01m 51.562s"
-  dec: "-03° 50' 55.32\""
-  app_mag: "7.48"
-  abs_mag: "6.33"
+  ra: "23h 01m 51.54s"
+  dec: "-03° 50' 55.40\""
+  app_mag: "7.46"
+  abs_mag: "6.42"
   stellar_class: "K3V"
   distance: "52.75"
   parallax: "61.8341 [0.4863]"
@@ -6398,8 +6398,8 @@
 
 - id: 458
   name: "HD 219764"
-  ra: "23h 19m 05.468s"
-  dec: "-60° 31' 14.17\""
+  ra: "23h 19m 05.40s"
+  dec: "-60° 31' 14.39\""
   app_mag: "8.93"
   abs_mag: "7.53"
   stellar_class: "K5Vk:"
@@ -6412,10 +6412,10 @@
 
 - id: 459
   name: "HD 220140"
-  ra: "23h 19m 26.02s"
-  dec: "79° 00' 12.0\""
-  app_mag: "7.53"
-  abs_mag: "6.11"
+  ra: "23h 19m 26.64s"
+  dec: "79° 00' 12.67\""
+  app_mag: "7.54"
+  abs_mag: "6.15"
   stellar_class: "G9V"
   distance: "61.79"
   parallax: "52.7838 [0.0137]"
@@ -6426,8 +6426,8 @@
 
 - id: 460
   name: "HD 220339"
-  ra: "23h 23m 04.892s"
-  dec: "-10° 45' 51.07\""
+  ra: "23h 23m 04.90s"
+  dec: "-10° 45' 51.28\""
   app_mag: "7.8"
   abs_mag: "6.35"
   stellar_class: "K2V"
@@ -6440,8 +6440,8 @@
 
 - id: 461
   name: "HD 221354"
-  ra: "23h 31m 22.198s"
-  dec: "59° 09' 55.39\""
+  ra: "23h 31m 22.21s"
+  dec: "59° 09' 55.87\""
   app_mag: "6.77"
   abs_mag: "5.63"
   stellar_class: "K0V"
@@ -6454,10 +6454,10 @@
 
 - id: 462
   name: "HD 222335"
-  ra: "23h 39m 51.259s"
-  dec: "-32° 44' 36.71\""
-  app_mag: "7.18"
-  abs_mag: "5.82"
+  ra: "23h 39m 51.31s"
+  dec: "-32° 44' 36.26\""
+  app_mag: "7.19"
+  abs_mag: "5.88"
   stellar_class: "G9.5V"
   distance: "59.61"
   parallax: "54.7193 [0.0254]"
@@ -6482,8 +6482,8 @@
 
 - id: 464
   name: "G 130-9"
-  ra: "23h 45m 49.484s"
-  dec: "36° 15' 18.27\""
+  ra: "23h 45m 49.50s"
+  dec: "36° 15' 18.18\""
   app_mag: "9.89"
   abs_mag: "8.42"
   stellar_class: "K4V"
@@ -6496,8 +6496,8 @@
 
 - id: 465
   name: "BD+28 4660"
-  ra: "23h 53m 08.64s"
-  dec: "29° 01' 04.9\""
+  ra: "23h 53m 08.59s"
+  dec: "29° 01' 05.04\""
   app_mag: "9.83"
   abs_mag: "8.3"
   stellar_class: "K6V"
