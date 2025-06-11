@@ -405,7 +405,7 @@
     stellar_catalog: "66-g-centauri-a"
 
 - id: 30
-  name: "Argelanders Star"
+  name: "Groombridge 1830"
   ra: "11h 52m 58.77s"
   dec: "37° 43' 07.25\""
   app_mag: "6.45"
@@ -8903,7 +8903,7 @@
     stellar_catalog: "hd-80632"
 
 - id: 637
-  name: "V* BF Lyn"
+  name: "BF Lyncis"
   ra: "09h 22m 25.94s"
   dec: "40° 12' 03.80\""
   app_mag: "7.68"
@@ -9267,7 +9267,7 @@
     stellar_catalog: "gaia-edr3-3750995604764854400"
 
 - id: 663
-  name: "V* V419 Hya"
+  name: "V419 Hydrae"
   ra: "10h 43m 28.27s"
   dec: "-29° 03' 51.43\""
   app_mag: "7.72"
@@ -9771,7 +9771,7 @@
     stellar_catalog: "hd-112914"
 
 - id: 699
-  name: "V* PX Vir"
+  name: "PX Virginis"
   ra: "13h 03m 49.65s"
   dec: "-05° 09' 42.52\""
   app_mag: "7.68"
@@ -10667,7 +10667,7 @@
     stellar_catalog: "bd-55-1823"
 
 - id: 763
-  name: "V* V2578 Oph"
+  name: "V2578 Ophiuchi"
   ra: "16h 24m 19.81s"
   dec: "-13° 38' 29.98\""
   app_mag: "8.38"
