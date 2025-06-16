@@ -1,0 +1,237 @@
+- name: "ADS 48"
+  ra: "00h 05m 41.02s"
+  dec: "45° 48' 43.55\""
+  app_mag: "8.83"
+  abs_mag: "8.52"
+  stellar_class: "K6V"
+  distance: "37.58"
+  parallax: "86.8003 [0.0243]"
+  reason: "Too dim but within margin of error."
+  links:
+    wikipedia: "ADS_48"
+    simbad: "HD 38A"
+    stellar_catalog: "ads-48-a"
+
+- name: "HD 18455"
+  ra: "02h 57m 14.71s"
+  dec: "-24° 58' 10.21\""
+  app_mag: "8.06"
+  abs_mag: "6.3"
+  stellar_class: "K1/K2V"
+  distance: "73.28"
+  parallax: "44.51 [2.09]"
+  reason: "Probable binary with HD 18445 (BNS 528)."
+  links:
+    wikipedia: ~
+    simbad: "HD 18455"
+    stellar_catalog: "hd-18455"
+
+- name: "HD 25893"
+  ra: "04h 07m 34.36s"
+  dec: "38° 04' 28.34\""
+  app_mag: "7.23"
+  abs_mag: "5.61"
+  stellar_class: "G9V(k)"
+  distance: "68.92"
+  parallax: "47.325 [0.0226]"
+  reason: "Probable binary with 50 Persei (BNS 553)."
+  links:
+    wikipedia: ~
+    simbad: "HD 25893"
+    stellar_catalog: "hd-25893"
+
+- name: "HD 26913"
+  ra: "04h 15m 25.79s"
+  dec: "06° 11' 58.75\""
+  app_mag: "6.92"
+  abs_mag: "5.2"
+  stellar_class: "G8V"
+  distance: "71.99"
+  parallax: "45.3076 [0.0236]"
+  reason: "Probable binary with HD 26923 (BNS 554)."
+  links:
+    wikipedia: ~
+    simbad: "HD 26913"
+    stellar_catalog: "hd-26913"
+
+- name: "CD-48 1893"
+  ra: "05h 36m 55.10s"
+  dec: "-47° 57' 47.94\""
+  app_mag: "9.87"
+  abs_mag: "7.92"
+  stellar_class: "K6Ve"
+  distance: "80.02"
+  parallax: "40.7575 [0.0395]"
+  reason: "Probable binary with UY Pictor (BNS 570)."
+  links:
+    wikipedia: ~
+    simbad: "CD-48 1893"
+    stellar_catalog: "cd-48-1893"
+
+- name: "AG+10 687"
+  ra: "06h 06m 26.74s"
+  dec: "10° 44' 54.42\""
+  app_mag: "8.91"
+  abs_mag: "8.1"
+  stellar_class: "F0"
+  distance: "47.64"
+  parallax: "68.46 [36.13]"
+  reason: "Parallax has way too big of an error; Stellar class doesn't line up with absolute magnitude."
+  links:
+    wikipedia: ~
+    simbad: "AG%2B10 687"
+    stellar_catalog: "ag-10-687"
+
+- name: "BD-13 2439"
+  ra: "08h 13m 08.46s"
+  dec: "-13° 55' 01.12\""
+  app_mag: "10.18"
+  abs_mag: "8.52"
+  stellar_class: "K7V"
+  distance: "70.05"
+  parallax: "46.5586 [0.4440]"
+  reason: "Too dim but within margin of error."
+  links:
+    wikipedia: ~
+    simbad: "BD-13 2439A"
+    stellar_catalog: "bd-13-2439"
+
+- name: "HD 76653"
+  ra: "08h 55m 11.78s"
+  dec: "-54° 57' 56.77\""
+  app_mag: "5.7"
+  abs_mag: "3.77"
+  stellar_class: "F6V"
+  distance: "79.39"
+  parallax: "41.0816 [0.036]"
+  reason: "Probable binary with Delta Velorum (BNS 624)."
+  links:
+    wikipedia: "HD_76653"
+    simbad: "HD 76653"
+    stellar_catalog: "hd-76653"
+
+- name: "BD-17 3336"
+  ra: "11h 15m 19.45s"
+  dec: "-18° 08' 40.17\""
+  app_mag: "10.32"
+  abs_mag: "8.52"
+  stellar_class: "K7V"
+  distance: "74.76"
+  parallax: "43.6247 [0.0159]"
+  reason: "Too dim but within margin of error."
+  links:
+    wikipedia: ~
+    simbad: "BD-17 3336"
+    stellar_catalog: "bd-17-3336"
+
+- name: "Alcor"
+  ra: "13h 25m 13.54s"
+  dec: "54° 59' 16.65\""
+  app_mag: "4.01"
+  abs_mag: "2.02"
+  stellar_class: "A5V+M3-4V"
+  distance: "81.72"
+  parallax: "39.91 [0.13]"
+  reason: "Probable binary with Zeta1 Ursae Majoris (BNS 705); Too far but within margin of error."
+  links:
+    wikipedia: "Alcor_(star)"
+    simbad: "* g UMa"
+    stellar_catalog: "alcor"
+
+- name: "HD 121271"
+  ra: "13h 55m 2.637s"
+  dec: "-29° 05' 25.84\""
+  app_mag: "9.64"
+  abs_mag: "8.51"
+  stellar_class: "M0Vk"
+  distance: "56.3"
+  parallax: "59.4452 [0.0218]"
+  reason: "Too dim but within margin of error."
+  links:
+    wikipedia: ~
+    simbad: "HD 121271A"
+    stellar_catalog: "hd-121271"
+
+- name: "HD 139323"
+  ra: "15h 35m 56.57s"
+  dec: "39° 49' 52.03\""
+  app_mag: "7.65"
+  abs_mag: "5.89"
+  stellar_class: "K3V"
+  distance: "73.19"
+  parallax: "44.5624 [0.0146]"
+  reason: "Probable binary with HD 139341 (BNS 749)."
+  links:
+    wikipedia: ~
+    simbad: "HD 139323"
+    stellar_catalog: "hd-139323"
+
+- name: "HD 153525"
+  ra: "16h 57m 42.23s"
+  dec: "47° 21' 43.71\""
+  app_mag: "7.95"
+  abs_mag: "6.68"
+  stellar_class: "K3V"
+  distance: "58.54"
+  parallax: "55.7183 [0.0159]"
+  reason: "Probable binary with HD 153557 (BNS 385)."
+  links:
+    wikipedia: ~
+    simbad: "HD 153525"
+    stellar_catalog: "hd-153525"
+
+- name: "HD 186858"
+  ra: "19h 45m 33.53s"
+  dec: "33° 36' 07.22\""
+  app_mag: "8.36"
+  abs_mag: "6.75"
+  stellar_class: "K5V"
+  distance: "68.42"
+  parallax: "47.6711 [0.0162]"
+  reason: "Probable binary with 17 Cygni (BNS 816)."
+  links:
+    wikipedia: ~
+    simbad: "HD 186858"
+    stellar_catalog: "hd-186858a"
+
+- name: "BD+53 2911"
+  ra: "22h 32m 56.77s"
+  dec: "53° 47' 40.55\""
+  app_mag: "10.12"
+  abs_mag: "8.29"
+  stellar_class: "M0V"
+  distance: "75.68"
+  parallax: "43.1 [4.3]"
+  reason: "Simbad lacks a proper parallax measure."
+  links:
+    wikipedia: ~
+    simbad: "BD%2B53 2911"
+    stellar_catalog: "bd-53-2911"
+
+- name: "CPD-88 203"
+  ra: "23h 26m 44.61s"
+  dec: "-87° 25' 06.19\""
+  app_mag: "10.17"
+  abs_mag: "8.51"
+  stellar_class: "M1"
+  distance: "69.9"
+  parallax: "46.6579 [0.0116]"
+  reason: "Too dim but within margin of error."
+  links:
+    wikipedia: ~
+    simbad: "CPD-88 203"
+    stellar_catalog: "cpd-88-203"
+
+- name: "CD-49 14193"
+  ra: "23h 36m 18.27s"
+  dec: "-48° 35' 17.06\""
+  app_mag: "10.08"
+  abs_mag: "8.09"
+  stellar_class: "M0V"
+  distance: "81.56"
+  parallax: "39.991 [0.0178]"
+  reason: "Too far but within margin of error."
+  links:
+    wikipedia: ~
+    simbad: "CD-49 14193"
+    stellar_catalog: "gaia-edr3-6523442177391053312"

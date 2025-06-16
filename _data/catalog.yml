@@ -5375,7 +5375,7 @@
     stellar_catalog: "hd-152705"
 
 - id: 385
-  name: "HD 153557 / 153525"
+  name: "HD 153557"
   ra: "16h 57m 53.17s"
   dec: "47° 22' 00.06\""
   app_mag: "7.82"
