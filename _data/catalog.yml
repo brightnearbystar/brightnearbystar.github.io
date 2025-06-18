@@ -1437,7 +1437,7 @@
   parallax: "86.3542 [0.0358]"
   links:
     wikipedia: ~
-    simbad: "HD 75632"
+    simbad: "HD 75632A"
     stellar_catalog: "hd-75632-a"
 
 - id: 104
@@ -1931,7 +1931,7 @@
     stellar_catalog: "hd-128165"
 
 - id: 139
-  name: "DE Bootis"
+  name: "DE Boötis"
   ra: "14h 53m 23.77s"
   dec: "19° 09' 10.07\""
   app_mag: "6"
@@ -7330,7 +7330,7 @@
   distance: "76.4"
   parallax: "42.6929 [0.0141]"
   links:
-    wikipedia: ~
+    wikipedia: "HIP_12961"
     simbad: "CD-23 1056"
     stellar_catalog: "cd-23-1056"
 
@@ -7965,7 +7965,7 @@
     stellar_catalog: "hd-33564"
 
 - id: 570
-  name: "UY Pictor"
+  name: "UY Pictoris"
   ra: "05h 36m 56.85s"
   dec: "-47° 57' 52.88\""
   app_mag: "7.68"
@@ -8198,7 +8198,7 @@
   distance: "71.36"
   parallax: "45.7052 [0.4449]"
   links:
-    wikipedia: ~
+    wikipedia: "AK_Pictoris"
     simbad: "HD 48189"
     stellar_catalog: "hd-48189"
 
@@ -9206,7 +9206,7 @@
   distance: "71.96"
   parallax: "45.3276 [0.0662]"
   links:
-    wikipedia: ~
+    wikipedia: "HD_91324"
     simbad: "* Y Vel"
     stellar_catalog: "y-velorum"
 
@@ -9948,7 +9948,7 @@
   distance: "66.81"
   parallax: "48.8225 [0.0224]"
   links:
-    wikipedia: ~
+    wikipedia: "EQ_Virginis"
     simbad: "HD 118100"
     stellar_catalog: "hd-118100"
 
