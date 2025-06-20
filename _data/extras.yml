@@ -152,6 +152,20 @@
     simbad: "HD 121271A"
     stellar_catalog: "hd-121271"
 
+  name: "KU Librae"
+  ra: "14h 40m 31.11s"
+  dec: "-16° 12' 33.45\""
+  app_mag: "7.24"
+  abs_mag: "5.36"
+  stellar_class: "G8Vk:"
+  distance: "77.4"
+  parallax: "42.1376 [0.0273]"
+  reason: "Probable binary with Alpha2 Librae (BNS 736)."
+  links:
+    wikipedia: ~
+    simbad: "V* KU Lib"
+    stellar_catalog: "ku-librae"
+
 - name: "HD 139323"
   ra: "15h 35m 56.57s"
   dec: "39° 49' 52.03\""
@@ -160,7 +174,7 @@
   stellar_class: "K3V"
   distance: "73.19"
   parallax: "44.5624 [0.0146]"
-  reason: "Probable binary with HD 139341 (BNS 749)."
+  reason: "Probable binary with HD 139341 (BNS 748)."
   links:
     wikipedia: ~
     simbad: "HD 139323"
@@ -188,7 +202,7 @@
   stellar_class: "K5V"
   distance: "68.42"
   parallax: "47.6711 [0.0162]"
-  reason: "Probable binary with 17 Cygni (BNS 816)."
+  reason: "Probable binary with 17 Cygni (BNS 815)."
   links:
     wikipedia: ~
     simbad: "HD 186858"

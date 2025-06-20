@@ -10219,20 +10219,6 @@
     stellar_catalog: "bd-34-2541"
 
 - id: 731
-  name: "KU Librae"
-  ra: "14h 40m 31.11s"
-  dec: "-16° 12' 33.45\""
-  app_mag: "7.24"
-  abs_mag: "5.36"
-  stellar_class: "G8Vk:"
-  distance: "77.4"
-  parallax: "42.1376 [0.0273]"
-  links:
-    wikipedia: ~
-    simbad: "V* KU Lib"
-    stellar_catalog: "ku-librae"
-
-- id: 732
   name: "HD 128400"
   ra: "14h 41m 52.46s"
   dec: "-75° 08' 22.12\""
@@ -10246,7 +10232,7 @@
     simbad: "HD 128400"
     stellar_catalog: "hd-128400"
 
-- id: 733
+- id: 732
   name: "BD+20 3009"
   ra: "14h 42m 26.26s"
   dec: "19° 30' 12.69\""
@@ -10260,7 +10246,7 @@
     simbad: "BD%2B20 3009"
     stellar_catalog: "bd-20-3009"
 
-- id: 734
+- id: 733
   name: "BD+20 3010"
   ra: "14h 42m 33.65s"
   dec: "19° 28' 47.21\""
@@ -10274,7 +10260,7 @@
     simbad: "BD%2B20 3010"
     stellar_catalog: "bd-20-3010"
 
-- id: 735
+- id: 734
   name: "BD+39 2801"
   ra: "14h 48m 01.43s"
   dec: "38° 27' 58.44\""
@@ -10288,7 +10274,7 @@
     simbad: "BD%2B39 2801"
     stellar_catalog: "bd-39-2801"
 
-- id: 736
+- id: 735
   name: "HD 130042"
   ra: "14h 49m 23.72s"
   dec: "-67° 14' 09.48\""
@@ -10302,7 +10288,7 @@
     simbad: "HD 130042"
     stellar_catalog: "hd-130042-a"
 
-- id: 737
+- id: 736
   name: "Alpha2 Librae"
   ra: "14h 50m 52.71s"
   dec: "-16° 02' 30.40\""
@@ -10316,7 +10302,7 @@
     simbad: "* alf02 Lib"
     stellar_catalog: "-alf02-lib"
 
-- id: 738
+- id: 737
   name: "HD 131582"
   ra: "14h 53m 41.58s"
   dec: "23° 20' 42.83\""
@@ -10330,7 +10316,7 @@
     simbad: "HD 131582"
     stellar_catalog: "hd-131582"
 
-- id: 739
+- id: 738
   name: "HD 132142"
   ra: "14h 55m 11.04s"
   dec: "53° 40' 49.25\""
@@ -10344,7 +10330,7 @@
     simbad: "HD 132142"
     stellar_catalog: "hd-132142"
 
-- id: 740
+- id: 739
   name: "HD 131923"
   ra: "14h 58m 08.79s"
   dec: "-48° 51' 46.62\""
@@ -10358,7 +10344,7 @@
     simbad: "HD 131923"
     stellar_catalog: "gaia-edr3-5901924435035073152"
 
-- id: 741
+- id: 740
   name: "CD-43 9510"
   ra: "14h 59m 31.74s"
   dec: "-44° 05' 41.12\""
@@ -10372,7 +10358,7 @@
     simbad: "CD-43 9510"
     stellar_catalog: "cd-43-9510"
 
-- id: 742
+- id: 741
   name: "HD 132899"
   ra: "15h 03m 06.11s"
   dec: "-41° 59' 33.22\""
@@ -10386,7 +10372,7 @@
     simbad: "HD 132899"
     stellar_catalog: "hd-132899a"
 
-- id: 743
+- id: 742
   name: "HD 134060"
   ra: "15h 10m 44.74s"
   dec: "-61° 25' 20.36\""
@@ -10400,7 +10386,7 @@
     simbad: "HD 134060"
     stellar_catalog: "hd-134060"
 
-- id: 744
+- id: 743
   name: "HD 136713"
   ra: "15h 22m 36.69s"
   dec: "-10° 39' 40.06\""
@@ -10414,7 +10400,7 @@
     simbad: "HD 136713"
     stellar_catalog: "hd-136713"
 
-- id: 745
+- id: 744
   name: "HD 137303"
   ra: "15h 25m 58.50s"
   dec: "-26° 42' 20.82\""
@@ -10428,7 +10414,7 @@
     simbad: "HD 137303"
     stellar_catalog: "hd-137303"
 
-- id: 746
+- id: 745
   name: "HD 137778"
   ra: "15h 28m 12.21s"
   dec: "-09° 21' 28.30\""
@@ -10442,7 +10428,7 @@
     simbad: "HD 137778"
     stellar_catalog: "hd-137778"
 
-- id: 747
+- id: 746
   name: "Pi1 Ursae Minoris"
   ra: "15h 29m 11.18s"
   dec: "80° 26' 54.97\""
@@ -10456,7 +10442,7 @@
     simbad: "* pi.01 UMi A"
     stellar_catalog: "pi1-ursae-minoris-a"
 
-- id: 748
+- id: 747
   name: "Alpha Coronae Borealis"
   ra: "15h 34m 41.27s"
   dec: "26° 42' 52.87\""
@@ -10470,7 +10456,7 @@
     simbad: "* alf CrB"
     stellar_catalog: "alpha-coronae-borealis-a"
 
-- id: 749
+- id: 748
   name: "HD 139341"
   ra: "15h 36m 02.25s"
   dec: "39° 48' 08.71\""
@@ -10484,7 +10470,7 @@
     simbad: "HD 139341A"
     stellar_catalog: "hd-139341"
 
-- id: 750
+- id: 749
   name: "Alpha Serpentis"
   ra: "15h 44m 16.07s"
   dec: "06° 25' 32.27\""
@@ -10498,7 +10484,7 @@
     simbad: "* alf Ser"
     stellar_catalog: "-alf-ser"
 
-- id: 751
+- id: 750
   name: "HD 141272"
   ra: "15h 48m 09.46s"
   dec: "01° 34' 18.27\""
@@ -10512,7 +10498,7 @@
     simbad: "HD 141272"
     stellar_catalog: "hd-141272"
 
-- id: 752
+- id: 751
   name: "Epsilon Serpentis"
   ra: "15h 50m 48.97s"
   dec: "04° 28' 39.83\""
@@ -10526,7 +10512,7 @@
     simbad: "* eps Ser"
     stellar_catalog: "-eps-ser"
 
-- id: 753
+- id: 752
   name: "BD+11 2874"
   ra: "15h 52m 08.24s"
   dec: "10° 52' 28.08\""
@@ -10540,7 +10526,7 @@
     simbad: "BD%2B11 2874"
     stellar_catalog: "bd-11-2874"
 
-- id: 754
+- id: 753
   name: "HD 142288"
   ra: "15h 54m 38.43s"
   dec: "-26° 00' 15.05\""
@@ -10554,7 +10540,7 @@
     simbad: "HD 142288"
     stellar_catalog: "hd-142288"
 
-- id: 755
+- id: 754
   name: "Theta Draconis"
   ra: "16h 01m 53.34s"
   dec: "58° 33' 54.90\""
@@ -10568,7 +10554,7 @@
     simbad: "* tet Dra"
     stellar_catalog: "theta-draconis-a"
 
-- id: 756
+- id: 755
   name: "HD 144287"
   ra: "16h 04m 03.64s"
   dec: "25° 15' 17.25\""
@@ -10582,7 +10568,7 @@
     simbad: "HD 144287"
     stellar_catalog: "hd-144287"
 
-- id: 757
+- id: 756
   name: "CD-32 11389"
   ra: "16h 04m 23.15s"
   dec: "-33° 03' 39.69\""
@@ -10596,7 +10582,7 @@
     simbad: "CD-32 11389"
     stellar_catalog: "cd-32-11389"
 
-- id: 758
+- id: 757
   name: "AT Coronae Borealis"
   ra: "16h 06m 29.60s"
   dec: "38° 37' 56.07\""
@@ -10610,7 +10596,7 @@
     simbad: "V* AT CrB"
     stellar_catalog: "v-at-crb"
 
-- id: 759
+- id: 758
   name: "49 Serpentis"
   ra: "16h 13m 18.45s"
   dec: "13° 31' 36.85\""
@@ -10624,7 +10610,7 @@
     simbad: "* 49 Ser A"
     stellar_catalog: "-49-ser"
 
-- id: 760
+- id: 759
   name: "HD 145825"
   ra: "16h 14m 11.91s"
   dec: "-31° 39' 49.15\""
@@ -10638,7 +10624,7 @@
     simbad: "HD 145825"
     stellar_catalog: "hd-145825"
 
-- id: 761
+- id: 760
   name: "Sigma Coronae Borealis"
   ra: "16h 14m 40.85s"
   dec: "33° 51' 31.01\""
@@ -10652,7 +10638,7 @@
     simbad: "* sig CrB A"
     stellar_catalog: "-sig-crb"
 
-- id: 762
+- id: 761
   name: "BD+55 1823"
   ra: "16h 17m 05.35s"
   dec: "55° 16' 08.77\""
@@ -10666,7 +10652,7 @@
     simbad: "BD%2B55 1823"
     stellar_catalog: "bd-55-1823"
 
-- id: 763
+- id: 762
   name: "V2578 Ophiuchi"
   ra: "16h 24m 19.81s"
   dec: "-13° 38' 29.98\""
@@ -10680,7 +10666,7 @@
     simbad: "V* V2578 Oph"
     stellar_catalog: "v-v2578-oph"
 
-- id: 764
+- id: 763
   name: "HD 148704"
   ra: "16h 31m 30.03s"
   dec: "-39° 00' 44.15\""
@@ -10694,7 +10680,7 @@
     simbad: "HD 148704"
     stellar_catalog: "hd-148704"
 
-- id: 765
+- id: 764
   name: "HD 149192"
   ra: "16h 35m 50.37s"
   dec: "-53° 45' 25.38\""
@@ -10708,7 +10694,7 @@
     simbad: "HD 149192"
     stellar_catalog: "hd-149192-a"
 
-- id: 766
+- id: 765
   name: "HD 149806"
   ra: "16h 37m 08.43s"
   dec: "00° 15' 15.63\""
@@ -10722,7 +10708,7 @@
     simbad: "HD 149806"
     stellar_catalog: "hd-149806"
 
-- id: 767
+- id: 766
   name: "HD 149612"
   ra: "16h 39m 04.14s"
   dec: "-58° 15' 29.53\""
@@ -10736,7 +10722,7 @@
     simbad: "HD 149612"
     stellar_catalog: "hd-149612"
 
-- id: 768
+- id: 767
   name: "HD 151541"
   ra: "16h 42m 38.58s"
   dec: "68° 06' 07.79\""
@@ -10750,7 +10736,7 @@
     simbad: "HD 151541"
     stellar_catalog: "hd-151541"
 
-- id: 769
+- id: 768
   name: "BD+39 3048"
   ra: "16h 49m 24.70s"
   dec: "39° 16' 34.48\""
@@ -10764,7 +10750,7 @@
     simbad: "BD%2B39 3048"
     stellar_catalog: "bd-39-3048"
 
-- id: 770
+- id: 769
   name: "V2213 Ophiuchi"
   ra: "17h 05m 16.82s"
   dec: "00° 42' 09.22\""
@@ -10778,7 +10764,7 @@
     simbad: "V* V2213 Oph"
     stellar_catalog: "v2213-ophiuchi"
 
-- id: 771
+- id: 770
   name: "HD 154590"
   ra: "17h 08m 07.31s"
   dec: "-41° 43' 26.29\""
@@ -10792,7 +10778,7 @@
     simbad: "HD 154590"
     stellar_catalog: "hd-154590-a"
 
-- id: 772
+- id: 771
   name: "HD 155674"
   ra: "17h 10m 10.51s"
   dec: "54° 29' 39.76\""
@@ -10806,7 +10792,7 @@
     simbad: "HD 155674"
     stellar_catalog: "hd-155674"
 
-- id: 773
+- id: 772
   name: "Eta Scorpii"
   ra: "17h 12m 09.19s"
   dec: "-43° 14' 21.08\""
@@ -10820,7 +10806,7 @@
     simbad: "* eta Sco"
     stellar_catalog: "eta-scorpii"
 
-- id: 774
+- id: 773
   name: "HD 155712"
   ra: "17h 12m 37.62s"
   dec: "18° 21' 04.30\""
@@ -10834,7 +10820,7 @@
     simbad: "HD 155712"
     stellar_catalog: "hd-155712"
 
-- id: 775
+- id: 774
   name: "BD+42 2810"
   ra: "17h 12m 55.09s"
   dec: "42° 19' 54.60\""
@@ -10848,7 +10834,7 @@
     simbad: "BD%2B42 2810"
     stellar_catalog: "bd-42-2810"
 
-- id: 776
+- id: 775
   name: "Delta Herculis"
   ra: "17h 15m 01.91s"
   dec: "24° 50' 21.15\""
@@ -10862,7 +10848,7 @@
     simbad: "* del Her"
     stellar_catalog: "-del-her"
 
-- id: 777
+- id: 776
   name: "HD 156668"
   ra: "17h 17m 40.49s"
   dec: "29° 13' 38.02\""
@@ -10876,7 +10862,7 @@
     simbad: "HD 156668"
     stellar_catalog: "hd-156668"
 
-- id: 778
+- id: 777
   name: "b Ophiuchi"
   ra: "17h 26m 22.22s"
   dec: "-24° 10' 31.11\""
@@ -10890,7 +10876,7 @@
     simbad: "* b Oph"
     stellar_catalog: "gaia-edr3-4111251723554095104"
 
-- id: 779
+- id: 778
   name: "BD+29 3029"
   ra: "17h 29m 20.08s"
   dec: "29° 23' 31.01\""
@@ -10904,7 +10890,7 @@
     simbad: "BD%2B29 3029"
     stellar_catalog: "bd-29-3029"
 
-- id: 780
+- id: 779
   name: "HD 159062"
   ra: "17h 30m 16.43s"
   dec: "47° 24' 07.90\""
@@ -10918,7 +10904,7 @@
     simbad: "HD 159062"
     stellar_catalog: "hd-159062"
 
-- id: 781
+- id: 780
   name: "HD 159222"
   ra: "17h 32m 00.99s"
   dec: "34° 16' 16.13\""
@@ -10932,7 +10918,7 @@
     simbad: "HD 159222"
     stellar_catalog: "hd-159222"
 
-- id: 782
+- id: 781
   name: "Omega Draconis"
   ra: "17h 36m 57.09s"
   dec: "68° 45' 28.68\""
@@ -10946,7 +10932,7 @@
     simbad: "* ome Dra"
     stellar_catalog: "-ome-dra"
 
-- id: 783
+- id: 782
   name: "BD+23 3151"
   ra: "17h 37m 48.70s"
   dec: "22° 57' 20.09\""
@@ -10960,7 +10946,7 @@
     simbad: "BD%2B23 3151A"
     stellar_catalog: "bd-23-3151"
 
-- id: 784
+- id: 783
   name: "BD+71 851"
   ra: "17h 38m 34.10s"
   dec: "71° 19' 56.33\""
@@ -10974,7 +10960,7 @@
     simbad: "BD%2B71 851"
     stellar_catalog: "bd-71-851"
 
-- id: 785
+- id: 784
   name: "Lambda Arae"
   ra: "17h 40m 23.83s"
   dec: "-49° 24' 56.10\""
@@ -10988,7 +10974,7 @@
     simbad: "* lam Ara"
     stellar_catalog: "lambda-arae"
 
-- id: 786
+- id: 785
   name: "Psi1 Draconis"
   ra: "17h 41m 56.06s"
   dec: "72° 08' 55.93\""
@@ -11002,7 +10988,7 @@
     simbad: "* psi01 Dra A"
     stellar_catalog: "psi1-draconis-a"
 
-- id: 787
+- id: 786
   name: "HD 161198"
   ra: "17h 43m 15.68s"
   dec: "21° 36' 33.13\""
@@ -11016,7 +11002,7 @@
     simbad: "HD 161198"
     stellar_catalog: "gaia-edr3-"
 
-- id: 788
+- id: 787
   name: "HD 162283"
   ra: "17h 50m 34.03s"
   dec: "-06° 03' 01.04\""
@@ -11030,7 +11016,7 @@
     simbad: "HD 162283"
     stellar_catalog: "hd-162283"
 
-- id: 789
+- id: 788
   name: "BD+21 3245"
   ra: "17h 53m 29.94s"
   dec: "21° 19' 31.05\""
@@ -11044,7 +11030,7 @@
     simbad: "BD%2B21 3245"
     stellar_catalog: "bd-21-3245"
 
-- id: 790
+- id: 789
   name: "BD+18 3497"
   ra: "17h 55m 44.90s"
   dec: "18° 30' 01.39\""
@@ -11058,7 +11044,7 @@
     simbad: "BD%2B18 3497"
     stellar_catalog: "bd-18-3497"
 
-- id: 791
+- id: 790
   name: "Zeta Serpentis"
   ra: "18h 00m 29.01s"
   dec: "-03° 41' 24.98\""
@@ -11072,7 +11058,7 @@
     simbad: "* zet Ser"
     stellar_catalog: "zeta-serpentis"
 
-- id: 792
+- id: 791
   name: "HD 164922"
   ra: "18h 02m 30.86s"
   dec: "26° 18' 46.81\""
@@ -11086,7 +11072,7 @@
     simbad: "HD 164922"
     stellar_catalog: "hd-164922"
 
-- id: 793
+- id: 792
   name: "BD+35 3145"
   ra: "18h 04m 17.59s"
   dec: "35° 57' 25.76\""
@@ -11100,7 +11086,7 @@
     simbad: "BD%2B35 3145"
     stellar_catalog: "bd-35-3145"
 
-- id: 794
+- id: 793
   name: "HD 165401"
   ra: "18h 05m 37.45s"
   dec: "04° 39' 25.80\""
@@ -11114,7 +11100,7 @@
     simbad: "HD 165401"
     stellar_catalog: "hd-165401"
 
-- id: 795
+- id: 794
   name: "TOI 2134"
   ra: "18h 07m 44.45s"
   dec: "39° 04' 26.92\""
@@ -11128,7 +11114,7 @@
     simbad: "BD%2B39 3325"
     stellar_catalog: "toi-2134"
 
-- id: 796
+- id: 795
   name: "HD 166435"
   ra: "18h 09m 21.38s"
   dec: "29° 57' 06.17\""
@@ -11142,7 +11128,7 @@
     simbad: "HD 166435"
     stellar_catalog: "hd-166435"
 
-- id: 797
+- id: 796
   name: "36 Draconis"
   ra: "18h 13m 53.83s"
   dec: "64° 23' 50.23\""
@@ -11156,7 +11142,7 @@
     simbad: "* 36 Dra"
     stellar_catalog: "-36-dra"
 
-- id: 798
+- id: 797
   name: "HD 168009"
   ra: "18h 15m 32.46s"
   dec: "45° 12' 33.54\""
@@ -11170,7 +11156,7 @@
     simbad: "HD 168009"
     stellar_catalog: "hd-168009"
 
-- id: 799
+- id: 798
   name: "HD 167425"
   ra: "18h 19m 40.13s"
   dec: "-63° 53' 11.62\""
@@ -11184,7 +11170,7 @@
     simbad: "HD 167425"
     stellar_catalog: "hd-167425"
 
-- id: 800
+- id: 799
   name: "Lambda Sagittarii"
   ra: "18h 27m 58.24s"
   dec: "-25° 25' 18.11\""
@@ -11198,7 +11184,7 @@
     simbad: "* lam Sgr"
     stellar_catalog: "lambda-sagittarii"
 
-- id: 801
+- id: 800
   name: "HD 171314"
   ra: "18h 33m 17.76s"
   dec: "22° 18' 51.31\""
@@ -11212,7 +11198,7 @@
     simbad: "HD 171314"
     stellar_catalog: "hd-171314"
 
-- id: 802
+- id: 801
   name: "BD+31 3330"
   ra: "18h 40m 54.88s"
   dec: "31° 31' 59.09\""
@@ -11226,7 +11212,7 @@
     simbad: "BD%2B31 3330"
     stellar_catalog: "bd-31-3330"
 
-- id: 803
+- id: 802
   name: "HD 175742"
   ra: "18h 55m 53.23s"
   dec: "23° 33' 23.93\""
@@ -11240,7 +11226,7 @@
     simbad: "HD 175742"
     stellar_catalog: "hd-175742"
 
-- id: 804
+- id: 803
   name: "HD 176377"
   ra: "18h 58m 51.00s"
   dec: "30° 10' 50.32\""
@@ -11254,7 +11240,7 @@
     simbad: "HD 176377"
     stellar_catalog: "hd-176377"
 
-- id: 805
+- id: 804
   name: "HD 178126"
   ra: "19h 07m 02.04s"
   dec: "07° 36' 57.15\""
@@ -11268,7 +11254,7 @@
     simbad: "HD 178126"
     stellar_catalog: "hd-178126"
 
-- id: 806
+- id: 805
   name: "HD 178428"
   ra: "19h 07m 57.32s"
   dec: "16° 51' 12.17\""
@@ -11282,7 +11268,7 @@
     simbad: "HD 178428"
     stellar_catalog: "hd-178428"
 
-- id: 807
+- id: 806
   name: "HD 178445"
   ra: "19h 10m 52.27s"
   dec: "-47° 09' 31.04\""
@@ -11296,7 +11282,7 @@
     simbad: "HD 178445"
     stellar_catalog: "hd-178445"
 
-- id: 808
+- id: 807
   name: "HD 180161"
   ra: "19h 12m 11.36s"
   dec: "57° 40' 19.13\""
@@ -11310,7 +11296,7 @@
     simbad: "HD 180161"
     stellar_catalog: "hd-180161"
 
-- id: 809
+- id: 808
   name: "HD 183255"
   ra: "19h 26m 25.98s"
   dec: "49° 27' 55.10\""
@@ -11324,7 +11310,7 @@
     simbad: "HD 183255"
     stellar_catalog: "hd-183255"
 
-- id: 810
+- id: 809
   name: "HD 183783"
   ra: "19h 32m 30.27s"
   dec: "-35° 27' 06.21\""
@@ -11338,7 +11324,7 @@
     simbad: "HD 183783"
     stellar_catalog: "hd-183783"
 
-- id: 811
+- id: 810
   name: "HD 184385"
   ra: "19h 33m 25.55s"
   dec: "21° 50' 25.18\""
@@ -11352,7 +11338,7 @@
     simbad: "HD 184385"
     stellar_catalog: "hd-184385"
 
-- id: 812
+- id: 811
   name: "HD 185414"
   ra: "19h 35m 55.59s"
   dec: "56° 59' 02.08\""
@@ -11366,7 +11352,7 @@
     simbad: "HD 185414"
     stellar_catalog: "hd-185414"
 
-- id: 813
+- id: 812
   name: "16 Cygni"
   ra: "19h 41m 48.95s"
   dec: "50° 31' 30.22\""
@@ -11380,7 +11366,7 @@
     simbad: "* 16 Cyg A"
     stellar_catalog: "16-cygni"
 
-- id: 814
+- id: 813
   name: "CD-45 13383"
   ra: "19h 42m 52.77s"
   dec: "-45° 04' 53.52\""
@@ -11394,7 +11380,7 @@
     simbad: "CD-45 13383"
     stellar_catalog: "cd-45-13383"
 
-- id: 815
+- id: 814
   name: "HD 332518"
   ra: "19h 45m 35.60s"
   dec: "30° 00' 36.79\""
@@ -11408,7 +11394,7 @@
     simbad: "HD 332518"
     stellar_catalog: "hd-332518"
 
-- id: 816
+- id: 815
   name: "17 Cygni"
   ra: "19h 46m 25.60s"
   dec: "33° 43' 39.35\""
@@ -11422,7 +11408,7 @@
     simbad: "* 17 Cyg"
     stellar_catalog: "17-cygni-a"
 
-- id: 817
+- id: 816
   name: "Omega Sagittarii"
   ra: "19h 55m 50.36s"
   dec: "-26° 17' 57.69\""
@@ -11436,7 +11422,7 @@
     simbad: "* ome Sgr"
     stellar_catalog: "-ome-sgr"
 
-- id: 818
+- id: 817
   name: "HD 187456"
   ra: "19h 56m 16.15s"
   dec: "-72° 21' 51.46\""
@@ -11450,7 +11436,7 @@
     simbad: "HD 187456"
     stellar_catalog: "hd-187456"
 
-- id: 819
+- id: 818
   name: "HD 188559"
   ra: "19h 58m 32.98s"
   dec: "-54° 56' 12.81\""
@@ -11464,7 +11450,7 @@
     simbad: "HD 188559"
     stellar_catalog: "hd-188559"
 
-- id: 820
+- id: 819
   name: "HD 189340"
   ra: "19h 59m 47.28s"
   dec: "-09° 57' 29.63\""
@@ -11478,7 +11464,7 @@
     simbad: "HD 189340"
     stellar_catalog: "hd-189340"
 
-- id: 821
+- id: 820
   name: "HD 189245"
   ra: "20h 00m 20.25s"
   dec: "-33° 42' 12.42\""
@@ -11492,7 +11478,7 @@
     simbad: "HD 189245"
     stellar_catalog: "hd-189245"
 
-- id: 822
+- id: 821
   name: "HD 189484"
   ra: "20h 02m 35.16s"
   dec: "-50° 03' 09.72\""
@@ -11506,7 +11492,7 @@
     simbad: "HD 189484"
     stellar_catalog: "lhs-3508"
 
-- id: 823
+- id: 822
   name: "HD 190470"
   ra: "20h 04m 10.05s"
   dec: "25° 47' 24.82\""
@@ -11520,7 +11506,7 @@
     simbad: "HD 190470"
     stellar_catalog: "hd-190470"
 
-- id: 824
+- id: 823
   name: "27 Cygni"
   ra: "20h 06m 21.77s"
   dec: "35° 58' 20.89\""
@@ -11534,7 +11520,7 @@
     simbad: "* b01 Cyg"
     stellar_catalog: "27-cygni"
 
-- id: 825
+- id: 824
   name: "HD 190422"
   ra: "20h 07m 35.09s"
   dec: "-55° 00' 57.65\""
@@ -11548,7 +11534,7 @@
     simbad: "HD 190422"
     stellar_catalog: "hd-190422"
 
-- id: 826
+- id: 825
   name: "HD 191499"
   ra: "20h 09m 34.30s"
   dec: "16° 48' 20.76\""
@@ -11562,7 +11548,7 @@
     simbad: "HD 191499"
     stellar_catalog: "hd-191499"
 
-- id: 827
+- id: 826
   name: "HD 191785"
   ra: "20h 11m 06.07s"
   dec: "16° 11' 16.79\""
@@ -11576,7 +11562,7 @@
     simbad: "HD 191785"
     stellar_catalog: "gaia-edr3-1809360187275432832"
 
-- id: 828
+- id: 827
   name: "HD 192020"
   ra: "20h 11m 25.12s"
   dec: "38° 24' 00.50\""
@@ -11590,7 +11576,7 @@
     simbad: "HD 192020"
     stellar_catalog: "hd-192020"
 
-- id: 829
+- id: 828
   name: "BD-07 5223"
   ra: "20h 14m 28.19s"
   dec: "-07° 16' 55.13\""
@@ -11604,7 +11590,7 @@
     simbad: "BD-07 5223"
     stellar_catalog: "bd-07-5223"
 
-- id: 830
+- id: 829
   name: "HD 195564"
   ra: "20h 32m 23.69s"
   dec: "-09° 51' 12.18\""
@@ -11618,7 +11604,7 @@
     simbad: "HD 195564"
     stellar_catalog: "hd-195564"
 
-- id: 831
+- id: 830
   name: "HD 195987"
   ra: "20h 32m 51.64s"
   dec: "41° 53' 54.55\""
@@ -11632,7 +11618,7 @@
     simbad: "HD 195987"
     stellar_catalog: "hd-195987"
 
-- id: 832
+- id: 831
   name: "Phi2 Pavonis"
   ra: "20h 40m 02.64s"
   dec: "-60° 32' 56.02\""
@@ -11646,7 +11632,7 @@
     simbad: "* phi02 Pav"
     stellar_catalog: "phi2-pavonis"
 
-- id: 833
+- id: 832
   name: "HD 197076"
   ra: "20h 40m 45.14s"
   dec: "19° 56' 07.93\""
@@ -11660,7 +11646,7 @@
     simbad: "HD 197076"
     stellar_catalog: "hd-197076"
 
-- id: 834
+- id: 833
   name: "BD+56 2471"
   ra: "20h 41m 28.16s"
   dec: "57° 25' 47.27\""
@@ -11674,7 +11660,7 @@
     simbad: "BD%2B56 2471"
     stellar_catalog: "bd-56-2471"
 
-- id: 835
+- id: 834
   name: "HD 196998"
   ra: "20h 41m 42.25s"
   dec: "-22° 19' 20.51\""
@@ -11688,7 +11674,7 @@
     simbad: "HD 196998"
     stellar_catalog: "hd-196998"
 
-- id: 836
+- id: 835
   name: "HD 197396"
   ra: "20h 42m 49.36s"
   dec: "20° 50' 40.60\""
@@ -11702,7 +11688,7 @@
     simbad: "HD 197396"
     stellar_catalog: "hd-197396"
 
-- id: 837
+- id: 836
   name: "HD 197214"
   ra: "20h 43m 16.00s"
   dec: "-29° 25' 26.06\""
@@ -11716,7 +11702,7 @@
     simbad: "HD 197214"
     stellar_catalog: "gaia-edr3-6795261758382370560"
 
-- id: 838
+- id: 837
   name: "Eta Indi"
   ra: "20h 44m 02.33s"
   dec: "-51° 55' 15.49\""
@@ -11730,7 +11716,7 @@
     simbad: "* eta Ind"
     stellar_catalog: "-eta-ind"
 
-- id: 839
+- id: 838
   name: "Epsilon Cygni"
   ra: "20h 46m 12.67s"
   dec: "33° 58' 13.18\""
@@ -11744,7 +11730,7 @@
     simbad: "* eps Cyg"
     stellar_catalog: "epsilon-cygni"
 
-- id: 840
+- id: 839
   name: "V2431 Cygni"
   ra: "20h 49m 16.23s"
   dec: "32° 17' 05.24\""
@@ -11758,7 +11744,7 @@
     simbad: "V* V2431 Cyg"
     stellar_catalog: "v-v2431-cyg"
 
-- id: 841
+- id: 840
   name: "HD 198550"
   ra: "20h 50m 10.56s"
   dec: "29° 23' 02.75\""
@@ -11772,7 +11758,7 @@
     simbad: "HD 198550"
     stellar_catalog: "hd-198550"
 
-- id: 842
+- id: 841
   name: "BD+52 2815"
   ra: "20h 50m 33.08s"
   dec: "52° 53' 58.54\""
@@ -11786,7 +11772,7 @@
     simbad: "BD%2B52 2815"
     stellar_catalog: "bd-52-2815"
 
-- id: 843
+- id: 842
   name: "BD+12 4499"
   ra: "20h 55m 06.86s"
   dec: "13° 10' 36.56\""
@@ -11800,7 +11786,7 @@
     simbad: "BD%2B12 4499"
     stellar_catalog: "gaia-edr3-1758463038092175232"
 
-- id: 844
+- id: 843
   name: "HD 199260"
   ra: "20h 56m 47.33s"
   dec: "-26° 17' 46.96\""
@@ -11814,7 +11800,7 @@
     simbad: "HD 199260"
     stellar_catalog: "hd-199260"
 
-- id: 845
+- id: 844
   name: "HD 199288"
   ra: "20h 57m 40.07s"
   dec: "-44° 07' 45.73\""
@@ -11828,7 +11814,7 @@
     simbad: "HD 199288"
     stellar_catalog: "hd-199288"
 
-- id: 846
+- id: 845
   name: "HD 199981"
   ra: "21h 01m 39.10s"
   dec: "-32° 31' 28.12\""
@@ -11842,7 +11828,7 @@
     simbad: "HD 199981"
     stellar_catalog: "hd-199981"
 
-- id: 847
+- id: 846
   name: "HD 358850"
   ra: "21h 05m 43.46s"
   dec: "-16° 54' 49.35\""
@@ -11856,7 +11842,7 @@
     simbad: "HD 358850"
     stellar_catalog: "hd-358850"
 
-- id: 848
+- id: 847
   name: "HD 199509"
   ra: "21h 09m 20.73s"
   dec: "-82° 01' 38.11\""
@@ -11870,7 +11856,7 @@
     simbad: "HD 199509"
     stellar_catalog: "hd-199509"
 
-- id: 849
+- id: 848
   name: "HD 200525"
   ra: "21h 09m 22.47s"
   dec: "-73° 10' 22.14\""
@@ -11884,7 +11870,7 @@
     simbad: "HD 200525"
     stellar_catalog: "hd-200525"
 
-- id: 850
+- id: 849
   name: "Tau Cygni"
   ra: "21h 14m 47.49s"
   dec: "38° 02' 43.14\""
@@ -11898,7 +11884,7 @@
     simbad: "* tau Cyg"
     stellar_catalog: "tau-cygni"
 
-- id: 851
+- id: 850
   name: "HD 202751"
   ra: "21h 18m 02.97s"
   dec: "00° 09' 41.67\""
@@ -11912,7 +11898,7 @@
     simbad: "HD 202751"
     stellar_catalog: "hd-202751"
 
-- id: 852
+- id: 851
   name: "HD 202628"
   ra: "21h 18m 27.27s"
   dec: "-43° 20' 04.74\""
@@ -11926,7 +11912,7 @@
     simbad: "HD 202628"
     stellar_catalog: "hd-202628"
 
-- id: 853
+- id: 852
   name: "BD+10 4534"
   ra: "21h 22m 26.60s"
   dec: "10° 52' 25.55\""
@@ -11940,7 +11926,7 @@
     simbad: "BD%2B10 4534"
     stellar_catalog: "bd-10-4534"
 
-- id: 854
+- id: 853
   name: "HD 203244"
   ra: "21h 24m 40.52s"
   dec: "-68° 13' 40.53\""
@@ -11954,7 +11940,7 @@
     simbad: "HD 203244"
     stellar_catalog: "hd-203244"
 
-- id: 855
+- id: 854
   name: "HD 203850"
   ra: "21h 26m 58.45s"
   dec: "-56° 07' 30.95\""
@@ -11968,7 +11954,7 @@
     simbad: "HD 203850"
     stellar_catalog: "hd-203850"
 
-- id: 856
+- id: 855
   name: "HD 203985"
   ra: "21h 27m 01.32s"
   dec: "-44° 48' 30.97\""
@@ -11982,7 +11968,7 @@
     simbad: "HD 203985"
     stellar_catalog: "hd-203985"
 
-- id: 857
+- id: 856
   name: "BD+22 4409"
   ra: "21h 31m 01.71s"
   dec: "23° 20' 07.37\""
@@ -11996,7 +11982,7 @@
     simbad: "BD%2B22 4409"
     stellar_catalog: "bd-22-4409"
 
-- id: 858
+- id: 857
   name: "HD 205434"
   ra: "21h 33m 01.07s"
   dec: "62° 00' 08.83\""
@@ -12010,7 +11996,7 @@
     simbad: "HD 205434"
     stellar_catalog: "hd-205434"
 
-- id: 859
+- id: 858
   name: "HD 205536"
   ra: "21h 40m 29.77s"
   dec: "-74° 04' 27.41\""
@@ -12024,7 +12010,7 @@
     simbad: "HD 205536"
     stellar_catalog: "hd-205536"
 
-- id: 860
+- id: 859
   name: "Mu1 Cygni"
   ra: "21h 44m 08.59s"
   dec: "28° 44' 33.38\""
@@ -12038,7 +12024,7 @@
     simbad: "* mu.01 Cyg"
     stellar_catalog: "-mu-cyg"
 
-- id: 861
+- id: 860
   name: "HD 207144"
   ra: "21h 48m 00.05s"
   dec: "-40° 15' 21.89\""
@@ -12052,7 +12038,7 @@
     simbad: "HD 207144"
     stellar_catalog: "hd-207144"
 
-- id: 862
+- id: 861
   name: "HD 207491"
   ra: "21h 49m 12.23s"
   dec: "05° 43' 22.32\""
@@ -12066,7 +12052,7 @@
     simbad: "HD 207491"
     stellar_catalog: "hd-207491"
 
-- id: 863
+- id: 862
   name: "HD 208038"
   ra: "21h 53m 05.35s"
   dec: "20° 55' 49.87\""
@@ -12080,7 +12066,7 @@
     simbad: "HD 208038"
     stellar_catalog: "gaia-edr3-1781003885454165888"
 
-- id: 864
+- id: 863
   name: "HD 208313"
   ra: "21h 54m 45.04s"
   dec: "32° 19' 42.84\""
@@ -12094,7 +12080,7 @@
     simbad: "HD 208313"
     stellar_catalog: "hd-208313"
 
-- id: 865
+- id: 864
   name: "HD 207496"
   ra: "21h 54m 51.30s"
   dec: "-77° 20' 16.79\""
@@ -12108,7 +12094,7 @@
     simbad: "HD 207496"
     stellar_catalog: "hd-207496"
 
-- id: 866
+- id: 865
   name: "CD-61 6651"
   ra: "21h 59m 32.09s"
   dec: "-60° 55' 58.70\""
@@ -12122,7 +12108,7 @@
     simbad: "CD-61 6651"
     stellar_catalog: "cd-61-6651"
 
-- id: 867
+- id: 866
   name: "HD 210277"
   ra: "22h 09m 29.87s"
   dec: "-07° 32' 55.16\""
@@ -12136,7 +12122,7 @@
     simbad: "HD 210277"
     stellar_catalog: "hd-210277"
 
-- id: 868
+- id: 867
   name: "HD 210667"
   ra: "22h 11m 11.91s"
   dec: "36° 15' 22.77\""
@@ -12150,7 +12136,7 @@
     simbad: "HD 210667"
     stellar_catalog: "hd-210667"
 
-- id: 869
+- id: 868
   name: "HD 210918"
   ra: "22h 14m 38.65s"
   dec: "-41° 22' 53.99\""
@@ -12164,7 +12150,7 @@
     simbad: "HD 210918"
     stellar_catalog: "hd-210918"
 
-- id: 870
+- id: 869
   name: "HD 211472"
   ra: "22h 15m 54.14s"
   dec: "54° 40' 22.41\""
@@ -12178,7 +12164,7 @@
     simbad: "HD 211472"
     stellar_catalog: "hd-211472"
 
-- id: 871
+- id: 870
   name: "BD+67 1424"
   ra: "22h 16m 31.79s"
   dec: "68° 20' 23.26\""
@@ -12192,7 +12178,7 @@
     simbad: "BD%2B67 1424"
     stellar_catalog: "bd-67-1424"
 
-- id: 872
+- id: 871
   name: "BD+21 4747"
   ra: "22h 24m 45.54s"
   dec: "22° 33' 04.09\""
@@ -12206,7 +12192,7 @@
     simbad: "BD%2B21 4747"
     stellar_catalog: "bd-21-4747"
 
-- id: 873
+- id: 872
   name: "HD 212330"
   ra: "22h 24m 56.37s"
   dec: "-57° 47' 50.84\""
@@ -12220,7 +12206,7 @@
     simbad: "HD 212330"
     stellar_catalog: "gaia-edr3-6408551802222368384"
 
-- id: 874
+- id: 873
   name: "HD 212168"
   ra: "22h 25m 51.16s"
   dec: "-75° 00' 56.48\""
@@ -12234,7 +12220,7 @@
     simbad: "HD 212168"
     stellar_catalog: "hd-212168"
 
-- id: 875
+- id: 874
   name: "Upsilon Aquarii"
   ra: "22h 34m 41.64s"
   dec: "-20° 42' 29.58\""
@@ -12248,7 +12234,7 @@
     simbad: "* ups Aqr"
     stellar_catalog: "-ups-aqr"
 
-- id: 876
+- id: 875
   name: "G 216-7"
   ra: "22h 37m 29.92s"
   dec: "39° 22' 51.69\""
@@ -12262,7 +12248,7 @@
     simbad: "BD%2B38 4818"
     stellar_catalog: "g-216-7-a"
 
-- id: 877
+- id: 876
   name: "HD 214683"
   ra: "22h 39m 50.77s"
   dec: "04° 06' 58.02\""
@@ -12276,7 +12262,7 @@
     simbad: "HD 214683"
     stellar_catalog: "hd-214683"
 
-- id: 878
+- id: 877
   name: "HD 214731"
   ra: "22h 40m 58.70s"
   dec: "-46° 12' 07.17\""
@@ -12290,7 +12276,7 @@
     simbad: "HD 214731"
     stellar_catalog: "hd-214731"
 
-- id: 879
+- id: 878
   name: "HD 214953"
   ra: "22h 42m 36.88s"
   dec: "-47° 12' 38.93\""
@@ -12304,7 +12290,7 @@
     simbad: "HD 214953"
     stellar_catalog: "hd-214953-a"
 
-- id: 880
+- id: 879
   name: "HD 215152"
   ra: "22h 43m 21.30s"
   dec: "-06° 24' 02.95\""
@@ -12318,7 +12304,7 @@
     simbad: "HD 215152"
     stellar_catalog: "hd-215152"
 
-- id: 881
+- id: 880
   name: "HD 216259"
   ra: "22h 51m 26.36s"
   dec: "13° 58' 11.94\""
@@ -12332,7 +12318,7 @@
     simbad: "HD 216259"
     stellar_catalog: "hd-216259"
 
-- id: 882
+- id: 881
   name: "HD 216448"
   ra: "22h 52m 00.65s"
   dec: "57° 43' 02.72\""
@@ -12346,7 +12332,7 @@
     simbad: "HD 216448"
     stellar_catalog: "hd-216448"
 
-- id: 883
+- id: 882
   name: "HD 217142"
   ra: "22h 56m 04.36s"
   dec: "75° 56' 22.33\""
@@ -12360,7 +12346,7 @@
     simbad: "HD 217142"
     stellar_catalog: "hd-217142"
 
-- id: 884
+- id: 883
   name: "HD 217107"
   ra: "22h 58m 15.54s"
   dec: "-02° 23' 43.38\""
@@ -12374,7 +12360,7 @@
     simbad: "HD 217107"
     stellar_catalog: "hd-217107"
 
-- id: 885
+- id: 884
   name: "HD 217813"
   ra: "23h 03m 04.98s"
   dec: "20° 55' 06.86\""
@@ -12388,7 +12374,7 @@
     simbad: "HD 217813"
     stellar_catalog: "hd-217813"
 
-- id: 886
+- id: 885
   name: "BD+65 1846"
   ra: "23h 04m 30.21s"
   dec: "66° 45' 51.79\""
@@ -12402,7 +12388,7 @@
     simbad: "BD%2B65 1846"
     stellar_catalog: "bd-65-1846"
 
-- id: 887
+- id: 886
   name: "Gliese 889"
   ra: "23h 07m 07.06s"
   dec: "-23° 09' 34.03\""
@@ -12416,7 +12402,7 @@
     simbad: "HD 218294"
     stellar_catalog: "gliese-889-a"
 
-- id: 888
+- id: 887
   name: "HD 218572"
   ra: "23h 10m 20.57s"
   dec: "-68° 50' 20.03\""
@@ -12430,7 +12416,7 @@
     simbad: "HD 218572"
     stellar_catalog: "hd-218572"
 
-- id: 889
+- id: 888
   name: "HD 218868"
   ra: "23h 10m 50.08s"
   dec: "45° 30' 44.18\""
@@ -12444,7 +12430,7 @@
     simbad: "HD 218868"
     stellar_catalog: "hd-218868"
 
-- id: 890
+- id: 889
   name: "7 Andromedae"
   ra: "23h 12m 33.00s"
   dec: "49° 24' 22.35\""
@@ -12458,7 +12444,7 @@
     simbad: "* 7 And"
     stellar_catalog: "7-andromedae"
 
-- id: 891
+- id: 890
   name: "L 10-21"
   ra: "23h 15m 57.18s"
   dec: "-81° 22' 21.40\""
@@ -12472,7 +12458,7 @@
     simbad: "L 10-21 A"
     stellar_catalog: "l-10-21-a"
 
-- id: 892
+- id: 891
   name: "HD 219538"
   ra: "23h 16m 18.16s"
   dec: "30° 40' 12.74\""
@@ -12486,7 +12472,7 @@
     simbad: "HD 219538"
     stellar_catalog: "hd-219538"
 
-- id: 893
+- id: 892
   name: "HD 219623"
   ra: "23h 16m 42.30s"
   dec: "53° 12' 48.51\""
@@ -12500,7 +12486,7 @@
     simbad: "HD 219623"
     stellar_catalog: "hd-219623"
 
-- id: 894
+- id: 893
   name: "HD 219482"
   ra: "23h 16m 57.69s"
   dec: "-62° 00' 04.31\""
@@ -12514,7 +12500,7 @@
     simbad: "HD 219482"
     stellar_catalog: "hd-219482"
 
-- id: 895
+- id: 894
   name: "Gamma Tucanae"
   ra: "23h 17m 25.76s"
   dec: "-58° 14' 08.52\""
@@ -12528,7 +12514,7 @@
     simbad: "* gam Tuc"
     stellar_catalog: "gamma-tucanae-a"
 
-- id: 896
+- id: 895
   name: "HD 220182"
   ra: "23h 21m 36.51s"
   dec: "44° 05' 52.37\""
@@ -12542,7 +12528,7 @@
     simbad: "HD 220182"
     stellar_catalog: "hd-220182"
 
-- id: 897
+- id: 896
   name: "HD 220221"
   ra: "23h 21m 44.45s"
   dec: "45° 10' 33.79\""
@@ -12556,7 +12542,7 @@
     simbad: "HD 220221"
     stellar_catalog: "hd-220221"
 
-- id: 898
+- id: 897
   name: "BD+00 5017"
   ra: "23h 35m 00.28s"
   dec: "01° 36' 19.43\""
@@ -12570,7 +12556,7 @@
     simbad: "BD%2B00 5017"
     stellar_catalog: "bd-00-5017"
 
-- id: 899
+- id: 898
   name: "HD 221851"
   ra: "23h 35m 25.61s"
   dec: "31° 09' 40.71\""
@@ -12584,7 +12570,7 @@
     simbad: "HD 221851"
     stellar_catalog: "hd-221851"
 
-- id: 900
+- id: 899
   name: "HD 222143"
   ra: "23h 37m 58.49s"
   dec: "46° 11' 57.96\""
@@ -12598,7 +12584,7 @@
     simbad: "HD 222143"
     stellar_catalog: "hd-222143"
 
-- id: 901
+- id: 900
   name: "BD-03 5691"
   ra: "23h 42m 10.64s"
   dec: "-02° 34' 36.18\""
@@ -12612,7 +12598,7 @@
     simbad: "BD-03 5691"
     stellar_catalog: "bd-03-5691"
 
-- id: 902
+- id: 901
   name: "BD+29 5007"
   ra: "23h 50m 27.86s"
   dec: "30° 21' 11.73\""
@@ -12626,7 +12612,7 @@
     simbad: "BD%2B29 5007"
     stellar_catalog: "bd-29-5007"
 
-- id: 903
+- id: 902
   name: "HD 224228"
   ra: "23h 56m 10.67s"
   dec: "-39° 03' 08.41\""
@@ -12640,7 +12626,7 @@
     simbad: "HD 224228"
     stellar_catalog: "hd-224228"
 
-- id: 904
+- id: 903
   name: "HD 224465"
   ra: "23h 58m 06.81s"
   dec: "50° 26' 51.63\""
@@ -12654,7 +12640,7 @@
     simbad: "HD 224465"
     stellar_catalog: "hd-224465"
 
-- id: 905
+- id: 904
   name: "HD 224607"
   ra: "23h 59m 13.70s"
   dec: "-26° 02' 55.49\""
@@ -12668,7 +12654,7 @@
     simbad: "HD 224607"
     stellar_catalog: "hd-224607"
 
-- id: 906
+- id: 905
   name: "HD 224660"
   ra: "23h 59m 47.79s"
   dec: "06° 39' 50.96\""
