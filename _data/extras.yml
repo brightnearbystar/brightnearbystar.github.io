@@ -82,6 +82,20 @@
     simbad: "AG%2B10 687"
     stellar_catalog: "ag-10-687"
 
+  name: "CD-61 1439"
+  ra: "06h 39m 50.02s"
+  dec: "-61° 28' 41.53\""
+  app_mag: "9.75"
+  abs_mag: "8.02"
+  stellar_class: "K7V(e)"
+  distance: "72.43"
+  parallax: "45.0333 [0.0116]"
+  reason: "Probable binary with HD 48189 (BNS 586)."
+  links:
+    wikipedia: ~
+    simbad: "CD-61 1439"
+    stellar_catalog: "cd-61-1439"
+
 - name: "BD-13 2439"
   ra: "08h 13m 08.46s"
   dec: "-13° 55' 01.12\""
@@ -104,7 +118,7 @@
   stellar_class: "F6V"
   distance: "79.39"
   parallax: "41.0816 [0.036]"
-  reason: "Probable binary with Delta Velorum (BNS 624)."
+  reason: "Probable binary with Delta Velorum (BNS 623)."
   links:
     wikipedia: "HD_76653"
     simbad: "HD 76653"
@@ -132,7 +146,7 @@
   stellar_class: "A5V+M3-4V"
   distance: "81.72"
   parallax: "39.91 [0.13]"
-  reason: "Probable binary with Zeta1 Ursae Majoris (BNS 705); Too far but within margin of error."
+  reason: "Probable binary with Zeta1 Ursae Majoris (BNS 704); Too far but within margin of error."
   links:
     wikipedia: "Alcor_(star)"
     simbad: "* g UMa"
@@ -152,6 +166,20 @@
     simbad: "HD 121271A"
     stellar_catalog: "hd-121271"
 
+  name: "HD 125354"
+  ra: "14h 18m 58.27s"
+  dec: "-06° 36' 12.97\""
+  app_mag: "9.11"
+  abs_mag: "7.35"
+  stellar_class: "K5"
+  distance: "73.5"
+  parallax: "44.3763 [0.7670]"
+  reason: "Probable binary with Iota Virginis (BNS 722)."
+  links:
+    wikipedia: ~
+    simbad: "HD 125354"
+    stellar_catalog: "hd-125354"
+
   name: "KU Librae"
   ra: "14h 40m 31.11s"
   dec: "-16° 12' 33.45\""
@@ -160,7 +188,7 @@
   stellar_class: "G8Vk:"
   distance: "77.4"
   parallax: "42.1376 [0.0273]"
-  reason: "Probable binary with Alpha2 Librae (BNS 736)."
+  reason: "Probable binary with Alpha2 Librae (BNS 734)."
   links:
     wikipedia: ~
     simbad: "V* KU Lib"
@@ -174,7 +202,7 @@
   stellar_class: "K3V"
   distance: "73.19"
   parallax: "44.5624 [0.0146]"
-  reason: "Probable binary with HD 139341 (BNS 748)."
+  reason: "Probable binary with HD 139341 (BNS 746)."
   links:
     wikipedia: ~
     simbad: "HD 139323"
@@ -202,7 +230,7 @@
   stellar_class: "K5V"
   distance: "68.42"
   parallax: "47.6711 [0.0162]"
-  reason: "Probable binary with 17 Cygni (BNS 815)."
+  reason: "Probable binary with 17 Cygni (BNS 813)."
   links:
     wikipedia: ~
     simbad: "HD 186858"
@@ -216,7 +244,7 @@
   stellar_class: "M0V"
   distance: "75.68"
   parallax: "43.1 [4.3]"
-  reason: "Simbad lacks a proper parallax measure."
+  reason: "Simbad lacks a proper parallax measure; possibly too dim."
   links:
     wikipedia: ~
     simbad: "BD%2B53 2911"
