@@ -82,7 +82,7 @@
     simbad: "AG%2B10 687"
     stellar_catalog: "ag-10-687"
 
-  name: "CD-61 1439"
+- name: "CD-61 1439"
   ra: "06h 39m 50.02s"
   dec: "-61° 28' 41.53\""
   app_mag: "9.75"
@@ -166,7 +166,7 @@
     simbad: "HD 121271A"
     stellar_catalog: "hd-121271"
 
-  name: "HD 125354"
+- name: "HD 125354"
   ra: "14h 18m 58.27s"
   dec: "-06° 36' 12.97\""
   app_mag: "9.11"
@@ -180,7 +180,7 @@
     simbad: "HD 125354"
     stellar_catalog: "hd-125354"
 
-  name: "KU Librae"
+- name: "KU Librae"
   ra: "14h 40m 31.11s"
   dec: "-16° 12' 33.45\""
   app_mag: "7.24"
