@@ -69,7 +69,7 @@
     stellar_catalog: "groombridge-1618"
 
 - id: 6
-  name: "Alpha Centauri"
+  name: "Alpha Centauri A & B"
   ra: "14h 39m 36.49s"
   dec: "-60° 50' 02.37\""
   app_mag: "0.01"
@@ -83,7 +83,7 @@
     stellar_catalog: "alpha-centauri-a"
 
 - id: 7
-  name: "61 Cygni"
+  name: "61 Cygni A & B"
   ra: "21h 06m 53.94s"
   dec: "38° 44' 57.90\""
   app_mag: "5.21"
@@ -181,7 +181,7 @@
     stellar_catalog: "mu-cassiopeiae-a"
 
 - id: 14
-  name: "p Eridani"
+  name: "p Eridani A & B"
   ra: "01h 39m 47.81s"
   dec: "-56° 11' 35.94\""
   app_mag: "5.69"
@@ -307,7 +307,7 @@
     stellar_catalog: "284-g-eridani"
 
 - id: 23
-  name: "Gamma Leporis"
+  name: "Gamma Leporis & AK Leporis"
   ra: "05h 44m 27.79s"
   dec: "-22° 26' 54.19\""
   app_mag: "3.6"
@@ -349,7 +349,7 @@
     stellar_catalog: "gliese-250-a"
 
 - id: 26
-  name: "Xi Ursae Majoris"
+  name: "Xi Ursae Majoris A & B"
   ra: "11h 18m 10.93s"
   dec: "31° 31' 45.44\""
   app_mag: "4.41"
@@ -461,7 +461,7 @@
     stellar_catalog: "61-virginis"
 
 - id: 34
-  name: "Xi Boötis"
+  name: "Xi Boötis A & B"
   ra: "14h 51m 23.39s"
   dec: "19° 06' 01.62\""
   app_mag: "4.66"
@@ -517,7 +517,7 @@
     stellar_catalog: "gliese-638"
 
 - id: 38
-  name: "36 Ophiuchi"
+  name: "36 Ophiuchi A, B & C"
   ra: "17h 15m 20.78s"
   dec: "-26° 36' 06.11\""
   app_mag: "5.08"
@@ -531,7 +531,7 @@
     stellar_catalog: "36-ophiuchi-a"
 
 - id: 39
-  name: "Gliese 667"
+  name: "Gliese 667 A & B"
   ra: "17h 18m 56.41s"
   dec: "-34° 59' 22.48\""
   app_mag: "6.37"
@@ -587,7 +587,7 @@
     stellar_catalog: "mu-herculis-aa"
 
 - id: 43
-  name: "70 Ophiuchi"
+  name: "70 Ophiuchi A & B"
   ra: "18h 05m 27.25s"
   dec: "02° 30' 00.53\""
   app_mag: "4.24"
@@ -601,7 +601,7 @@
     stellar_catalog: "70-ophiuchi-a"
 
 - id: 44
-  name: "Chi Draconis"
+  name: "Chi Draconis A & B"
   ra: "18h 21m 03.38s"
   dec: "72° 43' 58.25\""
   app_mag: "3.58"
@@ -713,7 +713,7 @@
     stellar_catalog: "gamma-pavonis"
 
 - id: 52
-  name: "Fomalhaut"
+  name: "Fomalhaut & TW Piscis Austrini"
   ra: "22h 57m 39.05s"
   dec: "-29° 37' 20.05\""
   app_mag: "1.16"
